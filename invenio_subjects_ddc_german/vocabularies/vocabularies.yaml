@@ -1,0 +1,7 @@
+subjects:
+  pid-type: sub
+  schemes:
+    - id: DDC-DE
+      data-file: subjects_ddc_german.yaml
+      name: Dewey Decimal Classification (Deutsch)
+      uri: "https://www.dnb.de/ddcuebersichten"

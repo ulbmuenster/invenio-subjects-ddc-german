@@ -1,0 +1,2703 @@
+- id: "https://www.dnb.de/ddcuebersichten/000"
+  scheme: DDC-DE
+  subject: "Informatik, Informationswissenschaft & allgemeine Werke"
+- id: "https://www.dnb.de/ddcuebersichten/001"
+  scheme: DDC-DE
+  subject: "Wissen"
+- id: "https://www.dnb.de/ddcuebersichten/002"
+  scheme: DDC-DE
+  subject: "Das Buch"
+- id: "https://www.dnb.de/ddcuebersichten/003"
+  scheme: DDC-DE
+  subject: "Systeme"
+- id: "https://www.dnb.de/ddcuebersichten/004"
+  scheme: DDC-DE
+  subject: "Informatik"
+- id: "https://www.dnb.de/ddcuebersichten/005"
+  scheme: DDC-DE
+  subject: "Computerprogrammierung, Computerprogramme & Daten"
+- id: "https://www.dnb.de/ddcuebersichten/006"
+  scheme: DDC-DE
+  subject: "Spezielle Computerverfahren"
+- id: "https://www.dnb.de/ddcuebersichten/010"
+  scheme: DDC-DE
+  subject: "Bibliografie"
+- id: "https://www.dnb.de/ddcuebersichten/011"
+  scheme: DDC-DE
+  subject: "Bibliografien & Kataloge"
+- id: "https://www.dnb.de/ddcuebersichten/012"
+  scheme: DDC-DE
+  subject: "Bibliografien & Kataloge von Einzelpersonen"
+- id: "https://www.dnb.de/ddcuebersichten/014"
+  scheme: DDC-DE
+  subject: "Anonymer & pseudonymer Werke"
+- id: "https://www.dnb.de/ddcuebersichten/015"
+  scheme: DDC-DE
+  subject: "Von Werken aus einzelnen Orten"
+- id: "https://www.dnb.de/ddcuebersichten/016"
+  scheme: DDC-DE
+  subject: "Von Werken über einzelne Themen"
+- id: "https://www.dnb.de/ddcuebersichten/017"
+  scheme: DDC-DE
+  subject: "Allgemeinbibliografien"
+- id: "https://www.dnb.de/ddcuebersichten/020"
+  scheme: DDC-DE
+  subject: "Bibliotheks- & Informationswissenschaften"
+- id: "https://www.dnb.de/ddcuebersichten/021"
+  scheme: DDC-DE
+  subject: "Beziehungen von Bibliotheken"
+- id: "https://www.dnb.de/ddcuebersichten/022"
+  scheme: DDC-DE
+  subject: "Verwaltung von Bibliotheksgebäuden und Bibliotheksstandorten"
+- id: "https://www.dnb.de/ddcuebersichten/023"
+  scheme: DDC-DE
+  subject: "Personalmanagement"
+- id: "https://www.dnb.de/ddcuebersichten/025"
+  scheme: DDC-DE
+  subject: "Tätigkeiten in Bibliotheken"
+- id: "https://www.dnb.de/ddcuebersichten/026"
+  scheme: DDC-DE
+  subject: "Fachgebiets- & themenspezifische Bibliotheken"
+- id: "https://www.dnb.de/ddcuebersichten/027"
+  scheme: DDC-DE
+  subject: "Allgemeinbibliotheken"
+- id: "https://www.dnb.de/ddcuebersichten/028"
+  scheme: DDC-DE
+  subject: "Lesen & Nutzung anderer Informationsmedien"
+- id: "https://www.dnb.de/ddcuebersichten/030"
+  scheme: DDC-DE
+  subject: "Allgemeinenzyklopädien"
+- id: "https://www.dnb.de/ddcuebersichten/031"
+  scheme: DDC-DE
+  subject: "Enzyklopädien in amerikanischem Englisch"
+- id: "https://www.dnb.de/ddcuebersichten/032"
+  scheme: DDC-DE
+  subject: "Enzyklopädien in Englisch"
+- id: "https://www.dnb.de/ddcuebersichten/033"
+  scheme: DDC-DE
+  subject: "In anderen germanischen Sprachen"
+- id: "https://www.dnb.de/ddcuebersichten/034"
+  scheme: DDC-DE
+  subject: "Enzyklopädien in Französisch, Okzitanisch & Katalanisch"
+- id: "https://www.dnb.de/ddcuebersichten/035"
+  scheme: DDC-DE
+  subject: "In Italienisch, Rumänisch & verwandten Sprachen"
+- id: "https://www.dnb.de/ddcuebersichten/036"
+  scheme: DDC-DE
+  subject: "Enzyklopädien in Spanisch, Portugiesisch & Galicisch"
+- id: "https://www.dnb.de/ddcuebersichten/037"
+  scheme: DDC-DE
+  subject: "Enzyklopädien in slawischen Sprachen"
+- id: "https://www.dnb.de/ddcuebersichten/038"
+  scheme: DDC-DE
+  subject: "Enzyklopädien in skandinavischen Sprachen"
+- id: "https://www.dnb.de/ddcuebersichten/039"
+  scheme: DDC-DE
+  subject: "Enzyklopädien in anderen Sprachen"
+- id: "https://www.dnb.de/ddcuebersichten/050"
+  scheme: DDC-DE
+  subject: "Magazine, Zeitschriften & fortlaufende Sammelwerke"
+- id: "https://www.dnb.de/ddcuebersichten/051"
+  scheme: DDC-DE
+  subject: "Fortlaufende Sammelwerke in amerikanischem Englisch"
+- id: "https://www.dnb.de/ddcuebersichten/052"
+  scheme: DDC-DE
+  subject: "Fortlaufende Sammelwerke in Englisch"
+- id: "https://www.dnb.de/ddcuebersichten/053"
+  scheme: DDC-DE
+  subject: "Fortlaufende Sammelwerke in anderen germanischen Sprachen"
+- id: "https://www.dnb.de/ddcuebersichten/054"
+  scheme: DDC-DE
+  subject: "Sammelwerke in Französisch, Okzitanisch & Katalanisch"
+- id: "https://www.dnb.de/ddcuebersichten/055"
+  scheme: DDC-DE
+  subject: "In Italienisch, Rumänisch & verwandten Sprachen"
+- id: "https://www.dnb.de/ddcuebersichten/056"
+  scheme: DDC-DE
+  subject: "Fortlaufende Sammelwerke in Spanisch, Portugiesisch & Galicisch"
+- id: "https://www.dnb.de/ddcuebersichten/057"
+  scheme: DDC-DE
+  subject: "Fortlaufende Sammelwerke in slawischen Sprachen"
+- id: "https://www.dnb.de/ddcuebersichten/058"
+  scheme: DDC-DE
+  subject: "Fortlaufende Sammelwerke in skandinavischen Sprachen"
+- id: "https://www.dnb.de/ddcuebersichten/059"
+  scheme: DDC-DE
+  subject: "Fortlaufende Sammelwerke in anderen Sprachen"
+- id: "https://www.dnb.de/ddcuebersichten/060"
+  scheme: DDC-DE
+  subject: "Allgemeine Organisationen & Museumswissenschaft"
+- id: "https://www.dnb.de/ddcuebersichten/061"
+  scheme: DDC-DE
+  subject: "Organisationen in Nordamerika"
+- id: "https://www.dnb.de/ddcuebersichten/062"
+  scheme: DDC-DE
+  subject: "Organisationen auf den Britischen Inseln"
+- id: "https://www.dnb.de/ddcuebersichten/063"
+  scheme: DDC-DE
+  subject: "Organisationen in Deutschland; in Mitteleuropa"
+- id: "https://www.dnb.de/ddcuebersichten/064"
+  scheme: DDC-DE
+  subject: "Organisationen in Frankreich & Monaco"
+- id: "https://www.dnb.de/ddcuebersichten/065"
+  scheme: DDC-DE
+  subject: "In Italien, San Marino, Vatikanstadt, Malta"
+- id: "https://www.dnb.de/ddcuebersichten/066"
+  scheme: DDC-DE
+  subject: "In Spanien, Andorra, Gibraltar, Portugal"
+- id: "https://www.dnb.de/ddcuebersichten/067"
+  scheme: DDC-DE
+  subject: "Organisationen in Russland; in Osteuropa"
+- id: "https://www.dnb.de/ddcuebersichten/068"
+  scheme: DDC-DE
+  subject: "Organisationen in anderen geografischen Gebieten"
+- id: "https://www.dnb.de/ddcuebersichten/069"
+  scheme: DDC-DE
+  subject: "Museumswissenschaft"
+- id: "https://www.dnb.de/ddcuebersichten/070"
+  scheme: DDC-DE
+  subject: "Publizistische Medien, Journalismus & Verlagswesen"
+- id: "https://www.dnb.de/ddcuebersichten/071"
+  scheme: DDC-DE
+  subject: "Zeitungen in Nordamerika"
+- id: "https://www.dnb.de/ddcuebersichten/072"
+  scheme: DDC-DE
+  subject: "Zeitungen auf den Britischen Inseln"
+- id: "https://www.dnb.de/ddcuebersichten/073"
+  scheme: DDC-DE
+  subject: "Zeitungen in Deutschland; in Mitteleuropa"
+- id: "https://www.dnb.de/ddcuebersichten/074"
+  scheme: DDC-DE
+  subject: "Zeitungen in Frankreich & Monaco"
+- id: "https://www.dnb.de/ddcuebersichten/075"
+  scheme: DDC-DE
+  subject: "In Italien, San Marino, Vatikanstadt, Malta"
+- id: "https://www.dnb.de/ddcuebersichten/076"
+  scheme: DDC-DE
+  subject: "In Spanien, Andorra, Gibraltar, Portugal"
+- id: "https://www.dnb.de/ddcuebersichten/077"
+  scheme: DDC-DE
+  subject: "Zeitungen in Russland; in Osteuropa"
+- id: "https://www.dnb.de/ddcuebersichten/078"
+  scheme: DDC-DE
+  subject: "Zeitungen in Skandinavien"
+- id: "https://www.dnb.de/ddcuebersichten/079"
+  scheme: DDC-DE
+  subject: "Zeitungen in anderen geografischen Gebieten"
+- id: "https://www.dnb.de/ddcuebersichten/080"
+  scheme: DDC-DE
+  subject: "Allgemeine Sammelwerke"
+- id: "https://www.dnb.de/ddcuebersichten/081"
+  scheme: DDC-DE
+  subject: "Sammelwerke in amerikanischem Englisch"
+- id: "https://www.dnb.de/ddcuebersichten/082"
+  scheme: DDC-DE
+  subject: "Sammelwerke in Englisch"
+- id: "https://www.dnb.de/ddcuebersichten/083"
+  scheme: DDC-DE
+  subject: "Sammelwerke in anderen germanischen Sprachen"
+- id: "https://www.dnb.de/ddcuebersichten/084"
+  scheme: DDC-DE
+  subject: "Sammelwerke in Französisch, Okzitanisch & Katalanisch"
+- id: "https://www.dnb.de/ddcuebersichten/085"
+  scheme: DDC-DE
+  subject: "In Italienisch, Rumänisch & verwandten Sprachen"
+- id: "https://www.dnb.de/ddcuebersichten/086"
+  scheme: DDC-DE
+  subject: "Sammelwerke in Spanisch, Portugiesisch & Galicisch"
+- id: "https://www.dnb.de/ddcuebersichten/087"
+  scheme: DDC-DE
+  subject: "Sammelwerke in slawischen Sprachen"
+- id: "https://www.dnb.de/ddcuebersichten/088"
+  scheme: DDC-DE
+  subject: "Sammelwerke in skandinavischen Sprachen"
+- id: "https://www.dnb.de/ddcuebersichten/089"
+  scheme: DDC-DE
+  subject: "Sammelwerke in anderen Sprachen"
+- id: "https://www.dnb.de/ddcuebersichten/090"
+  scheme: DDC-DE
+  subject: "Handschriften & seltene Bücher"
+- id: "https://www.dnb.de/ddcuebersichten/091"
+  scheme: DDC-DE
+  subject: "Handschriften"
+- id: "https://www.dnb.de/ddcuebersichten/092"
+  scheme: DDC-DE
+  subject: "Blockbücher"
+- id: "https://www.dnb.de/ddcuebersichten/093"
+  scheme: DDC-DE
+  subject: "Inkunabeln"
+- id: "https://www.dnb.de/ddcuebersichten/094"
+  scheme: DDC-DE
+  subject: "Gedruckte Bücher"
+- id: "https://www.dnb.de/ddcuebersichten/095"
+  scheme: DDC-DE
+  subject: "Bücher mit besonderem Einband"
+- id: "https://www.dnb.de/ddcuebersichten/096"
+  scheme: DDC-DE
+  subject: "Bücher mit besonderen Illustrationen"
+- id: "https://www.dnb.de/ddcuebersichten/097"
+  scheme: DDC-DE
+  subject: "Bücher aus besonderem Besitz oder besonderer Herkunft"
+- id: "https://www.dnb.de/ddcuebersichten/098"
+  scheme: DDC-DE
+  subject: "Verbotene Werke, Fälschungen & Scherzdrucke"
+- id: "https://www.dnb.de/ddcuebersichten/099"
+  scheme: DDC-DE
+  subject: "Bücher mit besonderem Format"
+- id: "https://www.dnb.de/ddcuebersichten/100"
+  scheme: DDC-DE
+  subject: "Philosophie und Psychologie"
+- id: "https://www.dnb.de/ddcuebersichten/101"
+  scheme: DDC-DE
+  subject: "Theorie der Philosophie"
+- id: "https://www.dnb.de/ddcuebersichten/102"
+  scheme: DDC-DE
+  subject: "Verschiedenes"
+- id: "https://www.dnb.de/ddcuebersichten/103"
+  scheme: DDC-DE
+  subject: "Wörterbücher, Enzyklopädien"
+- id: "https://www.dnb.de/ddcuebersichten/105"
+  scheme: DDC-DE
+  subject: "Fortlaufende Sammelwerke"
+- id: "https://www.dnb.de/ddcuebersichten/106"
+  scheme: DDC-DE
+  subject: "Organisationen, Management"
+- id: "https://www.dnb.de/ddcuebersichten/107"
+  scheme: DDC-DE
+  subject: "Ausbildung, Forschung, verwandte Themen"
+- id: "https://www.dnb.de/ddcuebersichten/108"
+  scheme: DDC-DE
+  subject: "Behandlung nach Personengruppen"
+- id: "https://www.dnb.de/ddcuebersichten/109"
+  scheme: DDC-DE
+  subject: "Historische Behandlung, Behandlung mehrerer Einzelpersonen"
+- id: "https://www.dnb.de/ddcuebersichten/110"
+  scheme: DDC-DE
+  subject: "Metaphysik"
+- id: "https://www.dnb.de/ddcuebersichten/111"
+  scheme: DDC-DE
+  subject: "Ontologie"
+- id: "https://www.dnb.de/ddcuebersichten/113"
+  scheme: DDC-DE
+  subject: "Kosmologie"
+- id: "https://www.dnb.de/ddcuebersichten/114"
+  scheme: DDC-DE
+  subject: "Raum"
+- id: "https://www.dnb.de/ddcuebersichten/115"
+  scheme: DDC-DE
+  subject: "Zeit"
+- id: "https://www.dnb.de/ddcuebersichten/116"
+  scheme: DDC-DE
+  subject: "Veränderung"
+- id: "https://www.dnb.de/ddcuebersichten/117"
+  scheme: DDC-DE
+  subject: "Struktur"
+- id: "https://www.dnb.de/ddcuebersichten/118"
+  scheme: DDC-DE
+  subject: "Kraft und Energie"
+- id: "https://www.dnb.de/ddcuebersichten/119"
+  scheme: DDC-DE
+  subject: "Zahl und Quantität"
+- id: "https://www.dnb.de/ddcuebersichten/120"
+  scheme: DDC-DE
+  subject: "Epistemologie, Kausalität, Menschheit"
+- id: "https://www.dnb.de/ddcuebersichten/121"
+  scheme: DDC-DE
+  subject: "Epistemologie"
+- id: "https://www.dnb.de/ddcuebersichten/122"
+  scheme: DDC-DE
+  subject: "Kausalität"
+- id: "https://www.dnb.de/ddcuebersichten/123"
+  scheme: DDC-DE
+  subject: "Determinismus, Indeterminismus"
+- id: "https://www.dnb.de/ddcuebersichten/124"
+  scheme: DDC-DE
+  subject: "Teleologie"
+- id: "https://www.dnb.de/ddcuebersichten/126"
+  scheme: DDC-DE
+  subject: "Das Selbst"
+- id: "https://www.dnb.de/ddcuebersichten/127"
+  scheme: DDC-DE
+  subject: "Das Unbewusste, das Unterbewusste"
+- id: "https://www.dnb.de/ddcuebersichten/128"
+  scheme: DDC-DE
+  subject: "Menschheit"
+- id: "https://www.dnb.de/ddcuebersichten/129"
+  scheme: DDC-DE
+  subject: "Ursprung und Schicksal individueller Seelen"
+- id: "https://www.dnb.de/ddcuebersichten/130"
+  scheme: DDC-DE
+  subject: "Parapsychologie und Okkultismus"
+- id: "https://www.dnb.de/ddcuebersichten/131"
+  scheme: DDC-DE
+  subject: "Parapsychologische und okkulte Techniken"
+- id: "https://www.dnb.de/ddcuebersichten/133"
+  scheme: DDC-DE
+  subject: "Einzelne Themen der Parapsychologie und des Okkultismus"
+- id: "https://www.dnb.de/ddcuebersichten/135"
+  scheme: DDC-DE
+  subject: "Träume, Mysterien"
+- id: "https://www.dnb.de/ddcuebersichten/137"
+  scheme: DDC-DE
+  subject: "Divinatorische Graphologie"
+- id: "https://www.dnb.de/ddcuebersichten/138"
+  scheme: DDC-DE
+  subject: "Physiognomie"
+- id: "https://www.dnb.de/ddcuebersichten/139"
+  scheme: DDC-DE
+  subject: "Phrenologie"
+- id: "https://www.dnb.de/ddcuebersichten/140"
+  scheme: DDC-DE
+  subject: "Einzelne philosophische Schulen"
+- id: "https://www.dnb.de/ddcuebersichten/141"
+  scheme: DDC-DE
+  subject: "Idealismus und verwandte Systeme"
+- id: "https://www.dnb.de/ddcuebersichten/142"
+  scheme: DDC-DE
+  subject: "Kritizismus"
+- id: "https://www.dnb.de/ddcuebersichten/143"
+  scheme: DDC-DE
+  subject: "Bergsonismus, Intuitionismus"
+- id: "https://www.dnb.de/ddcuebersichten/144"
+  scheme: DDC-DE
+  subject: "Humanismus und verwandte Systeme"
+- id: "https://www.dnb.de/ddcuebersichten/145"
+  scheme: DDC-DE
+  subject: "Sensualismus"
+- id: "https://www.dnb.de/ddcuebersichten/146"
+  scheme: DDC-DE
+  subject: "Naturalismus und verwandte Systeme"
+- id: "https://www.dnb.de/ddcuebersichten/147"
+  scheme: DDC-DE
+  subject: "Pantheismus und verwandte Systeme"
+- id: "https://www.dnb.de/ddcuebersichten/148"
+  scheme: DDC-DE
+  subject: "Eklektizismus, Liberalismus, Traditionalismus"
+- id: "https://www.dnb.de/ddcuebersichten/150"
+  scheme: DDC-DE
+  subject: "Psychologie"
+- id: "https://www.dnb.de/ddcuebersichten/152"
+  scheme: DDC-DE
+  subject: "Sinneswahrnehmung, Bewegung, Emotionen, Triebe"
+- id: "https://www.dnb.de/ddcuebersichten/153"
+  scheme: DDC-DE
+  subject: "Kognitive Prozesse, Intelligenz"
+- id: "https://www.dnb.de/ddcuebersichten/154"
+  scheme: DDC-DE
+  subject: "Unterbewusste und bewusstseinsveränderte Zustände"
+- id: "https://www.dnb.de/ddcuebersichten/155"
+  scheme: DDC-DE
+  subject: "Differentielle Psychologie, Entwicklungspsychologie"
+- id: "https://www.dnb.de/ddcuebersichten/156"
+  scheme: DDC-DE
+  subject: "Vergleichende Psychologie"
+- id: "https://www.dnb.de/ddcuebersichten/158"
+  scheme: DDC-DE
+  subject: "Angewandte Psychologie"
+- id: "https://www.dnb.de/ddcuebersichten/160"
+  scheme: DDC-DE
+  subject: "Logik"
+- id: "https://www.dnb.de/ddcuebersichten/161"
+  scheme: DDC-DE
+  subject: "Induktion"
+- id: "https://www.dnb.de/ddcuebersichten/162"
+  scheme: DDC-DE
+  subject: "Deduktion"
+- id: "https://www.dnb.de/ddcuebersichten/165"
+  scheme: DDC-DE
+  subject: "Fehlschlüsse, Fehlerquellen"
+- id: "https://www.dnb.de/ddcuebersichten/166"
+  scheme: DDC-DE
+  subject: "Syllogismen"
+- id: "https://www.dnb.de/ddcuebersichten/167"
+  scheme: DDC-DE
+  subject: "Hypothesen"
+- id: "https://www.dnb.de/ddcuebersichten/168"
+  scheme: DDC-DE
+  subject: "Argument, Überzeugungung"
+- id: "https://www.dnb.de/ddcuebersichten/169"
+  scheme: DDC-DE
+  subject: "Analogie"
+- id: "https://www.dnb.de/ddcuebersichten/170"
+  scheme: DDC-DE
+  subject: "Ethik"
+- id: "https://www.dnb.de/ddcuebersichten/171"
+  scheme: DDC-DE
+  subject: "Ethische Systeme"
+- id: "https://www.dnb.de/ddcuebersichten/172"
+  scheme: DDC-DE
+  subject: "Politische Ethik"
+- id: "https://www.dnb.de/ddcuebersichten/173"
+  scheme: DDC-DE
+  subject: "Familienethik"
+- id: "https://www.dnb.de/ddcuebersichten/174"
+  scheme: DDC-DE
+  subject: "Berufsethik"
+- id: "https://www.dnb.de/ddcuebersichten/175"
+  scheme: DDC-DE
+  subject: "Ethik von Freizeit und Erholung"
+- id: "https://www.dnb.de/ddcuebersichten/176"
+  scheme: DDC-DE
+  subject: "Sexual- und Reproduktionsethik"
+- id: "https://www.dnb.de/ddcuebersichten/177"
+  scheme: DDC-DE
+  subject: "Ethik sozialer Beziehungen"
+- id: "https://www.dnb.de/ddcuebersichten/178"
+  scheme: DDC-DE
+  subject: "Konsumethik"
+- id: "https://www.dnb.de/ddcuebersichten/179"
+  scheme: DDC-DE
+  subject: "Andere ethische Normen"
+- id: "https://www.dnb.de/ddcuebersichten/180"
+  scheme: DDC-DE
+  subject: "Antike, mittelalterliche und östliche Philosophie"
+- id: "https://www.dnb.de/ddcuebersichten/181"
+  scheme: DDC-DE
+  subject: "Östliche Philosophie"
+- id: "https://www.dnb.de/ddcuebersichten/182"
+  scheme: DDC-DE
+  subject: "Vorsokratische griechische Philosophien"
+- id: "https://www.dnb.de/ddcuebersichten/183"
+  scheme: DDC-DE
+  subject: "Sokratische und verwandte Philosophien"
+- id: "https://www.dnb.de/ddcuebersichten/184"
+  scheme: DDC-DE
+  subject: "Platonische Philosophie"
+- id: "https://www.dnb.de/ddcuebersichten/185"
+  scheme: DDC-DE
+  subject: "Aristotelische Philosophie"
+- id: "https://www.dnb.de/ddcuebersichten/186"
+  scheme: DDC-DE
+  subject: "Skeptische und neuplatonische Philosophien"
+- id: "https://www.dnb.de/ddcuebersichten/187"
+  scheme: DDC-DE
+  subject: "Epikureische Philosophie"
+- id: "https://www.dnb.de/ddcuebersichten/188"
+  scheme: DDC-DE
+  subject: "Stoische Philosophie"
+- id: "https://www.dnb.de/ddcuebersichten/189"
+  scheme: DDC-DE
+  subject: "Mittelalterliche westliche Philosophie"
+- id: "https://www.dnb.de/ddcuebersichten/190"
+  scheme: DDC-DE
+  subject: "Neuzeitliche westliche Philosophie"
+- id: "https://www.dnb.de/ddcuebersichten/191"
+  scheme: DDC-DE
+  subject: "Philosophie in den USA und Kanada"
+- id: "https://www.dnb.de/ddcuebersichten/192"
+  scheme: DDC-DE
+  subject: "Philosophie auf den Britischen Inseln"
+- id: "https://www.dnb.de/ddcuebersichten/193"
+  scheme: DDC-DE
+  subject: "Philosophie in Deutschland und Österreich"
+- id: "https://www.dnb.de/ddcuebersichten/194"
+  scheme: DDC-DE
+  subject: "Philosophie in Frankreich"
+- id: "https://www.dnb.de/ddcuebersichten/195"
+  scheme: DDC-DE
+  subject: "Philosophie in Italien"
+- id: "https://www.dnb.de/ddcuebersichten/196"
+  scheme: DDC-DE
+  subject: "Philosophie in Spanien und Portugal"
+- id: "https://www.dnb.de/ddcuebersichten/197"
+  scheme: DDC-DE
+  subject: "Philosophie in Russland und der früheren Sowjetunion"
+- id: "https://www.dnb.de/ddcuebersichten/198"
+  scheme: DDC-DE
+  subject: "Philosophie in Skandinavien"
+- id: "https://www.dnb.de/ddcuebersichten/199"
+  scheme: DDC-DE
+  subject: "Philosophie in anderen geografischen Gebieten"
+- id: "https://www.dnb.de/ddcuebersichten/200"
+  scheme: DDC-DE
+  subject: "Religion"
+- id: "https://www.dnb.de/ddcuebersichten/201"
+  scheme: DDC-DE
+  subject: "Religiöse Mythologie, Soziallehre"
+- id: "https://www.dnb.de/ddcuebersichten/202"
+  scheme: DDC-DE
+  subject: "Lehren"
+- id: "https://www.dnb.de/ddcuebersichten/203"
+  scheme: DDC-DE
+  subject: "Gottesdienst und andere Formen der öffentlichen Religionsausübung"
+- id: "https://www.dnb.de/ddcuebersichten/204"
+  scheme: DDC-DE
+  subject: "Religiöse Erfahrung, religiöses Leben, religiöse Praxis"
+- id: "https://www.dnb.de/ddcuebersichten/205"
+  scheme: DDC-DE
+  subject: "Religiöse Ethik"
+- id: "https://www.dnb.de/ddcuebersichten/206"
+  scheme: DDC-DE
+  subject: "Religiöse Führer und Organisation"
+- id: "https://www.dnb.de/ddcuebersichten/207"
+  scheme: DDC-DE
+  subject: "Mission, religiöse Erziehung"
+- id: "https://www.dnb.de/ddcuebersichten/208"
+  scheme: DDC-DE
+  subject: "Quellen"
+- id: "https://www.dnb.de/ddcuebersichten/209"
+  scheme: DDC-DE
+  subject: "Sekten, Reformbewegungen"
+- id: "https://www.dnb.de/ddcuebersichten/210"
+  scheme: DDC-DE
+  subject: "Religionsphilosophie, Religionstheorie"
+- id: "https://www.dnb.de/ddcuebersichten/211"
+  scheme: DDC-DE
+  subject: "Gottesvorstellungen"
+- id: "https://www.dnb.de/ddcuebersichten/212"
+  scheme: DDC-DE
+  subject: "Gottesfrage, Gotteserkenntnis, Eigenschaften Gottes"
+- id: "https://www.dnb.de/ddcuebersichten/213"
+  scheme: DDC-DE
+  subject: "Schöpfung"
+- id: "https://www.dnb.de/ddcuebersichten/214"
+  scheme: DDC-DE
+  subject: "Theodizee"
+- id: "https://www.dnb.de/ddcuebersichten/215"
+  scheme: DDC-DE
+  subject: "Naturwissenschaft und Religion"
+- id: "https://www.dnb.de/ddcuebersichten/218"
+  scheme: DDC-DE
+  subject: "Der Mensch"
+- id: "https://www.dnb.de/ddcuebersichten/220"
+  scheme: DDC-DE
+  subject: "Bibel"
+- id: "https://www.dnb.de/ddcuebersichten/221"
+  scheme: DDC-DE
+  subject: "Altes Testament (Tenach)"
+- id: "https://www.dnb.de/ddcuebersichten/222"
+  scheme: DDC-DE
+  subject: "Geschichtsbücher des Alten Testaments"
+- id: "https://www.dnb.de/ddcuebersichten/223"
+  scheme: DDC-DE
+  subject: "Poetische Bücher des Alten Testaments"
+- id: "https://www.dnb.de/ddcuebersichten/224"
+  scheme: DDC-DE
+  subject: "Prophetische Bücher des Alten Testaments"
+- id: "https://www.dnb.de/ddcuebersichten/225"
+  scheme: DDC-DE
+  subject: "Neues Testament"
+- id: "https://www.dnb.de/ddcuebersichten/226"
+  scheme: DDC-DE
+  subject: "Evangelien, Apostelgeschichte"
+- id: "https://www.dnb.de/ddcuebersichten/227"
+  scheme: DDC-DE
+  subject: "Briefe"
+- id: "https://www.dnb.de/ddcuebersichten/228"
+  scheme: DDC-DE
+  subject: "Johannes-Apokalypse (Offenbarung des Johannes)"
+- id: "https://www.dnb.de/ddcuebersichten/229"
+  scheme: DDC-DE
+  subject: "Apokryphen, Pseudepigraphen"
+- id: "https://www.dnb.de/ddcuebersichten/230"
+  scheme: DDC-DE
+  subject: "Christentum, Christliche Theologie"
+- id: "https://www.dnb.de/ddcuebersichten/231"
+  scheme: DDC-DE
+  subject: "Gott"
+- id: "https://www.dnb.de/ddcuebersichten/232"
+  scheme: DDC-DE
+  subject: "Jesus Christus und seine Familie"
+- id: "https://www.dnb.de/ddcuebersichten/233"
+  scheme: DDC-DE
+  subject: "Der Mensch"
+- id: "https://www.dnb.de/ddcuebersichten/234"
+  scheme: DDC-DE
+  subject: "Erlösung, Gnade"
+- id: "https://www.dnb.de/ddcuebersichten/235"
+  scheme: DDC-DE
+  subject: "Geistliche Wesen"
+- id: "https://www.dnb.de/ddcuebersichten/236"
+  scheme: DDC-DE
+  subject: "Eschatologie"
+- id: "https://www.dnb.de/ddcuebersichten/238"
+  scheme: DDC-DE
+  subject: "Glaubensbekenntnisse, Katechismen"
+- id: "https://www.dnb.de/ddcuebersichten/239"
+  scheme: DDC-DE
+  subject: "Apologetik, Polemik"
+- id: "https://www.dnb.de/ddcuebersichten/240"
+  scheme: DDC-DE
+  subject: "Christliche Ethik, spirituelle Theologie"
+- id: "https://www.dnb.de/ddcuebersichten/241"
+  scheme: DDC-DE
+  subject: "Christliche Ethik"
+- id: "https://www.dnb.de/ddcuebersichten/242"
+  scheme: DDC-DE
+  subject: "Erbauungsliteratur"
+- id: "https://www.dnb.de/ddcuebersichten/243"
+  scheme: DDC-DE
+  subject: "Evangelistisches Schrifttum für Einzelpersonen"
+- id: "https://www.dnb.de/ddcuebersichten/246"
+  scheme: DDC-DE
+  subject: "Kunst im Christentum"
+- id: "https://www.dnb.de/ddcuebersichten/247"
+  scheme: DDC-DE
+  subject: "Kirchenausstattung, liturgisches Gerät"
+- id: "https://www.dnb.de/ddcuebersichten/248"
+  scheme: DDC-DE
+  subject: "Christliche Erfahrung, christliche Praxis, christliches Leben"
+- id: "https://www.dnb.de/ddcuebersichten/249"
+  scheme: DDC-DE
+  subject: "Christliches Leben in der Familie"
+- id: "https://www.dnb.de/ddcuebersichten/250"
+  scheme: DDC-DE
+  subject: "Christliche Orden und Ortskirchen"
+- id: "https://www.dnb.de/ddcuebersichten/251"
+  scheme: DDC-DE
+  subject: "Homiletik"
+- id: "https://www.dnb.de/ddcuebersichten/252"
+  scheme: DDC-DE
+  subject: "Predigttexte"
+- id: "https://www.dnb.de/ddcuebersichten/253"
+  scheme: DDC-DE
+  subject: "Pastoraltheologie"
+- id: "https://www.dnb.de/ddcuebersichten/254"
+  scheme: DDC-DE
+  subject: "Gemeindeverwaltung"
+- id: "https://www.dnb.de/ddcuebersichten/255"
+  scheme: DDC-DE
+  subject: "Religiöse Kongregationen und Orden"
+- id: "https://www.dnb.de/ddcuebersichten/259"
+  scheme: DDC-DE
+  subject: "Familienseelsorge, Kategorialseelsorge"
+- id: "https://www.dnb.de/ddcuebersichten/260"
+  scheme: DDC-DE
+  subject: "Soziallehre, Ekklesiologie"
+- id: "https://www.dnb.de/ddcuebersichten/261"
+  scheme: DDC-DE
+  subject: "Soziallehre"
+- id: "https://www.dnb.de/ddcuebersichten/262"
+  scheme: DDC-DE
+  subject: "Ekklesiologie"
+- id: "https://www.dnb.de/ddcuebersichten/263"
+  scheme: DDC-DE
+  subject: "Heilige Tage, Zeiten und Orte"
+- id: "https://www.dnb.de/ddcuebersichten/264"
+  scheme: DDC-DE
+  subject: "Öffentliche Religionsausübung"
+- id: "https://www.dnb.de/ddcuebersichten/265"
+  scheme: DDC-DE
+  subject: "Sakramente, andere Riten und Handlungen"
+- id: "https://www.dnb.de/ddcuebersichten/266"
+  scheme: DDC-DE
+  subject: "Mission"
+- id: "https://www.dnb.de/ddcuebersichten/267"
+  scheme: DDC-DE
+  subject: "Religiöse Verbände"
+- id: "https://www.dnb.de/ddcuebersichten/268"
+  scheme: DDC-DE
+  subject: "Religiöse Erziehung"
+- id: "https://www.dnb.de/ddcuebersichten/269"
+  scheme: DDC-DE
+  subject: "Geistliche Erneuerung"
+- id: "https://www.dnb.de/ddcuebersichten/270"
+  scheme: DDC-DE
+  subject: "Geschichte des Christentums, Kirchengeschichte"
+- id: "https://www.dnb.de/ddcuebersichten/271"
+  scheme: DDC-DE
+  subject: "Religiöse Orden in der Kirchengeschichte"
+- id: "https://www.dnb.de/ddcuebersichten/272"
+  scheme: DDC-DE
+  subject: "Verfolgung in der Kirchengeschichte"
+- id: "https://www.dnb.de/ddcuebersichten/273"
+  scheme: DDC-DE
+  subject: "Dogmatische Kontroversen, Häresie"
+- id: "https://www.dnb.de/ddcuebersichten/274"
+  scheme: DDC-DE
+  subject: "Geschichte des Christentums in Europa"
+- id: "https://www.dnb.de/ddcuebersichten/275"
+  scheme: DDC-DE
+  subject: "Geschichte des Christentums in Asien"
+- id: "https://www.dnb.de/ddcuebersichten/276"
+  scheme: DDC-DE
+  subject: "Geschichte des Christentums in Afrika"
+- id: "https://www.dnb.de/ddcuebersichten/277"
+  scheme: DDC-DE
+  subject: "Geschichte des Christentums in Nordamerika"
+- id: "https://www.dnb.de/ddcuebersichten/278"
+  scheme: DDC-DE
+  subject: "Geschichte des Christentums in Südamerika"
+- id: "https://www.dnb.de/ddcuebersichten/279"
+  scheme: DDC-DE
+  subject: "Geschichte des Christentums in anderen Gebieten"
+- id: "https://www.dnb.de/ddcuebersichten/280"
+  scheme: DDC-DE
+  subject: "Christliche Konfessionen und Sekten"
+- id: "https://www.dnb.de/ddcuebersichten/281"
+  scheme: DDC-DE
+  subject: "Alte Kirche, Ostkirchen"
+- id: "https://www.dnb.de/ddcuebersichten/282"
+  scheme: DDC-DE
+  subject: "Römisch-Katholische Kirche"
+- id: "https://www.dnb.de/ddcuebersichten/283"
+  scheme: DDC-DE
+  subject: "Anglikanische Kirchen"
+- id: "https://www.dnb.de/ddcuebersichten/284"
+  scheme: DDC-DE
+  subject: "Protestanten kontinentaleuropäischen Ursprungs"
+- id: "https://www.dnb.de/ddcuebersichten/285"
+  scheme: DDC-DE
+  subject: "Presbyterianer, Reformierte, Kongregationalisten"
+- id: "https://www.dnb.de/ddcuebersichten/286"
+  scheme: DDC-DE
+  subject: "Baptisten, Christ, Adventisten"
+- id: "https://www.dnb.de/ddcuebersichten/287"
+  scheme: DDC-DE
+  subject: "Methodisten und verwandte Kirchen"
+- id: "https://www.dnb.de/ddcuebersichten/289"
+  scheme: DDC-DE
+  subject: "Andere Konfessionen und Sekten"
+- id: "https://www.dnb.de/ddcuebersichten/290"
+  scheme: DDC-DE
+  subject: "Andere Religionen"
+- id: "https://www.dnb.de/ddcuebersichten/292"
+  scheme: DDC-DE
+  subject: "Griechische und römische Religion"
+- id: "https://www.dnb.de/ddcuebersichten/293"
+  scheme: DDC-DE
+  subject: "Germanische Religion"
+- id: "https://www.dnb.de/ddcuebersichten/294"
+  scheme: DDC-DE
+  subject: "Religionen indischen Ursprungs"
+- id: "https://www.dnb.de/ddcuebersichten/295"
+  scheme: DDC-DE
+  subject: "Parsismus"
+- id: "https://www.dnb.de/ddcuebersichten/296"
+  scheme: DDC-DE
+  subject: "Judentum"
+- id: "https://www.dnb.de/ddcuebersichten/297"
+  scheme: DDC-DE
+  subject: "Islam, Babismus, Bahaismus"
+- id: "https://www.dnb.de/ddcuebersichten/299"
+  scheme: DDC-DE
+  subject: "An anderer Stelle nicht vorgesehene Religionen"
+- id: "https://www.dnb.de/ddcuebersichten/300"
+  scheme: DDC-DE
+  subject: "Sozialwissenschaften"
+- id: "https://www.dnb.de/ddcuebersichten/301"
+  scheme: DDC-DE
+  subject: "Soziologie, Anthropologie"
+- id: "https://www.dnb.de/ddcuebersichten/302"
+  scheme: DDC-DE
+  subject: "Soziale Interaktion"
+- id: "https://www.dnb.de/ddcuebersichten/303"
+  scheme: DDC-DE
+  subject: "Gesellschaftliche Prozesse"
+- id: "https://www.dnb.de/ddcuebersichten/304"
+  scheme: DDC-DE
+  subject: "Das Sozialverhalten beeinflussende Faktoren"
+- id: "https://www.dnb.de/ddcuebersichten/305"
+  scheme: DDC-DE
+  subject: "Soziale Gruppen"
+- id: "https://www.dnb.de/ddcuebersichten/306"
+  scheme: DDC-DE
+  subject: "Kultur und Institutionen"
+- id: "https://www.dnb.de/ddcuebersichten/307"
+  scheme: DDC-DE
+  subject: "Gemeinschaften"
+- id: "https://www.dnb.de/ddcuebersichten/310"
+  scheme: DDC-DE
+  subject: "Sammlungen allgemeiner Statistiken"
+- id: "https://www.dnb.de/ddcuebersichten/314"
+  scheme: DDC-DE
+  subject: "Allgemeine Statistiken zu Europa"
+- id: "https://www.dnb.de/ddcuebersichten/315"
+  scheme: DDC-DE
+  subject: "Allgemeine Statistiken zu Asien"
+- id: "https://www.dnb.de/ddcuebersichten/316"
+  scheme: DDC-DE
+  subject: "Allgemeine Statistiken zu Afrika"
+- id: "https://www.dnb.de/ddcuebersichten/317"
+  scheme: DDC-DE
+  subject: "Allgemeine Statistiken zu Nordamerika"
+- id: "https://www.dnb.de/ddcuebersichten/318"
+  scheme: DDC-DE
+  subject: "Allgemeine Statistiken zu Südamerika"
+- id: "https://www.dnb.de/ddcuebersichten/319"
+  scheme: DDC-DE
+  subject: "Allgemeine Statistiken zu anderen Gebieten"
+- id: "https://www.dnb.de/ddcuebersichten/320"
+  scheme: DDC-DE
+  subject: "Politikwissenschaft"
+- id: "https://www.dnb.de/ddcuebersichten/321"
+  scheme: DDC-DE
+  subject: "Staatsformen und Regierungssysteme"
+- id: "https://www.dnb.de/ddcuebersichten/322"
+  scheme: DDC-DE
+  subject: "Beziehungen des Staats zu organisierten Gruppen"
+- id: "https://www.dnb.de/ddcuebersichten/323"
+  scheme: DDC-DE
+  subject: "Grundrechte und politische Rechte"
+- id: "https://www.dnb.de/ddcuebersichten/324"
+  scheme: DDC-DE
+  subject: "Der politische Prozess"
+- id: "https://www.dnb.de/ddcuebersichten/325"
+  scheme: DDC-DE
+  subject: "Internationale Migration, Kolonisation"
+- id: "https://www.dnb.de/ddcuebersichten/326"
+  scheme: DDC-DE
+  subject: "Sklaverei und Sklavenbefreiung"
+- id: "https://www.dnb.de/ddcuebersichten/327"
+  scheme: DDC-DE
+  subject: "Internationale Beziehungen"
+- id: "https://www.dnb.de/ddcuebersichten/328"
+  scheme: DDC-DE
+  subject: "Der Gesetzgebungsprozess"
+- id: "https://www.dnb.de/ddcuebersichten/330"
+  scheme: DDC-DE
+  subject: "Wirtschaft"
+- id: "https://www.dnb.de/ddcuebersichten/331"
+  scheme: DDC-DE
+  subject: "Arbeitsökonomie"
+- id: "https://www.dnb.de/ddcuebersichten/332"
+  scheme: DDC-DE
+  subject: "Finanzwirtschaft"
+- id: "https://www.dnb.de/ddcuebersichten/333"
+  scheme: DDC-DE
+  subject: "Boden- und Energiewirtschaft"
+- id: "https://www.dnb.de/ddcuebersichten/334"
+  scheme: DDC-DE
+  subject: "Genossenschaften"
+- id: "https://www.dnb.de/ddcuebersichten/335"
+  scheme: DDC-DE
+  subject: "Sozialismus und verwandte Systeme"
+- id: "https://www.dnb.de/ddcuebersichten/336"
+  scheme: DDC-DE
+  subject: "Öffentliche Finanzen"
+- id: "https://www.dnb.de/ddcuebersichten/337"
+  scheme: DDC-DE
+  subject: "Weltwirtschaft"
+- id: "https://www.dnb.de/ddcuebersichten/338"
+  scheme: DDC-DE
+  subject: "Produktion"
+- id: "https://www.dnb.de/ddcuebersichten/339"
+  scheme: DDC-DE
+  subject: "Makroökonomie und verwandte Themen"
+- id: "https://www.dnb.de/ddcuebersichten/340"
+  scheme: DDC-DE
+  subject: "Recht"
+- id: "https://www.dnb.de/ddcuebersichten/341"
+  scheme: DDC-DE
+  subject: "Völkerrecht"
+- id: "https://www.dnb.de/ddcuebersichten/342"
+  scheme: DDC-DE
+  subject: "Verfassungs- und Verwaltungsrecht"
+- id: "https://www.dnb.de/ddcuebersichten/343"
+  scheme: DDC-DE
+  subject: "Wehrrecht, Steuerrecht, Wirtschaftsrecht"
+- id: "https://www.dnb.de/ddcuebersichten/344"
+  scheme: DDC-DE
+  subject: "Arbeitsrecht, Sozialrecht, Bildungsrecht, Kulturrecht"
+- id: "https://www.dnb.de/ddcuebersichten/345"
+  scheme: DDC-DE
+  subject: "Strafrecht"
+- id: "https://www.dnb.de/ddcuebersichten/346"
+  scheme: DDC-DE
+  subject: "Privatrecht"
+- id: "https://www.dnb.de/ddcuebersichten/347"
+  scheme: DDC-DE
+  subject: "Zivilprozessrecht, Zivilgerichte"
+- id: "https://www.dnb.de/ddcuebersichten/348"
+  scheme: DDC-DE
+  subject: "Gesetze, Verordnungen, Rechtsfälle"
+- id: "https://www.dnb.de/ddcuebersichten/349"
+  scheme: DDC-DE
+  subject: "Recht einzelner Gebietskörperschaften und Gebiete"
+- id: "https://www.dnb.de/ddcuebersichten/350"
+  scheme: DDC-DE
+  subject: "Öffentliche Verwaltung, Militärwissenschaft"
+- id: "https://www.dnb.de/ddcuebersichten/351"
+  scheme: DDC-DE
+  subject: "Öffentliche Verwaltung"
+- id: "https://www.dnb.de/ddcuebersichten/352"
+  scheme: DDC-DE
+  subject: "Allgemeines zur öffentlichen Verwaltung"
+- id: "https://www.dnb.de/ddcuebersichten/353"
+  scheme: DDC-DE
+  subject: "Einzelne Bereiche der öffentlichen Verwaltung"
+- id: "https://www.dnb.de/ddcuebersichten/354"
+  scheme: DDC-DE
+  subject: "Verwaltung von Wirtschaft und Umwelt"
+- id: "https://www.dnb.de/ddcuebersichten/355"
+  scheme: DDC-DE
+  subject: "Militärwissenschaft"
+- id: "https://www.dnb.de/ddcuebersichten/356"
+  scheme: DDC-DE
+  subject: "Infanterie und Kampfführung"
+- id: "https://www.dnb.de/ddcuebersichten/357"
+  scheme: DDC-DE
+  subject: "Kavalleriestreitkräfte und Kampfführung"
+- id: "https://www.dnb.de/ddcuebersichten/358"
+  scheme: DDC-DE
+  subject: "Luftstreitkräfte und andere spezialisierte Streitkräfte"
+- id: "https://www.dnb.de/ddcuebersichten/359"
+  scheme: DDC-DE
+  subject: "Seestreitkräfte und Kampfführung"
+- id: "https://www.dnb.de/ddcuebersichten/360"
+  scheme: DDC-DE
+  subject: "Soziale Probleme und Sozialdienste; Verbände"
+- id: "https://www.dnb.de/ddcuebersichten/361"
+  scheme: DDC-DE
+  subject: "Soziale Probleme und Sozialhilfe im Allgemeinen"
+- id: "https://www.dnb.de/ddcuebersichten/362"
+  scheme: DDC-DE
+  subject: "Probleme und Dienste der Sozialhilfe"
+- id: "https://www.dnb.de/ddcuebersichten/363"
+  scheme: DDC-DE
+  subject: "Andere soziale Probleme und Sozialdienste"
+- id: "https://www.dnb.de/ddcuebersichten/364"
+  scheme: DDC-DE
+  subject: "Kriminologie"
+- id: "https://www.dnb.de/ddcuebersichten/365"
+  scheme: DDC-DE
+  subject: "Justizvollzugsanstalten und verwandte Einrichtungen"
+- id: "https://www.dnb.de/ddcuebersichten/366"
+  scheme: DDC-DE
+  subject: "Verbände"
+- id: "https://www.dnb.de/ddcuebersichten/367"
+  scheme: DDC-DE
+  subject: "Allgemeine Klubs"
+- id: "https://www.dnb.de/ddcuebersichten/368"
+  scheme: DDC-DE
+  subject: "Versicherungen"
+- id: "https://www.dnb.de/ddcuebersichten/369"
+  scheme: DDC-DE
+  subject: "Verschiedene Arten von Verbänden"
+- id: "https://www.dnb.de/ddcuebersichten/370"
+  scheme: DDC-DE
+  subject: "Bildung und Erziehung"
+- id: "https://www.dnb.de/ddcuebersichten/371"
+  scheme: DDC-DE
+  subject: "Schulen, schulische Tätigkeiten; Sonderpädagogik"
+- id: "https://www.dnb.de/ddcuebersichten/372"
+  scheme: DDC-DE
+  subject: "Primar- und Elementarbildung"
+- id: "https://www.dnb.de/ddcuebersichten/373"
+  scheme: DDC-DE
+  subject: "Sekundarbildung"
+- id: "https://www.dnb.de/ddcuebersichten/374"
+  scheme: DDC-DE
+  subject: "Erwachsenenbildung"
+- id: "https://www.dnb.de/ddcuebersichten/375"
+  scheme: DDC-DE
+  subject: "Curricula"
+- id: "https://www.dnb.de/ddcuebersichten/378"
+  scheme: DDC-DE
+  subject: "Hochschulbildung"
+- id: "https://www.dnb.de/ddcuebersichten/379"
+  scheme: DDC-DE
+  subject: "Bildungspolitik"
+- id: "https://www.dnb.de/ddcuebersichten/380"
+  scheme: DDC-DE
+  subject: "Handel, Kommunikation, Verkehr"
+- id: "https://www.dnb.de/ddcuebersichten/381"
+  scheme: DDC-DE
+  subject: "Handel"
+- id: "https://www.dnb.de/ddcuebersichten/382"
+  scheme: DDC-DE
+  subject: "Internationaler Handel"
+- id: "https://www.dnb.de/ddcuebersichten/383"
+  scheme: DDC-DE
+  subject: "Postverkehr"
+- id: "https://www.dnb.de/ddcuebersichten/384"
+  scheme: DDC-DE
+  subject: "Kommunikation; Telekommunikation"
+- id: "https://www.dnb.de/ddcuebersichten/385"
+  scheme: DDC-DE
+  subject: "Schienenverkehr"
+- id: "https://www.dnb.de/ddcuebersichten/386"
+  scheme: DDC-DE
+  subject: "Binnenschifffahrt, Fährverkehr"
+- id: "https://www.dnb.de/ddcuebersichten/387"
+  scheme: DDC-DE
+  subject: "Schifffahrt, Luft-, Weltraumverkehr"
+- id: "https://www.dnb.de/ddcuebersichten/388"
+  scheme: DDC-DE
+  subject: "Verkehr; Landverkehr"
+- id: "https://www.dnb.de/ddcuebersichten/389"
+  scheme: DDC-DE
+  subject: "Metrologie, Normung"
+- id: "https://www.dnb.de/ddcuebersichten/390"
+  scheme: DDC-DE
+  subject: "Bräuche, Etikette, Folklore"
+- id: "https://www.dnb.de/ddcuebersichten/391"
+  scheme: DDC-DE
+  subject: "Kleidung, äußeres Erscheinungsbild"
+- id: "https://www.dnb.de/ddcuebersichten/392"
+  scheme: DDC-DE
+  subject: "Bräuche im Lebenslauf und im häuslichen Leben"
+- id: "https://www.dnb.de/ddcuebersichten/393"
+  scheme: DDC-DE
+  subject: "Sterbe- und Bestattungsriten"
+- id: "https://www.dnb.de/ddcuebersichten/394"
+  scheme: DDC-DE
+  subject: "Allgemeine Bräuche"
+- id: "https://www.dnb.de/ddcuebersichten/395"
+  scheme: DDC-DE
+  subject: "Etikette (Manieren)"
+- id: "https://www.dnb.de/ddcuebersichten/398"
+  scheme: DDC-DE
+  subject: "Folklore"
+- id: "https://www.dnb.de/ddcuebersichten/399"
+  scheme: DDC-DE
+  subject: "Bräuche des Krieges und der Diplomatie"
+- id: "https://www.dnb.de/ddcuebersichten/400"
+  scheme: DDC-DE
+  subject: "Sprache"
+- id: "https://www.dnb.de/ddcuebersichten/401"
+  scheme: DDC-DE
+  subject: "Sprachphilosophie, Sprachtheorie"
+- id: "https://www.dnb.de/ddcuebersichten/402"
+  scheme: DDC-DE
+  subject: "Verschiedenes"
+- id: "https://www.dnb.de/ddcuebersichten/403"
+  scheme: DDC-DE
+  subject: "Wörterbücher, Enzyklopädien"
+- id: "https://www.dnb.de/ddcuebersichten/404"
+  scheme: DDC-DE
+  subject: "Spezielle Themen"
+- id: "https://www.dnb.de/ddcuebersichten/405"
+  scheme: DDC-DE
+  subject: "Fortlaufende Sammelwerke"
+- id: "https://www.dnb.de/ddcuebersichten/406"
+  scheme: DDC-DE
+  subject: "Organisationen, Management"
+- id: "https://www.dnb.de/ddcuebersichten/407"
+  scheme: DDC-DE
+  subject: "Ausbildung, Forschung, verwandte Themen"
+- id: "https://www.dnb.de/ddcuebersichten/408"
+  scheme: DDC-DE
+  subject: "Behandlung nach Personengruppen"
+- id: "https://www.dnb.de/ddcuebersichten/409"
+  scheme: DDC-DE
+  subject: "Geografische, personenbezogene Behandlung"
+- id: "https://www.dnb.de/ddcuebersichten/410"
+  scheme: DDC-DE
+  subject: "Linguistik"
+- id: "https://www.dnb.de/ddcuebersichten/411"
+  scheme: DDC-DE
+  subject: "Schriftsysteme"
+- id: "https://www.dnb.de/ddcuebersichten/412"
+  scheme: DDC-DE
+  subject: "Etymologie"
+- id: "https://www.dnb.de/ddcuebersichten/413"
+  scheme: DDC-DE
+  subject: "Wörterbücher"
+- id: "https://www.dnb.de/ddcuebersichten/414"
+  scheme: DDC-DE
+  subject: "Phonologie, Phonetik"
+- id: "https://www.dnb.de/ddcuebersichten/415"
+  scheme: DDC-DE
+  subject: "Grammatik"
+- id: "https://www.dnb.de/ddcuebersichten/417"
+  scheme: DDC-DE
+  subject: "Dialektologie, historische Linguistik"
+- id: "https://www.dnb.de/ddcuebersichten/418"
+  scheme: DDC-DE
+  subject: "Standardsprache; Angewandte Linguistik"
+- id: "https://www.dnb.de/ddcuebersichten/419"
+  scheme: DDC-DE
+  subject: "Gebärdensprachen"
+- id: "https://www.dnb.de/ddcuebersichten/420"
+  scheme: DDC-DE
+  subject: "Englisch, Altenglisch"
+- id: "https://www.dnb.de/ddcuebersichten/421"
+  scheme: DDC-DE
+  subject: "Schriftsystem und Phonologie des Englischen"
+- id: "https://www.dnb.de/ddcuebersichten/422"
+  scheme: DDC-DE
+  subject: "Etymologie des Englischen"
+- id: "https://www.dnb.de/ddcuebersichten/423"
+  scheme: DDC-DE
+  subject: "Englische Wörterbücher"
+- id: "https://www.dnb.de/ddcuebersichten/425"
+  scheme: DDC-DE
+  subject: "Englische Grammatik"
+- id: "https://www.dnb.de/ddcuebersichten/427"
+  scheme: DDC-DE
+  subject: "Varianten des Englischen, Mittelenglisch"
+- id: "https://www.dnb.de/ddcuebersichten/428"
+  scheme: DDC-DE
+  subject: "Gebrauch des Standard-Englisch"
+- id: "https://www.dnb.de/ddcuebersichten/429"
+  scheme: DDC-DE
+  subject: "Altenglisch (Angelsächsisch)"
+- id: "https://www.dnb.de/ddcuebersichten/430"
+  scheme: DDC-DE
+  subject: "Germanische Sprachen; Deutsch"
+- id: "https://www.dnb.de/ddcuebersichten/431"
+  scheme: DDC-DE
+  subject: "Schriftsysteme und Phonologie des Deutschen"
+- id: "https://www.dnb.de/ddcuebersichten/432"
+  scheme: DDC-DE
+  subject: "Etymologie des Deutschen"
+- id: "https://www.dnb.de/ddcuebersichten/433"
+  scheme: DDC-DE
+  subject: "Deutsche Wörterbücher"
+- id: "https://www.dnb.de/ddcuebersichten/435"
+  scheme: DDC-DE
+  subject: "Deutsche Grammatik"
+- id: "https://www.dnb.de/ddcuebersichten/437"
+  scheme: DDC-DE
+  subject: "Varianten des Deutschen"
+- id: "https://www.dnb.de/ddcuebersichten/438"
+  scheme: DDC-DE
+  subject: "Gebrauch des Standard-Deutsch"
+- id: "https://www.dnb.de/ddcuebersichten/439"
+  scheme: DDC-DE
+  subject: "Andere germanische Sprachen"
+- id: "https://www.dnb.de/ddcuebersichten/440"
+  scheme: DDC-DE
+  subject: "Romanische Sprachen; Französisch"
+- id: "https://www.dnb.de/ddcuebersichten/441"
+  scheme: DDC-DE
+  subject: "Schriftsysteme und Phonologie des Französischen"
+- id: "https://www.dnb.de/ddcuebersichten/442"
+  scheme: DDC-DE
+  subject: "Etymologie des Französischen"
+- id: "https://www.dnb.de/ddcuebersichten/443"
+  scheme: DDC-DE
+  subject: "Französische Wörterbücher"
+- id: "https://www.dnb.de/ddcuebersichten/445"
+  scheme: DDC-DE
+  subject: "Französische Grammatik"
+- id: "https://www.dnb.de/ddcuebersichten/447"
+  scheme: DDC-DE
+  subject: "Varianten des Französischen"
+- id: "https://www.dnb.de/ddcuebersichten/448"
+  scheme: DDC-DE
+  subject: "Gebrauch des Standard-Französisch"
+- id: "https://www.dnb.de/ddcuebersichten/449"
+  scheme: DDC-DE
+  subject: "Okzitanisch, Katalanisch"
+- id: "https://www.dnb.de/ddcuebersichten/450"
+  scheme: DDC-DE
+  subject: "Italienisch, Rumänisch, Rätoromanisch"
+- id: "https://www.dnb.de/ddcuebersichten/451"
+  scheme: DDC-DE
+  subject: "Schriftsysteme und Phonologie des Italienischen"
+- id: "https://www.dnb.de/ddcuebersichten/452"
+  scheme: DDC-DE
+  subject: "Etymologie des Italienischen"
+- id: "https://www.dnb.de/ddcuebersichten/453"
+  scheme: DDC-DE
+  subject: "Italienische Wörterbücher"
+- id: "https://www.dnb.de/ddcuebersichten/455"
+  scheme: DDC-DE
+  subject: "Italienische Grammatik"
+- id: "https://www.dnb.de/ddcuebersichten/457"
+  scheme: DDC-DE
+  subject: "Varianten des Italienischen"
+- id: "https://www.dnb.de/ddcuebersichten/458"
+  scheme: DDC-DE
+  subject: "Gebrauch des Standard-Italienisch"
+- id: "https://www.dnb.de/ddcuebersichten/459"
+  scheme: DDC-DE
+  subject: "Rumänisch, Rätoromanisch"
+- id: "https://www.dnb.de/ddcuebersichten/460"
+  scheme: DDC-DE
+  subject: "Spanisch, Portugiesisch"
+- id: "https://www.dnb.de/ddcuebersichten/461"
+  scheme: DDC-DE
+  subject: "Schriftsysteme und Phonologie des Spanischen"
+- id: "https://www.dnb.de/ddcuebersichten/462"
+  scheme: DDC-DE
+  subject: "Etymologie des Spanischen"
+- id: "https://www.dnb.de/ddcuebersichten/463"
+  scheme: DDC-DE
+  subject: "Spanische Wörterbücher"
+- id: "https://www.dnb.de/ddcuebersichten/465"
+  scheme: DDC-DE
+  subject: "Spanische Grammatik"
+- id: "https://www.dnb.de/ddcuebersichten/467"
+  scheme: DDC-DE
+  subject: "Varianten des Spanischen"
+- id: "https://www.dnb.de/ddcuebersichten/468"
+  scheme: DDC-DE
+  subject: "Gebrauch des Standard-Spanisch"
+- id: "https://www.dnb.de/ddcuebersichten/469"
+  scheme: DDC-DE
+  subject: "Portugiesisch"
+- id: "https://www.dnb.de/ddcuebersichten/470"
+  scheme: DDC-DE
+  subject: "Italische Sprachen; Latein"
+- id: "https://www.dnb.de/ddcuebersichten/471"
+  scheme: DDC-DE
+  subject: "Schriftsysteme und Phonologie des klassischen Latein"
+- id: "https://www.dnb.de/ddcuebersichten/472"
+  scheme: DDC-DE
+  subject: "Etymologie des klassischen Latein"
+- id: "https://www.dnb.de/ddcuebersichten/473"
+  scheme: DDC-DE
+  subject: "Wörterbücher des klassischen Latein"
+- id: "https://www.dnb.de/ddcuebersichten/475"
+  scheme: DDC-DE
+  subject: "Grammatik des klassischen Latein"
+- id: "https://www.dnb.de/ddcuebersichten/477"
+  scheme: DDC-DE
+  subject: "Altlatein, Mittellatein, Neulatein, Kirchenlatein, Vulgärlatein"
+- id: "https://www.dnb.de/ddcuebersichten/478"
+  scheme: DDC-DE
+  subject: "Gebrauch des klassischen Latein"
+- id: "https://www.dnb.de/ddcuebersichten/479"
+  scheme: DDC-DE
+  subject: "Andere italische Sprachen"
+- id: "https://www.dnb.de/ddcuebersichten/480"
+  scheme: DDC-DE
+  subject: "Hellenische Sprachen; klassisches Griechisch"
+- id: "https://www.dnb.de/ddcuebersichten/481"
+  scheme: DDC-DE
+  subject: "Schriftsysteme und Phonologie des klassischen Griechisch"
+- id: "https://www.dnb.de/ddcuebersichten/482"
+  scheme: DDC-DE
+  subject: "Etymologie des klassischen Griechisch"
+- id: "https://www.dnb.de/ddcuebersichten/483"
+  scheme: DDC-DE
+  subject: "Wörterbücher des klassischen Griechisch"
+- id: "https://www.dnb.de/ddcuebersichten/485"
+  scheme: DDC-DE
+  subject: "Grammatik des klassischen Griechisch"
+- id: "https://www.dnb.de/ddcuebersichten/487"
+  scheme: DDC-DE
+  subject: "Vorklassisches Griechisch, Mittelgriechisch"
+- id: "https://www.dnb.de/ddcuebersichten/488"
+  scheme: DDC-DE
+  subject: "Gebrauch des klassischen Griechisch"
+- id: "https://www.dnb.de/ddcuebersichten/489"
+  scheme: DDC-DE
+  subject: "Andere hellenische Sprachen, Neugriechisch"
+- id: "https://www.dnb.de/ddcuebersichten/490"
+  scheme: DDC-DE
+  subject: "Andere Sprachen"
+- id: "https://www.dnb.de/ddcuebersichten/491"
+  scheme: DDC-DE
+  subject: "Ostindoeuropäische und keltische Sprachen"
+- id: "https://www.dnb.de/ddcuebersichten/492"
+  scheme: DDC-DE
+  subject: "Afroasiatische Sprachen; semitische Sprachen"
+- id: "https://www.dnb.de/ddcuebersichten/493"
+  scheme: DDC-DE
+  subject: "Nichtsemitische afroasiatische Sprachen"
+- id: "https://www.dnb.de/ddcuebersichten/494"
+  scheme: DDC-DE
+  subject: "Altaische, uralische, paläosibirische, drawidische Sprachen"
+- id: "https://www.dnb.de/ddcuebersichten/495"
+  scheme: DDC-DE
+  subject: "Ost- und südostasiatische Sprachen"
+- id: "https://www.dnb.de/ddcuebersichten/496"
+  scheme: DDC-DE
+  subject: "Afrikanische Sprachen"
+- id: "https://www.dnb.de/ddcuebersichten/497"
+  scheme: DDC-DE
+  subject: "Nordamerikanische Indianersprachen"
+- id: "https://www.dnb.de/ddcuebersichten/498"
+  scheme: DDC-DE
+  subject: "Südamerikanische Indianersprachen"
+- id: "https://www.dnb.de/ddcuebersichten/499"
+  scheme: DDC-DE
+  subject: "Austronesische und andere Sprachen"
+- id: "https://www.dnb.de/ddcuebersichten/500"
+  scheme: DDC-DE
+  subject: "Naturwissenschaften und Mathematik"
+- id: "https://www.dnb.de/ddcuebersichten/501"
+  scheme: DDC-DE
+  subject: "Philosophie, Theorie"
+- id: "https://www.dnb.de/ddcuebersichten/502"
+  scheme: DDC-DE
+  subject: "Verschiedenes"
+- id: "https://www.dnb.de/ddcuebersichten/503"
+  scheme: DDC-DE
+  subject: "Wörterbücher, Enzyklopädien"
+- id: "https://www.dnb.de/ddcuebersichten/505"
+  scheme: DDC-DE
+  subject: "Fortlaufende Sammelwerke"
+- id: "https://www.dnb.de/ddcuebersichten/506"
+  scheme: DDC-DE
+  subject: "Organisationen, Management"
+- id: "https://www.dnb.de/ddcuebersichten/507"
+  scheme: DDC-DE
+  subject: "Ausbildung, Forschung, verwandte Themen"
+- id: "https://www.dnb.de/ddcuebersichten/508"
+  scheme: DDC-DE
+  subject: "Naturgeschichte"
+- id: "https://www.dnb.de/ddcuebersichten/509"
+  scheme: DDC-DE
+  subject: "Historische, geografische, personenbezogene Behandlung"
+- id: "https://www.dnb.de/ddcuebersichten/510"
+  scheme: DDC-DE
+  subject: "Mathematik"
+- id: "https://www.dnb.de/ddcuebersichten/511"
+  scheme: DDC-DE
+  subject: "Allgemeine mathematische Prinzipien"
+- id: "https://www.dnb.de/ddcuebersichten/512"
+  scheme: DDC-DE
+  subject: "Algebra"
+- id: "https://www.dnb.de/ddcuebersichten/513"
+  scheme: DDC-DE
+  subject: "Arithmetik"
+- id: "https://www.dnb.de/ddcuebersichten/514"
+  scheme: DDC-DE
+  subject: "Topologie"
+- id: "https://www.dnb.de/ddcuebersichten/515"
+  scheme: DDC-DE
+  subject: "Analysis"
+- id: "https://www.dnb.de/ddcuebersichten/516"
+  scheme: DDC-DE
+  subject: "Geometrie"
+- id: "https://www.dnb.de/ddcuebersichten/518"
+  scheme: DDC-DE
+  subject: "Numerische Analysis"
+- id: "https://www.dnb.de/ddcuebersichten/519"
+  scheme: DDC-DE
+  subject: "Wahrscheinlichkeiten, angewandte Mathematik"
+- id: "https://www.dnb.de/ddcuebersichten/520"
+  scheme: DDC-DE
+  subject: "Astronomie und zugeordnete Wissenschaften"
+- id: "https://www.dnb.de/ddcuebersichten/521"
+  scheme: DDC-DE
+  subject: "Himmelsmechanik"
+- id: "https://www.dnb.de/ddcuebersichten/522"
+  scheme: DDC-DE
+  subject: "Techniken, Ausstattung, Materialien"
+- id: "https://www.dnb.de/ddcuebersichten/523"
+  scheme: DDC-DE
+  subject: "Einzelne Himmelskörper und Himmelsphänomene"
+- id: "https://www.dnb.de/ddcuebersichten/525"
+  scheme: DDC-DE
+  subject: "Erde (Astronomische Geografie)"
+- id: "https://www.dnb.de/ddcuebersichten/526"
+  scheme: DDC-DE
+  subject: "Mathematische Geografie"
+- id: "https://www.dnb.de/ddcuebersichten/527"
+  scheme: DDC-DE
+  subject: "Astronavigation"
+- id: "https://www.dnb.de/ddcuebersichten/528"
+  scheme: DDC-DE
+  subject: "Ephemeriden"
+- id: "https://www.dnb.de/ddcuebersichten/529"
+  scheme: DDC-DE
+  subject: "Chronologie"
+- id: "https://www.dnb.de/ddcuebersichten/530"
+  scheme: DDC-DE
+  subject: "Physik"
+- id: "https://www.dnb.de/ddcuebersichten/531"
+  scheme: DDC-DE
+  subject: "Klassische Mechanik; Festkörpermechanik"
+- id: "https://www.dnb.de/ddcuebersichten/532"
+  scheme: DDC-DE
+  subject: "Mechanik der Fluide; Mechanik der Flüssigkeiten"
+- id: "https://www.dnb.de/ddcuebersichten/533"
+  scheme: DDC-DE
+  subject: "Gasmechanik"
+- id: "https://www.dnb.de/ddcuebersichten/534"
+  scheme: DDC-DE
+  subject: "Schall und verwandte Schwingungen"
+- id: "https://www.dnb.de/ddcuebersichten/535"
+  scheme: DDC-DE
+  subject: "Licht, Infrarot- und Ultraviolettphänomene"
+- id: "https://www.dnb.de/ddcuebersichten/536"
+  scheme: DDC-DE
+  subject: "Wärme"
+- id: "https://www.dnb.de/ddcuebersichten/537"
+  scheme: DDC-DE
+  subject: "Elektrizität, Elektronik"
+- id: "https://www.dnb.de/ddcuebersichten/538"
+  scheme: DDC-DE
+  subject: "Magnetismus"
+- id: "https://www.dnb.de/ddcuebersichten/539"
+  scheme: DDC-DE
+  subject: "Moderne Physik"
+- id: "https://www.dnb.de/ddcuebersichten/540"
+  scheme: DDC-DE
+  subject: "Chemie und zugeordnete Wissenschaften"
+- id: "https://www.dnb.de/ddcuebersichten/541"
+  scheme: DDC-DE
+  subject: "Physikalische Chemie"
+- id: "https://www.dnb.de/ddcuebersichten/542"
+  scheme: DDC-DE
+  subject: "Techniken, Ausstattung, Materialien"
+- id: "https://www.dnb.de/ddcuebersichten/543"
+  scheme: DDC-DE
+  subject: "Analytische Chemie"
+- id: "https://www.dnb.de/ddcuebersichten/546"
+  scheme: DDC-DE
+  subject: "Anorganische Chemie"
+- id: "https://www.dnb.de/ddcuebersichten/547"
+  scheme: DDC-DE
+  subject: "Organische Chemie"
+- id: "https://www.dnb.de/ddcuebersichten/548"
+  scheme: DDC-DE
+  subject: "Kristallografie"
+- id: "https://www.dnb.de/ddcuebersichten/549"
+  scheme: DDC-DE
+  subject: "Mineralogie"
+- id: "https://www.dnb.de/ddcuebersichten/550"
+  scheme: DDC-DE
+  subject: "Geowissenschaften"
+- id: "https://www.dnb.de/ddcuebersichten/551"
+  scheme: DDC-DE
+  subject: "Geologie, Hydrologie, Meteorologie"
+- id: "https://www.dnb.de/ddcuebersichten/552"
+  scheme: DDC-DE
+  subject: "Petrologie"
+- id: "https://www.dnb.de/ddcuebersichten/553"
+  scheme: DDC-DE
+  subject: "Lagerstättenkunde"
+- id: "https://www.dnb.de/ddcuebersichten/554"
+  scheme: DDC-DE
+  subject: "Geowissenschaften Europas"
+- id: "https://www.dnb.de/ddcuebersichten/555"
+  scheme: DDC-DE
+  subject: "Geowissenschaften Asiens"
+- id: "https://www.dnb.de/ddcuebersichten/556"
+  scheme: DDC-DE
+  subject: "Geowissenschaften Afrikas"
+- id: "https://www.dnb.de/ddcuebersichten/557"
+  scheme: DDC-DE
+  subject: "Geowissenschaften Nordamerikas"
+- id: "https://www.dnb.de/ddcuebersichten/558"
+  scheme: DDC-DE
+  subject: "Geowissenschaften Südamerikas"
+- id: "https://www.dnb.de/ddcuebersichten/559"
+  scheme: DDC-DE
+  subject: "Geowissenschaften anderer Gebiete"
+- id: "https://www.dnb.de/ddcuebersichten/560"
+  scheme: DDC-DE
+  subject: "Paläontologie; Paläozoologie"
+- id: "https://www.dnb.de/ddcuebersichten/561"
+  scheme: DDC-DE
+  subject: "Paläobotanik; fossile Mikroorganismen"
+- id: "https://www.dnb.de/ddcuebersichten/562"
+  scheme: DDC-DE
+  subject: "Fossile Evertebrata (Wirbellose)"
+- id: "https://www.dnb.de/ddcuebersichten/563"
+  scheme: DDC-DE
+  subject: "Fossile Wirbellose des Meeres und der Meeresküste"
+- id: "https://www.dnb.de/ddcuebersichten/564"
+  scheme: DDC-DE
+  subject: "Fossile Mollusca (Weichtiere), Tentaculata (Kranzfühler)"
+- id: "https://www.dnb.de/ddcuebersichten/565"
+  scheme: DDC-DE
+  subject: "Fossile Arthropoden (Gliederfüßer)"
+- id: "https://www.dnb.de/ddcuebersichten/566"
+  scheme: DDC-DE
+  subject: "Fossile Chordata (Chordatiere)"
+- id: "https://www.dnb.de/ddcuebersichten/567"
+  scheme: DDC-DE
+  subject: "Fossile wechselwarme Wirbeltiere; fossile Pisces (Fische)"
+- id: "https://www.dnb.de/ddcuebersichten/568"
+  scheme: DDC-DE
+  subject: "Fossile Aves (Vögel)"
+- id: "https://www.dnb.de/ddcuebersichten/569"
+  scheme: DDC-DE
+  subject: "Fossile Mammalia (Säugetiere)"
+- id: "https://www.dnb.de/ddcuebersichten/570"
+  scheme: DDC-DE
+  subject: "Biowissenschaften; Biologie"
+- id: "https://www.dnb.de/ddcuebersichten/571"
+  scheme: DDC-DE
+  subject: "Physiologie und verwandte Themen"
+- id: "https://www.dnb.de/ddcuebersichten/572"
+  scheme: DDC-DE
+  subject: "Biochemie"
+- id: "https://www.dnb.de/ddcuebersichten/573"
+  scheme: DDC-DE
+  subject: "Einzelne physiologische Systeme bei Tieren"
+- id: "https://www.dnb.de/ddcuebersichten/575"
+  scheme: DDC-DE
+  subject: "Einzelne Teile von und physiologische Systeme bei Pflanzen"
+- id: "https://www.dnb.de/ddcuebersichten/576"
+  scheme: DDC-DE
+  subject: "Genetik und Evolution"
+- id: "https://www.dnb.de/ddcuebersichten/577"
+  scheme: DDC-DE
+  subject: "Ökologie"
+- id: "https://www.dnb.de/ddcuebersichten/578"
+  scheme: DDC-DE
+  subject: "Naturgeschichte von Organismen"
+- id: "https://www.dnb.de/ddcuebersichten/579"
+  scheme: DDC-DE
+  subject: "Mikroorganismen, Pilze, Algen"
+- id: "https://www.dnb.de/ddcuebersichten/580"
+  scheme: DDC-DE
+  subject: "Pflanzen (Botanik)"
+- id: "https://www.dnb.de/ddcuebersichten/581"
+  scheme: DDC-DE
+  subject: "Einzelne Themen in der Naturgeschichte"
+- id: "https://www.dnb.de/ddcuebersichten/582"
+  scheme: DDC-DE
+  subject: "Pflanzen mit spezifischen Merkmalen und Blüten"
+- id: "https://www.dnb.de/ddcuebersichten/583"
+  scheme: DDC-DE
+  subject: "Magnoliopsida (Zweikeimblättrige)"
+- id: "https://www.dnb.de/ddcuebersichten/584"
+  scheme: DDC-DE
+  subject: "Liliopsida (Einkeimblättrige)"
+- id: "https://www.dnb.de/ddcuebersichten/585"
+  scheme: DDC-DE
+  subject: "Gymnospermae (Nacktsamer); Coniferae (Nadelgehölze)"
+- id: "https://www.dnb.de/ddcuebersichten/586"
+  scheme: DDC-DE
+  subject: "Cryptogamia (Blütenlose Pflanzen)"
+- id: "https://www.dnb.de/ddcuebersichten/587"
+  scheme: DDC-DE
+  subject: "Pteridophyta (Farnpflanzen)"
+- id: "https://www.dnb.de/ddcuebersichten/588"
+  scheme: DDC-DE
+  subject: "Bryophyta (Moose)"
+- id: "https://www.dnb.de/ddcuebersichten/590"
+  scheme: DDC-DE
+  subject: "Tiere (Zoologie)"
+- id: "https://www.dnb.de/ddcuebersichten/591"
+  scheme: DDC-DE
+  subject: "Einzelne Themen in der Naturgeschichte"
+- id: "https://www.dnb.de/ddcuebersichten/592"
+  scheme: DDC-DE
+  subject: "Evertebrata (Wirbellose)"
+- id: "https://www.dnb.de/ddcuebersichten/593"
+  scheme: DDC-DE
+  subject: "Wirbellose des Meeres und der Meeresküste"
+- id: "https://www.dnb.de/ddcuebersichten/594"
+  scheme: DDC-DE
+  subject: "Mollusca (Weichtiere), Tentaculata (Kranzfühler)"
+- id: "https://www.dnb.de/ddcuebersichten/595"
+  scheme: DDC-DE
+  subject: "Arthropoden (Gliederfüßer)"
+- id: "https://www.dnb.de/ddcuebersichten/596"
+  scheme: DDC-DE
+  subject: "Chordata (Chordatiere)"
+- id: "https://www.dnb.de/ddcuebersichten/597"
+  scheme: DDC-DE
+  subject: "Wechselwarme Wirbeltiere; Pisces (Fische)"
+- id: "https://www.dnb.de/ddcuebersichten/598"
+  scheme: DDC-DE
+  subject: "Aves (Vögel)"
+- id: "https://www.dnb.de/ddcuebersichten/599"
+  scheme: DDC-DE
+  subject: "Mammalia (Säugetiere)"
+- id: "https://www.dnb.de/ddcuebersichten/600"
+  scheme: DDC-DE
+  subject: "Technik, Technologie"
+- id: "https://www.dnb.de/ddcuebersichten/601"
+  scheme: DDC-DE
+  subject: "Philosophie, Theorie"
+- id: "https://www.dnb.de/ddcuebersichten/602"
+  scheme: DDC-DE
+  subject: "Verschiedenes"
+- id: "https://www.dnb.de/ddcuebersichten/603"
+  scheme: DDC-DE
+  subject: "Wörterbücher, Enzyklopädien"
+- id: "https://www.dnb.de/ddcuebersichten/604"
+  scheme: DDC-DE
+  subject: "Spezielle Themen"
+- id: "https://www.dnb.de/ddcuebersichten/605"
+  scheme: DDC-DE
+  subject: "Fortlaufende Sammelwerke"
+- id: "https://www.dnb.de/ddcuebersichten/606"
+  scheme: DDC-DE
+  subject: "Organisationen"
+- id: "https://www.dnb.de/ddcuebersichten/607"
+  scheme: DDC-DE
+  subject: "Ausbildung, Forschung, verwandte Themen"
+- id: "https://www.dnb.de/ddcuebersichten/608"
+  scheme: DDC-DE
+  subject: "Erfindungen, Patente"
+- id: "https://www.dnb.de/ddcuebersichten/609"
+  scheme: DDC-DE
+  subject: "Historische, geografische, personenbezogene Behandlung"
+- id: "https://www.dnb.de/ddcuebersichten/610"
+  scheme: DDC-DE
+  subject: "Medizin und Gesundheit"
+- id: "https://www.dnb.de/ddcuebersichten/611"
+  scheme: DDC-DE
+  subject: "Menschliche Anatomie, Zytologie, Histologie"
+- id: "https://www.dnb.de/ddcuebersichten/612"
+  scheme: DDC-DE
+  subject: "Humanphysiologie"
+- id: "https://www.dnb.de/ddcuebersichten/613"
+  scheme: DDC-DE
+  subject: "Persönliche Gesundheit und Sicherheit"
+- id: "https://www.dnb.de/ddcuebersichten/614"
+  scheme: DDC-DE
+  subject: "Inzidenz und Prävention von Krankheiten"
+- id: "https://www.dnb.de/ddcuebersichten/615"
+  scheme: DDC-DE
+  subject: "Pharmakologie, Therapeutik"
+- id: "https://www.dnb.de/ddcuebersichten/616"
+  scheme: DDC-DE
+  subject: "Krankheiten"
+- id: "https://www.dnb.de/ddcuebersichten/617"
+  scheme: DDC-DE
+  subject: "Chirurgie und verwandte medizinische Fachrichtungen"
+- id: "https://www.dnb.de/ddcuebersichten/618"
+  scheme: DDC-DE
+  subject: "Gynäkologie, Geburtsmedizin, Pädiatrie, Geriatrie"
+- id: "https://www.dnb.de/ddcuebersichten/620"
+  scheme: DDC-DE
+  subject: "Ingenieurwissenschaften und zugeordnete Tätigkeitenn"
+- id: "https://www.dnb.de/ddcuebersichten/621"
+  scheme: DDC-DE
+  subject: "Angewandte Physik"
+- id: "https://www.dnb.de/ddcuebersichten/622"
+  scheme: DDC-DE
+  subject: "Bergbau und verwandte Tätigkeiten"
+- id: "https://www.dnb.de/ddcuebersichten/623"
+  scheme: DDC-DE
+  subject: "Militär- und Schiffstechnik"
+- id: "https://www.dnb.de/ddcuebersichten/624"
+  scheme: DDC-DE
+  subject: "Ingenieurbau"
+- id: "https://www.dnb.de/ddcuebersichten/625"
+  scheme: DDC-DE
+  subject: "Eisenbahn- und Straßenbau"
+- id: "https://www.dnb.de/ddcuebersichten/627"
+  scheme: DDC-DE
+  subject: "Wasserbau"
+- id: "https://www.dnb.de/ddcuebersichten/628"
+  scheme: DDC-DE
+  subject: "Sanitär- und Kommunaltechnik; Umwelttechnik"
+- id: "https://www.dnb.de/ddcuebersichten/629"
+  scheme: DDC-DE
+  subject: "Andere Fachrichtungen der Ingenieurwissenschaften"
+- id: "https://www.dnb.de/ddcuebersichten/630"
+  scheme: DDC-DE
+  subject: "Landwirtschaft und verwandte Bereiche"
+- id: "https://www.dnb.de/ddcuebersichten/631"
+  scheme: DDC-DE
+  subject: "Techniken, Ausstattung, Materialien"
+- id: "https://www.dnb.de/ddcuebersichten/632"
+  scheme: DDC-DE
+  subject: "Schäden, Krankheiten, Schädlinge an Pflanzen"
+- id: "https://www.dnb.de/ddcuebersichten/633"
+  scheme: DDC-DE
+  subject: "Feld- und Plantagenfrüchte"
+- id: "https://www.dnb.de/ddcuebersichten/634"
+  scheme: DDC-DE
+  subject: "Obstanlagen, Früchte, Forstwirtschaft"
+- id: "https://www.dnb.de/ddcuebersichten/635"
+  scheme: DDC-DE
+  subject: "Gartenpflanzen (Gartenbau)"
+- id: "https://www.dnb.de/ddcuebersichten/636"
+  scheme: DDC-DE
+  subject: "Viehwirtschaft"
+- id: "https://www.dnb.de/ddcuebersichten/637"
+  scheme: DDC-DE
+  subject: "Milchverarbeitung und verwandte Produkte"
+- id: "https://www.dnb.de/ddcuebersichten/638"
+  scheme: DDC-DE
+  subject: "Insektenzucht"
+- id: "https://www.dnb.de/ddcuebersichten/639"
+  scheme: DDC-DE
+  subject: "Jagd, Fischfang, Naturschutz"
+- id: "https://www.dnb.de/ddcuebersichten/640"
+  scheme: DDC-DE
+  subject: "Hauswirtschaft und Familie"
+- id: "https://www.dnb.de/ddcuebersichten/641"
+  scheme: DDC-DE
+  subject: "Essen und Trinken"
+- id: "https://www.dnb.de/ddcuebersichten/642"
+  scheme: DDC-DE
+  subject: "Mahlzeiten, Tischkultur"
+- id: "https://www.dnb.de/ddcuebersichten/643"
+  scheme: DDC-DE
+  subject: "Wohnen, Haushaltsausstattung"
+- id: "https://www.dnb.de/ddcuebersichten/644"
+  scheme: DDC-DE
+  subject: "Gebäudeversorgung für Haushalte"
+- id: "https://www.dnb.de/ddcuebersichten/645"
+  scheme: DDC-DE
+  subject: "Einrichtungsgegenstände"
+- id: "https://www.dnb.de/ddcuebersichten/646"
+  scheme: DDC-DE
+  subject: "Nähen, Kleidung, persönliches Leben, Familienleben"
+- id: "https://www.dnb.de/ddcuebersichten/647"
+  scheme: DDC-DE
+  subject: "Großhaushaltsführung"
+- id: "https://www.dnb.de/ddcuebersichten/648"
+  scheme: DDC-DE
+  subject: "Haushaltsführung"
+- id: "https://www.dnb.de/ddcuebersichten/649"
+  scheme: DDC-DE
+  subject: "Kindererziehung, häusliche Betreuung"
+- id: "https://www.dnb.de/ddcuebersichten/650"
+  scheme: DDC-DE
+  subject: "Management und unterstützende Tätigkeiten"
+- id: "https://www.dnb.de/ddcuebersichten/651"
+  scheme: DDC-DE
+  subject: "Büroarbeit"
+- id: "https://www.dnb.de/ddcuebersichten/652"
+  scheme: DDC-DE
+  subject: "Techniken der schriftlichen Kommunikation"
+- id: "https://www.dnb.de/ddcuebersichten/653"
+  scheme: DDC-DE
+  subject: "Stenografie"
+- id: "https://www.dnb.de/ddcuebersichten/657"
+  scheme: DDC-DE
+  subject: "Rechnungslegung"
+- id: "https://www.dnb.de/ddcuebersichten/658"
+  scheme: DDC-DE
+  subject: "Allgemeines Management"
+- id: "https://www.dnb.de/ddcuebersichten/659"
+  scheme: DDC-DE
+  subject: "Werbung, Öffentlichkeitsarbeit"
+- id: "https://www.dnb.de/ddcuebersichten/660"
+  scheme: DDC-DE
+  subject: "Chemische Verfahrenstechnik"
+- id: "https://www.dnb.de/ddcuebersichten/661"
+  scheme: DDC-DE
+  subject: "Industriechemikalien"
+- id: "https://www.dnb.de/ddcuebersichten/662"
+  scheme: DDC-DE
+  subject: "Explosivstoffe, Brennstoffe und verwandte Produkte"
+- id: "https://www.dnb.de/ddcuebersichten/663"
+  scheme: DDC-DE
+  subject: "Getränketechnologie"
+- id: "https://www.dnb.de/ddcuebersichten/664"
+  scheme: DDC-DE
+  subject: "Lebensmitteltechnologie"
+- id: "https://www.dnb.de/ddcuebersichten/665"
+  scheme: DDC-DE
+  subject: "Industrielle Öle, Fette, Wachse, technische Gase"
+- id: "https://www.dnb.de/ddcuebersichten/666"
+  scheme: DDC-DE
+  subject: "Keramiktechnologie und zugeordnete Technologien"
+- id: "https://www.dnb.de/ddcuebersichten/667"
+  scheme: DDC-DE
+  subject: "Reinigungs-, Färbe-, Beschichtungstechniken"
+- id: "https://www.dnb.de/ddcuebersichten/668"
+  scheme: DDC-DE
+  subject: "Technik anderer organischer Produkte"
+- id: "https://www.dnb.de/ddcuebersichten/669"
+  scheme: DDC-DE
+  subject: "Metallurgie"
+- id: "https://www.dnb.de/ddcuebersichten/670"
+  scheme: DDC-DE
+  subject: "Industrielle Fertigung"
+- id: "https://www.dnb.de/ddcuebersichten/671"
+  scheme: DDC-DE
+  subject: "Metallverarbeitung und Rohprodukte aus Metall"
+- id: "https://www.dnb.de/ddcuebersichten/672"
+  scheme: DDC-DE
+  subject: "Eisen, Stahl, andere Eisenlegierungen"
+- id: "https://www.dnb.de/ddcuebersichten/673"
+  scheme: DDC-DE
+  subject: "Nichteisenmetalle"
+- id: "https://www.dnb.de/ddcuebersichten/674"
+  scheme: DDC-DE
+  subject: "Holzverarbeitung, Holzprodukte, Kork"
+- id: "https://www.dnb.de/ddcuebersichten/675"
+  scheme: DDC-DE
+  subject: "Leder- und Pelzverarbeitung"
+- id: "https://www.dnb.de/ddcuebersichten/676"
+  scheme: DDC-DE
+  subject: "Zellstoff und Papierherstellung"
+- id: "https://www.dnb.de/ddcuebersichten/677"
+  scheme: DDC-DE
+  subject: "Textilien"
+- id: "https://www.dnb.de/ddcuebersichten/678"
+  scheme: DDC-DE
+  subject: "Elastomere, Elastomerprodukte"
+- id: "https://www.dnb.de/ddcuebersichten/679"
+  scheme: DDC-DE
+  subject: "Andere Produkte aus einzelnen Werkstoffen"
+- id: "https://www.dnb.de/ddcuebersichten/680"
+  scheme: DDC-DE
+  subject: "Industrielle Fertigung für einzelne Verwendungszwecke"
+- id: "https://www.dnb.de/ddcuebersichten/681"
+  scheme: DDC-DE
+  subject: "Präzisionsinstrumente und andere Geräte"
+- id: "https://www.dnb.de/ddcuebersichten/682"
+  scheme: DDC-DE
+  subject: "Schmiedehandwerk"
+- id: "https://www.dnb.de/ddcuebersichten/683"
+  scheme: DDC-DE
+  subject: "Eisenwaren, Haushaltsgeräte"
+- id: "https://www.dnb.de/ddcuebersichten/684"
+  scheme: DDC-DE
+  subject: "Wohnungseinrichtung, Heimwerkstätten"
+- id: "https://www.dnb.de/ddcuebersichten/685"
+  scheme: DDC-DE
+  subject: "Leder- und Pelzwaren und verwandte Produkte"
+- id: "https://www.dnb.de/ddcuebersichten/686"
+  scheme: DDC-DE
+  subject: "Drucken und verwandte Tätigkeiten"
+- id: "https://www.dnb.de/ddcuebersichten/687"
+  scheme: DDC-DE
+  subject: "Kleidung, Accessoires"
+- id: "https://www.dnb.de/ddcuebersichten/688"
+  scheme: DDC-DE
+  subject: "Andere Endprodukte, Verpackungstechnik"
+- id: "https://www.dnb.de/ddcuebersichten/690"
+  scheme: DDC-DE
+  subject: "Hausbau, Bauhandwerk"
+- id: "https://www.dnb.de/ddcuebersichten/691"
+  scheme: DDC-DE
+  subject: "Baustoffe"
+- id: "https://www.dnb.de/ddcuebersichten/692"
+  scheme: DDC-DE
+  subject: "Bauhilfstechniken"
+- id: "https://www.dnb.de/ddcuebersichten/693"
+  scheme: DDC-DE
+  subject: "Einzelne Baustoffarten und Zwecke"
+- id: "https://www.dnb.de/ddcuebersichten/694"
+  scheme: DDC-DE
+  subject: "Holzbau, Zimmerhandwerk"
+- id: "https://www.dnb.de/ddcuebersichten/695"
+  scheme: DDC-DE
+  subject: "Dachdeckung"
+- id: "https://www.dnb.de/ddcuebersichten/696"
+  scheme: DDC-DE
+  subject: "Versorgungseinrichtungen"
+- id: "https://www.dnb.de/ddcuebersichten/697"
+  scheme: DDC-DE
+  subject: "Heizungs-, Lüftungs-, Klimatechnik"
+- id: "https://www.dnb.de/ddcuebersichten/698"
+  scheme: DDC-DE
+  subject: "Ausbau"
+- id: "https://www.dnb.de/ddcuebersichten/700"
+  scheme: DDC-DE
+  subject: "Künste; Bildende und angewandte Kunst"
+- id: "https://www.dnb.de/ddcuebersichten/701"
+  scheme: DDC-DE
+  subject: "Kunstphilosophie, Kunsttheorie der bildenden und angewandten Kunst"
+- id: "https://www.dnb.de/ddcuebersichten/702"
+  scheme: DDC-DE
+  subject: "Verschiedenes zur bildenden und angewandten Kunst"
+- id: "https://www.dnb.de/ddcuebersichten/703"
+  scheme: DDC-DE
+  subject: "Wörterbücher, Enzyklopädien zur bildenden und angewandten Kunst"
+- id: "https://www.dnb.de/ddcuebersichten/704"
+  scheme: DDC-DE
+  subject: "Spezielle Themen zur bildenden und angewandten Kunst"
+- id: "https://www.dnb.de/ddcuebersichten/705"
+  scheme: DDC-DE
+  subject: "Fortlaufende Sammelwerke zur bildenden und angewandten Kunst"
+- id: "https://www.dnb.de/ddcuebersichten/706"
+  scheme: DDC-DE
+  subject: "Organisationen, Management der bildenden und angewandten Kunst"
+- id: "https://www.dnb.de/ddcuebersichten/707"
+  scheme: DDC-DE
+  subject: "Ausbildung, Forschung, verwandte Themen zur bildenden und angewandten Kunst"
+- id: "https://www.dnb.de/ddcuebersichten/708"
+  scheme: DDC-DE
+  subject: "Galerien, Museen, Privatsammlungen zur bildenden und angewandten Kunst"
+- id: "https://www.dnb.de/ddcuebersichten/709"
+  scheme: DDC-DE
+  subject: "Historische, geografische, personenbezogene Behandlung der bildenden und angewandten Kunst"
+- id: "https://www.dnb.de/ddcuebersichten/710"
+  scheme: DDC-DE
+  subject: "Städtebau, Raumplanung, Landschaftsgestaltung"
+- id: "https://www.dnb.de/ddcuebersichten/711"
+  scheme: DDC-DE
+  subject: "Raumplanung"
+- id: "https://www.dnb.de/ddcuebersichten/712"
+  scheme: DDC-DE
+  subject: "Landschaftsgestaltung"
+- id: "https://www.dnb.de/ddcuebersichten/713"
+  scheme: DDC-DE
+  subject: "Landschaftsgestaltung von Verkehrswegen"
+- id: "https://www.dnb.de/ddcuebersichten/714"
+  scheme: DDC-DE
+  subject: "Wasser als Gestaltungselement"
+- id: "https://www.dnb.de/ddcuebersichten/715"
+  scheme: DDC-DE
+  subject: "Gehölze als Gestaltungselemente"
+- id: "https://www.dnb.de/ddcuebersichten/716"
+  scheme: DDC-DE
+  subject: "Krautige Pflanzen als Gestaltungselemente"
+- id: "https://www.dnb.de/ddcuebersichten/717"
+  scheme: DDC-DE
+  subject: "Andere Gestaltungselemente"
+- id: "https://www.dnb.de/ddcuebersichten/718"
+  scheme: DDC-DE
+  subject: "Landschaftsgestaltung von Friedhöfen"
+- id: "https://www.dnb.de/ddcuebersichten/719"
+  scheme: DDC-DE
+  subject: "Naturlandschaften"
+- id: "https://www.dnb.de/ddcuebersichten/720"
+  scheme: DDC-DE
+  subject: "Architektur"
+- id: "https://www.dnb.de/ddcuebersichten/721"
+  scheme: DDC-DE
+  subject: "Architektonische Struktur"
+- id: "https://www.dnb.de/ddcuebersichten/722"
+  scheme: DDC-DE
+  subject: "Architektur bis ca. 300"
+- id: "https://www.dnb.de/ddcuebersichten/723"
+  scheme: DDC-DE
+  subject: "Architektur von ca. 300 bis 1399"
+- id: "https://www.dnb.de/ddcuebersichten/724"
+  scheme: DDC-DE
+  subject: "Architektur ab 1400"
+- id: "https://www.dnb.de/ddcuebersichten/725"
+  scheme: DDC-DE
+  subject: "Öffentliche Bauwerke"
+- id: "https://www.dnb.de/ddcuebersichten/726"
+  scheme: DDC-DE
+  subject: "Gebäude für religiöse und verwandte Zwecke"
+- id: "https://www.dnb.de/ddcuebersichten/727"
+  scheme: DDC-DE
+  subject: "Gebäude für Lehr- und Forschungszwecke"
+- id: "https://www.dnb.de/ddcuebersichten/728"
+  scheme: DDC-DE
+  subject: "Wohnbauten und verwandte Gebäude"
+- id: "https://www.dnb.de/ddcuebersichten/729"
+  scheme: DDC-DE
+  subject: "Entwurf und Gestaltung, Innenarchitektur"
+- id: "https://www.dnb.de/ddcuebersichten/730"
+  scheme: DDC-DE
+  subject: "Plastische Künste; Bildhauerkunst"
+- id: "https://www.dnb.de/ddcuebersichten/731"
+  scheme: DDC-DE
+  subject: "Verfahren, Formen und Motive in der Bildhauerkunst"
+- id: "https://www.dnb.de/ddcuebersichten/732"
+  scheme: DDC-DE
+  subject: "Bildhauerei bis ca. 500"
+- id: "https://www.dnb.de/ddcuebersichten/733"
+  scheme: DDC-DE
+  subject: "Griechische, etruskische, römische Bildhauerkunst"
+- id: "https://www.dnb.de/ddcuebersichten/734"
+  scheme: DDC-DE
+  subject: "Bildhauerkunst von ca. 500 bis 1399"
+- id: "https://www.dnb.de/ddcuebersichten/735"
+  scheme: DDC-DE
+  subject: "Bildhauerkunst ab 1400"
+- id: "https://www.dnb.de/ddcuebersichten/736"
+  scheme: DDC-DE
+  subject: "Schnitzen, Schnitzereien"
+- id: "https://www.dnb.de/ddcuebersichten/737"
+  scheme: DDC-DE
+  subject: "Numismatik, Siegelkunde"
+- id: "https://www.dnb.de/ddcuebersichten/738"
+  scheme: DDC-DE
+  subject: "Keramikkunst"
+- id: "https://www.dnb.de/ddcuebersichten/739"
+  scheme: DDC-DE
+  subject: "Metallkunst"
+- id: "https://www.dnb.de/ddcuebersichten/740"
+  scheme: DDC-DE
+  subject: "Zeichnung, angewandte Kunst"
+- id: "https://www.dnb.de/ddcuebersichten/741"
+  scheme: DDC-DE
+  subject: "Zeichnung, Zeichnungen"
+- id: "https://www.dnb.de/ddcuebersichten/742"
+  scheme: DDC-DE
+  subject: "Perspektive"
+- id: "https://www.dnb.de/ddcuebersichten/743"
+  scheme: DDC-DE
+  subject: "Zeichnung und Zeichnungen nach Motiv"
+- id: "https://www.dnb.de/ddcuebersichten/745"
+  scheme: DDC-DE
+  subject: "Angewandte Kunst"
+- id: "https://www.dnb.de/ddcuebersichten/746"
+  scheme: DDC-DE
+  subject: "Textilkunst"
+- id: "https://www.dnb.de/ddcuebersichten/747"
+  scheme: DDC-DE
+  subject: "Innendekoration"
+- id: "https://www.dnb.de/ddcuebersichten/748"
+  scheme: DDC-DE
+  subject: "Glas"
+- id: "https://www.dnb.de/ddcuebersichten/749"
+  scheme: DDC-DE
+  subject: "Möbel, Möbelzubehör"
+- id: "https://www.dnb.de/ddcuebersichten/750"
+  scheme: DDC-DE
+  subject: "Malerei, Gemälde"
+- id: "https://www.dnb.de/ddcuebersichten/751"
+  scheme: DDC-DE
+  subject: "Techniken, Ausstattung, Materialien, Formen"
+- id: "https://www.dnb.de/ddcuebersichten/752"
+  scheme: DDC-DE
+  subject: "Farbe"
+- id: "https://www.dnb.de/ddcuebersichten/753"
+  scheme: DDC-DE
+  subject: "Symbolik, Allegorie, Mythologie, Legende"
+- id: "https://www.dnb.de/ddcuebersichten/754"
+  scheme: DDC-DE
+  subject: "Genremalerei"
+- id: "https://www.dnb.de/ddcuebersichten/755"
+  scheme: DDC-DE
+  subject: "Religion"
+- id: "https://www.dnb.de/ddcuebersichten/757"
+  scheme: DDC-DE
+  subject: "Menschliche Figuren"
+- id: "https://www.dnb.de/ddcuebersichten/758"
+  scheme: DDC-DE
+  subject: "Andere Motive"
+- id: "https://www.dnb.de/ddcuebersichten/759"
+  scheme: DDC-DE
+  subject: "Histor., geogr., personenbezogene Behandlung"
+- id: "https://www.dnb.de/ddcuebersichten/760"
+  scheme: DDC-DE
+  subject: "Grafik; Druckgrafik, Drucke"
+- id: "https://www.dnb.de/ddcuebersichten/761"
+  scheme: DDC-DE
+  subject: "Hochdruckverfahren (Blockdruck)"
+- id: "https://www.dnb.de/ddcuebersichten/763"
+  scheme: DDC-DE
+  subject: "Lithografische Druckverfahren"
+- id: "https://www.dnb.de/ddcuebersichten/764"
+  scheme: DDC-DE
+  subject: "Farblithografie, Serigrafie"
+- id: "https://www.dnb.de/ddcuebersichten/765"
+  scheme: DDC-DE
+  subject: "Metallgravur"
+- id: "https://www.dnb.de/ddcuebersichten/766"
+  scheme: DDC-DE
+  subject: "Mezzotinto, Aquatinta und verwandte Techniken"
+- id: "https://www.dnb.de/ddcuebersichten/767"
+  scheme: DDC-DE
+  subject: "Radierung, Kaltnadelarbeit"
+- id: "https://www.dnb.de/ddcuebersichten/769"
+  scheme: DDC-DE
+  subject: "Drucke"
+- id: "https://www.dnb.de/ddcuebersichten/770"
+  scheme: DDC-DE
+  subject: "Fotografie, Fotografien, Computerkunst"
+- id: "https://www.dnb.de/ddcuebersichten/771"
+  scheme: DDC-DE
+  subject: "Techniken, Ausstattung, Materialien"
+- id: "https://www.dnb.de/ddcuebersichten/772"
+  scheme: DDC-DE
+  subject: "Entwicklungsverfahren mit Metallsalzen"
+- id: "https://www.dnb.de/ddcuebersichten/773"
+  scheme: DDC-DE
+  subject: "Pigmentdruckverfahren"
+- id: "https://www.dnb.de/ddcuebersichten/774"
+  scheme: DDC-DE
+  subject: "Holografie"
+- id: "https://www.dnb.de/ddcuebersichten/775"
+  scheme: DDC-DE
+  subject: "Digitale Fotografie"
+- id: "https://www.dnb.de/ddcuebersichten/776"
+  scheme: DDC-DE
+  subject: "Computerkunst (Digitale Kunst)"
+- id: "https://www.dnb.de/ddcuebersichten/778"
+  scheme: DDC-DE
+  subject: "Bereiche und Arten der Fotografie"
+- id: "https://www.dnb.de/ddcuebersichten/779"
+  scheme: DDC-DE
+  subject: "Fotografien"
+- id: "https://www.dnb.de/ddcuebersichten/780"
+  scheme: DDC-DE
+  subject: "Musik"
+- id: "https://www.dnb.de/ddcuebersichten/781"
+  scheme: DDC-DE
+  subject: "Allgemeine Prinzipien, musikalische Formen"
+- id: "https://www.dnb.de/ddcuebersichten/782"
+  scheme: DDC-DE
+  subject: "Vokalmusik"
+- id: "https://www.dnb.de/ddcuebersichten/783"
+  scheme: DDC-DE
+  subject: "Musik für Einzelstimmen; die Stimme"
+- id: "https://www.dnb.de/ddcuebersichten/784"
+  scheme: DDC-DE
+  subject: "Instrumente, Instrumentalensembles"
+- id: "https://www.dnb.de/ddcuebersichten/785"
+  scheme: DDC-DE
+  subject: "Ensembles mit einem Instrument pro Stimme"
+- id: "https://www.dnb.de/ddcuebersichten/786"
+  scheme: DDC-DE
+  subject: "Tasteninstrumente, andere Instrumente"
+- id: "https://www.dnb.de/ddcuebersichten/787"
+  scheme: DDC-DE
+  subject: "Saiteninstrumente"
+- id: "https://www.dnb.de/ddcuebersichten/788"
+  scheme: DDC-DE
+  subject: "Blasinstrumente"
+- id: "https://www.dnb.de/ddcuebersichten/790"
+  scheme: DDC-DE
+  subject: "Freizeitgestaltung, darstellende Künste, Sport"
+- id: "https://www.dnb.de/ddcuebersichten/791"
+  scheme: DDC-DE
+  subject: "Öffentliche Darbietungen, Film, Rundfunk"
+- id: "https://www.dnb.de/ddcuebersichten/792"
+  scheme: DDC-DE
+  subject: "Bühnenkunst"
+- id: "https://www.dnb.de/ddcuebersichten/793"
+  scheme: DDC-DE
+  subject: "Spiele und Freizeitaktivitäten für drinnen"
+- id: "https://www.dnb.de/ddcuebersichten/794"
+  scheme: DDC-DE
+  subject: "Unterhaltungsspiele für drinnen"
+- id: "https://www.dnb.de/ddcuebersichten/795"
+  scheme: DDC-DE
+  subject: "Glücksspiele"
+- id: "https://www.dnb.de/ddcuebersichten/796"
+  scheme: DDC-DE
+  subject: "Sportarten, Sportspiele"
+- id: "https://www.dnb.de/ddcuebersichten/797"
+  scheme: DDC-DE
+  subject: "Wasser- und Luftsport"
+- id: "https://www.dnb.de/ddcuebersichten/798"
+  scheme: DDC-DE
+  subject: "Pferdesport, Tierrennen"
+- id: "https://www.dnb.de/ddcuebersichten/799"
+  scheme: DDC-DE
+  subject: "Fischfang, Jagd, Schießen"
+- id: "https://www.dnb.de/ddcuebersichten/800"
+  scheme: DDC-DE
+  subject: "Literatur und Rhetorik"
+- id: "https://www.dnb.de/ddcuebersichten/801"
+  scheme: DDC-DE
+  subject: "Literaturtheorie"
+- id: "https://www.dnb.de/ddcuebersichten/802"
+  scheme: DDC-DE
+  subject: "Verschiedenes"
+- id: "https://www.dnb.de/ddcuebersichten/803"
+  scheme: DDC-DE
+  subject: "Wörterbücher, Enzyklopädien"
+- id: "https://www.dnb.de/ddcuebersichten/805"
+  scheme: DDC-DE
+  subject: "Fortlaufende Sammelwerke"
+- id: "https://www.dnb.de/ddcuebersichten/806"
+  scheme: DDC-DE
+  subject: "Organisationen, Management"
+- id: "https://www.dnb.de/ddcuebersichten/807"
+  scheme: DDC-DE
+  subject: "Ausbildung, Forschung, verwandte Themen"
+- id: "https://www.dnb.de/ddcuebersichten/808"
+  scheme: DDC-DE
+  subject: "Rhetorik, Sammlungen von Literatur"
+- id: "https://www.dnb.de/ddcuebersichten/809"
+  scheme: DDC-DE
+  subject: "Geschichte, Darstellung, Literaturwissenschaft und –kritik"
+- id: "https://www.dnb.de/ddcuebersichten/810"
+  scheme: DDC-DE
+  subject: "Amerikanische Literatur in in Englisch"
+- id: "https://www.dnb.de/ddcuebersichten/811"
+  scheme: DDC-DE
+  subject: "Amerikanische Versdichtung"
+- id: "https://www.dnb.de/ddcuebersichten/812"
+  scheme: DDC-DE
+  subject: "Amerikanische Dramen"
+- id: "https://www.dnb.de/ddcuebersichten/813"
+  scheme: DDC-DE
+  subject: "Amerikanische Erzählprosa"
+- id: "https://www.dnb.de/ddcuebersichten/814"
+  scheme: DDC-DE
+  subject: "Amerikanische Essays"
+- id: "https://www.dnb.de/ddcuebersichten/815"
+  scheme: DDC-DE
+  subject: "Amerikanische Reden"
+- id: "https://www.dnb.de/ddcuebersichten/816"
+  scheme: DDC-DE
+  subject: "Amerikanische Briefe"
+- id: "https://www.dnb.de/ddcuebersichten/817"
+  scheme: DDC-DE
+  subject: "Amerikanischer Humor, amerikanische Satire"
+- id: "https://www.dnb.de/ddcuebersichten/818"
+  scheme: DDC-DE
+  subject: "Amerikanische vermischte Schriften"
+- id: "https://www.dnb.de/ddcuebersichten/820"
+  scheme: DDC-DE
+  subject: "Englische, altenglische Literaturen"
+- id: "https://www.dnb.de/ddcuebersichten/821"
+  scheme: DDC-DE
+  subject: "Englische Versdichtung"
+- id: "https://www.dnb.de/ddcuebersichten/822"
+  scheme: DDC-DE
+  subject: "Englische Dramen"
+- id: "https://www.dnb.de/ddcuebersichten/823"
+  scheme: DDC-DE
+  subject: "Englische Erzählprosa"
+- id: "https://www.dnb.de/ddcuebersichten/824"
+  scheme: DDC-DE
+  subject: "Englische Essays"
+- id: "https://www.dnb.de/ddcuebersichten/825"
+  scheme: DDC-DE
+  subject: "Englische Reden"
+- id: "https://www.dnb.de/ddcuebersichten/826"
+  scheme: DDC-DE
+  subject: "Englische Briefe"
+- id: "https://www.dnb.de/ddcuebersichten/827"
+  scheme: DDC-DE
+  subject: "Englischer Humor, englische Satire"
+- id: "https://www.dnb.de/ddcuebersichten/828"
+  scheme: DDC-DE
+  subject: "Englische vermischte Schriften"
+- id: "https://www.dnb.de/ddcuebersichten/829"
+  scheme: DDC-DE
+  subject: "Altenglische (Angelsächsische) Literatur"
+- id: "https://www.dnb.de/ddcuebersichten/830"
+  scheme: DDC-DE
+  subject: "Literaturen germanischer Sprachen; Deutsche Literatur"
+- id: "https://www.dnb.de/ddcuebersichten/831"
+  scheme: DDC-DE
+  subject: "Deutsche Versdichtung"
+- id: "https://www.dnb.de/ddcuebersichten/832"
+  scheme: DDC-DE
+  subject: "Deutsche Dramen"
+- id: "https://www.dnb.de/ddcuebersichten/833"
+  scheme: DDC-DE
+  subject: "Deutsche Erzählprosa"
+- id: "https://www.dnb.de/ddcuebersichten/834"
+  scheme: DDC-DE
+  subject: "Deutsche Essays"
+- id: "https://www.dnb.de/ddcuebersichten/835"
+  scheme: DDC-DE
+  subject: "Deutsche Reden"
+- id: "https://www.dnb.de/ddcuebersichten/836"
+  scheme: DDC-DE
+  subject: "Deutsche Briefe"
+- id: "https://www.dnb.de/ddcuebersichten/837"
+  scheme: DDC-DE
+  subject: "Deutscher Humor, deutsche Satire"
+- id: "https://www.dnb.de/ddcuebersichten/838"
+  scheme: DDC-DE
+  subject: "Deutsche vermischte Schriften"
+- id: "https://www.dnb.de/ddcuebersichten/839"
+  scheme: DDC-DE
+  subject: "Andere germanische Literaturen"
+- id: "https://www.dnb.de/ddcuebersichten/840"
+  scheme: DDC-DE
+  subject: "Literaturen romanischer Sprachen; Französische Literatur"
+- id: "https://www.dnb.de/ddcuebersichten/841"
+  scheme: DDC-DE
+  subject: "Französische Versdichtung"
+- id: "https://www.dnb.de/ddcuebersichten/842"
+  scheme: DDC-DE
+  subject: "Französische Dramen"
+- id: "https://www.dnb.de/ddcuebersichten/843"
+  scheme: DDC-DE
+  subject: "Französische Erzählprosa"
+- id: "https://www.dnb.de/ddcuebersichten/844"
+  scheme: DDC-DE
+  subject: "Französische Essays"
+- id: "https://www.dnb.de/ddcuebersichten/845"
+  scheme: DDC-DE
+  subject: "Französische Reden"
+- id: "https://www.dnb.de/ddcuebersichten/846"
+  scheme: DDC-DE
+  subject: "Französische Briefe"
+- id: "https://www.dnb.de/ddcuebersichten/847"
+  scheme: DDC-DE
+  subject: "Französischer Humor, französische Satire"
+- id: "https://www.dnb.de/ddcuebersichten/848"
+  scheme: DDC-DE
+  subject: "Französische vermischte Schriften"
+- id: "https://www.dnb.de/ddcuebersichten/849"
+  scheme: DDC-DE
+  subject: "Okzitanische, katalanische Literaturen"
+- id: "https://www.dnb.de/ddcuebersichten/850"
+  scheme: DDC-DE
+  subject: "Italienische, rumänische, rätoromanische Literaturen"
+- id: "https://www.dnb.de/ddcuebersichten/851"
+  scheme: DDC-DE
+  subject: "Italienische Versdichtung"
+- id: "https://www.dnb.de/ddcuebersichten/852"
+  scheme: DDC-DE
+  subject: "Italienische Dramen"
+- id: "https://www.dnb.de/ddcuebersichten/853"
+  scheme: DDC-DE
+  subject: "Italienische Erzählprosa"
+- id: "https://www.dnb.de/ddcuebersichten/854"
+  scheme: DDC-DE
+  subject: "Italienische Essays"
+- id: "https://www.dnb.de/ddcuebersichten/855"
+  scheme: DDC-DE
+  subject: "Italienische Reden"
+- id: "https://www.dnb.de/ddcuebersichten/856"
+  scheme: DDC-DE
+  subject: "Italienische Briefe"
+- id: "https://www.dnb.de/ddcuebersichten/857"
+  scheme: DDC-DE
+  subject: "Italienischer Humor, italienische Satire"
+- id: "https://www.dnb.de/ddcuebersichten/858"
+  scheme: DDC-DE
+  subject: "Italienische vermischte Schriften"
+- id: "https://www.dnb.de/ddcuebersichten/859"
+  scheme: DDC-DE
+  subject: "Rumänische, rätoromanische Literaturen"
+- id: "https://www.dnb.de/ddcuebersichten/860"
+  scheme: DDC-DE
+  subject: "Spanische, portugiesische Literaturen"
+- id: "https://www.dnb.de/ddcuebersichten/861"
+  scheme: DDC-DE
+  subject: "Spanische Versdichtung"
+- id: "https://www.dnb.de/ddcuebersichten/862"
+  scheme: DDC-DE
+  subject: "Spanische Dramen"
+- id: "https://www.dnb.de/ddcuebersichten/863"
+  scheme: DDC-DE
+  subject: "Spanische Erzählprosa"
+- id: "https://www.dnb.de/ddcuebersichten/864"
+  scheme: DDC-DE
+  subject: "Spanische Essays"
+- id: "https://www.dnb.de/ddcuebersichten/865"
+  scheme: DDC-DE
+  subject: "Spanische Reden"
+- id: "https://www.dnb.de/ddcuebersichten/866"
+  scheme: DDC-DE
+  subject: "Spanische Briefe"
+- id: "https://www.dnb.de/ddcuebersichten/867"
+  scheme: DDC-DE
+  subject: "Spanischer Humor, spanische Satire"
+- id: "https://www.dnb.de/ddcuebersichten/868"
+  scheme: DDC-DE
+  subject: "Spanische vermischte Schriften"
+- id: "https://www.dnb.de/ddcuebersichten/869"
+  scheme: DDC-DE
+  subject: "Portugiesische Literatur"
+- id: "https://www.dnb.de/ddcuebersichten/870"
+  scheme: DDC-DE
+  subject: "Italische Literaturen; Lateinische Literatur"
+- id: "https://www.dnb.de/ddcuebersichten/871"
+  scheme: DDC-DE
+  subject: "Lateinische Versdichtung"
+- id: "https://www.dnb.de/ddcuebersichten/872"
+  scheme: DDC-DE
+  subject: "Lateinische dramatische Versdichtung, Dramen"
+- id: "https://www.dnb.de/ddcuebersichten/873"
+  scheme: DDC-DE
+  subject: "Lateinische erzählende Versdichtung, Erzählprosa"
+- id: "https://www.dnb.de/ddcuebersichten/874"
+  scheme: DDC-DE
+  subject: "Lateinische lyrische Versdichtung"
+- id: "https://www.dnb.de/ddcuebersichten/875"
+  scheme: DDC-DE
+  subject: "Lateinische Reden"
+- id: "https://www.dnb.de/ddcuebersichten/876"
+  scheme: DDC-DE
+  subject: "Lateinische Briefe"
+- id: "https://www.dnb.de/ddcuebersichten/877"
+  scheme: DDC-DE
+  subject: "Lateinischer Humor, lateinische Satire"
+- id: "https://www.dnb.de/ddcuebersichten/878"
+  scheme: DDC-DE
+  subject: "Lateinische vermischte Schriften"
+- id: "https://www.dnb.de/ddcuebersichten/879"
+  scheme: DDC-DE
+  subject: "Literaturen anderer italischer Sprachen"
+- id: "https://www.dnb.de/ddcuebersichten/880"
+  scheme: DDC-DE
+  subject: "Hellenische Literaturen; Klassische griechische Literatur"
+- id: "https://www.dnb.de/ddcuebersichten/881"
+  scheme: DDC-DE
+  subject: "Klassische griechische Versdichtung"
+- id: "https://www.dnb.de/ddcuebersichten/882"
+  scheme: DDC-DE
+  subject: "Klassische griechische dramatische Versdichtung, Dramen"
+- id: "https://www.dnb.de/ddcuebersichten/883"
+  scheme: DDC-DE
+  subject: "Klassische griechische erzählende Versdichtung, Erzählprosa"
+- id: "https://www.dnb.de/ddcuebersichten/884"
+  scheme: DDC-DE
+  subject: "Klassische griechische lyrische Versdichtung"
+- id: "https://www.dnb.de/ddcuebersichten/885"
+  scheme: DDC-DE
+  subject: "Klassische griechische Reden"
+- id: "https://www.dnb.de/ddcuebersichten/886"
+  scheme: DDC-DE
+  subject: "Klassische griechische Briefe"
+- id: "https://www.dnb.de/ddcuebersichten/887"
+  scheme: DDC-DE
+  subject: "Humor und Satire in klassischem Griechisch"
+- id: "https://www.dnb.de/ddcuebersichten/888"
+  scheme: DDC-DE
+  subject: "Klassische griechische vermischte Schriften"
+- id: "https://www.dnb.de/ddcuebersichten/889"
+  scheme: DDC-DE
+  subject: "Neugriechische Literatur"
+- id: "https://www.dnb.de/ddcuebersichten/890"
+  scheme: DDC-DE
+  subject: "Literaturen anderer Sprachen"
+- id: "https://www.dnb.de/ddcuebersichten/891"
+  scheme: DDC-DE
+  subject: "Ostindoeuropäische, keltische Literaturen"
+- id: "https://www.dnb.de/ddcuebersichten/892"
+  scheme: DDC-DE
+  subject: "Afroasiatische Literaturen; Semitische Literaturen"
+- id: "https://www.dnb.de/ddcuebersichten/893"
+  scheme: DDC-DE
+  subject: "Nichtsemitische afroasiatische Literaturen"
+- id: "https://www.dnb.de/ddcuebersichten/894"
+  scheme: DDC-DE
+  subject: "Altaische, uralische, paläosibirische, drawidische Literaturen"
+- id: "https://www.dnb.de/ddcuebersichten/895"
+  scheme: DDC-DE
+  subject: "Ost- und südostasiatische Literaturen"
+- id: "https://www.dnb.de/ddcuebersichten/896"
+  scheme: DDC-DE
+  subject: "Afrikanische Literaturen"
+- id: "https://www.dnb.de/ddcuebersichten/897"
+  scheme: DDC-DE
+  subject: "Literaturen nordamerikanischer Indianersprachen"
+- id: "https://www.dnb.de/ddcuebersichten/898"
+  scheme: DDC-DE
+  subject: "Literaturen südamerikanischer Indianersprachen"
+- id: "https://www.dnb.de/ddcuebersichten/899"
+  scheme: DDC-DE
+  subject: "Austronesische und andere Literaturen"
+- id: "https://www.dnb.de/ddcuebersichten/900"
+  scheme: DDC-DE
+  subject: "Geschichte und Geografie"
+- id: "https://www.dnb.de/ddcuebersichten/901"
+  scheme: DDC-DE
+  subject: "Geschichtsphilosophie, Geschichtstheorie"
+- id: "https://www.dnb.de/ddcuebersichten/902"
+  scheme: DDC-DE
+  subject: "Verschiedenes"
+- id: "https://www.dnb.de/ddcuebersichten/903"
+  scheme: DDC-DE
+  subject: "Wörterbücher, Enzyklopädien"
+- id: "https://www.dnb.de/ddcuebersichten/904"
+  scheme: DDC-DE
+  subject: "Allgemeine Darstellungen von Ereignissen"
+- id: "https://www.dnb.de/ddcuebersichten/905"
+  scheme: DDC-DE
+  subject: "Fortlaufende Sammelwerke"
+- id: "https://www.dnb.de/ddcuebersichten/906"
+  scheme: DDC-DE
+  subject: "Organisationen, Management"
+- id: "https://www.dnb.de/ddcuebersichten/907"
+  scheme: DDC-DE
+  subject: "Ausbildung, Forschung, verwandte Themen"
+- id: "https://www.dnb.de/ddcuebersichten/908"
+  scheme: DDC-DE
+  subject: "Behandlung nach Personengruppen"
+- id: "https://www.dnb.de/ddcuebersichten/909"
+  scheme: DDC-DE
+  subject: "Weltgeschichte"
+- id: "https://www.dnb.de/ddcuebersichten/910"
+  scheme: DDC-DE
+  subject: "Geografie, Reisen"
+- id: "https://www.dnb.de/ddcuebersichten/911"
+  scheme: DDC-DE
+  subject: "Historische Geografie"
+- id: "https://www.dnb.de/ddcuebersichten/912"
+  scheme: DDC-DE
+  subject: "Atlanten, Karten, Grafiken, Pläne"
+- id: "https://www.dnb.de/ddcuebersichten/913"
+  scheme: DDC-DE
+  subject: "Geografie der und Reisen in der Alten Welt"
+- id: "https://www.dnb.de/ddcuebersichten/914"
+  scheme: DDC-DE
+  subject: "Geografie Europas und Reisen in Europa"
+- id: "https://www.dnb.de/ddcuebersichten/915"
+  scheme: DDC-DE
+  subject: "Geografie Asiens und Reisen in Asien"
+- id: "https://www.dnb.de/ddcuebersichten/916"
+  scheme: DDC-DE
+  subject: "Geografie Afrikas und Reisen in Afrika"
+- id: "https://www.dnb.de/ddcuebersichten/917"
+  scheme: DDC-DE
+  subject: "Geografie Nordamerikas und Reisen in Nordamerika"
+- id: "https://www.dnb.de/ddcuebersichten/918"
+  scheme: DDC-DE
+  subject: "Geografie Südamerikas und Reisen in Südamerika"
+- id: "https://www.dnb.de/ddcuebersichten/919"
+  scheme: DDC-DE
+  subject: "Geografie anderer Gebiete und Reisen in anderen Gebieten"
+- id: "https://www.dnb.de/ddcuebersichten/920"
+  scheme: DDC-DE
+  subject: "Biografien, Genealogie, Insignien"
+- id: "https://www.dnb.de/ddcuebersichten/929"
+  scheme: DDC-DE
+  subject: "Genealogie, Namenkunde, Insignien"
+- id: "https://www.dnb.de/ddcuebersichten/930"
+  scheme: DDC-DE
+  subject: "Geschichte des Altertums bis ca. 499, Archäologie"
+- id: "https://www.dnb.de/ddcuebersichten/931"
+  scheme: DDC-DE
+  subject: "Geschichte Chinas bis 420"
+- id: "https://www.dnb.de/ddcuebersichten/932"
+  scheme: DDC-DE
+  subject: "Geschichte Ägyptens bis 640"
+- id: "https://www.dnb.de/ddcuebersichten/933"
+  scheme: DDC-DE
+  subject: "Geschichte Palästinas bis 70"
+- id: "https://www.dnb.de/ddcuebersichten/934"
+  scheme: DDC-DE
+  subject: "Geschichte Indiens bis 647"
+- id: "https://www.dnb.de/ddcuebersichten/935"
+  scheme: DDC-DE
+  subject: "Geschichte Mesopotamiens und der iranischen Hochebene bis 637"
+- id: "https://www.dnb.de/ddcuebersichten/936"
+  scheme: DDC-DE
+  subject: "Geschichte Europas nördlich und westlich von Italien bis ca. 499"
+- id: "https://www.dnb.de/ddcuebersichten/937"
+  scheme: DDC-DE
+  subject: "Geschichte Italiens und benachbarter Gebiete bis 476"
+- id: "https://www.dnb.de/ddcuebersichten/938"
+  scheme: DDC-DE
+  subject: "Geschichte Griechenlands bis 323"
+- id: "https://www.dnb.de/ddcuebersichten/939"
+  scheme: DDC-DE
+  subject: "Geschichte anderer Teile der Welt bis ca. 640"
+- id: "https://www.dnb.de/ddcuebersichten/940"
+  scheme: DDC-DE
+  subject: "Geschichte Europas"
+- id: "https://www.dnb.de/ddcuebersichten/941"
+  scheme: DDC-DE
+  subject: "Geschichte der Britischen Inseln"
+- id: "https://www.dnb.de/ddcuebersichten/942"
+  scheme: DDC-DE
+  subject: "Geschichte Englands und Wales’"
+- id: "https://www.dnb.de/ddcuebersichten/943"
+  scheme: DDC-DE
+  subject: "Geschichte Mitteleuropas; Deutschlands"
+- id: "https://www.dnb.de/ddcuebersichten/944"
+  scheme: DDC-DE
+  subject: "Geschichte Frankreichs und Monacos"
+- id: "https://www.dnb.de/ddcuebersichten/945"
+  scheme: DDC-DE
+  subject: "Geschichte der italienische Halbinsel und benachbarter Inseln"
+- id: "https://www.dnb.de/ddcuebersichten/946"
+  scheme: DDC-DE
+  subject: "Geschichte der iberischen Halbinsel und benachbarter Inseln"
+- id: "https://www.dnb.de/ddcuebersichten/947"
+  scheme: DDC-DE
+  subject: "Geschichte Osteuropas; Russlands"
+- id: "https://www.dnb.de/ddcuebersichten/948"
+  scheme: DDC-DE
+  subject: "Geschichte Skandinaviens"
+- id: "https://www.dnb.de/ddcuebersichten/949"
+  scheme: DDC-DE
+  subject: "Geschichte anderer Teile Europas"
+- id: "https://www.dnb.de/ddcuebersichten/950"
+  scheme: DDC-DE
+  subject: "Geschichte Asiens; des Fernen Ostens"
+- id: "https://www.dnb.de/ddcuebersichten/951"
+  scheme: DDC-DE
+  subject: "Geschichte Chinas und benachbarter Gebiete"
+- id: "https://www.dnb.de/ddcuebersichten/952"
+  scheme: DDC-DE
+  subject: "Geschichte Japans"
+- id: "https://www.dnb.de/ddcuebersichten/953"
+  scheme: DDC-DE
+  subject: "Geschichte der arabischen Halbinsel und benachbarter Gebiete"
+- id: "https://www.dnb.de/ddcuebersichten/954"
+  scheme: DDC-DE
+  subject: "Geschichte Südasiens; Indiens"
+- id: "https://www.dnb.de/ddcuebersichten/955"
+  scheme: DDC-DE
+  subject: "Geschichte Irans"
+- id: "https://www.dnb.de/ddcuebersichten/956"
+  scheme: DDC-DE
+  subject: "Geschichte des Nahen Ostens (Mittleren Ostens)"
+- id: "https://www.dnb.de/ddcuebersichten/957"
+  scheme: DDC-DE
+  subject: "Geschichte Sibiriens (der Asiatischen Russlands)"
+- id: "https://www.dnb.de/ddcuebersichten/958"
+  scheme: DDC-DE
+  subject: "Geschichte Zentralasiens"
+- id: "https://www.dnb.de/ddcuebersichten/959"
+  scheme: DDC-DE
+  subject: "Geschichte Südostasiens"
+- id: "https://www.dnb.de/ddcuebersichten/960"
+  scheme: DDC-DE
+  subject: "Geschichte Afrikas"
+- id: "https://www.dnb.de/ddcuebersichten/961"
+  scheme: DDC-DE
+  subject: "Geschichte Tunesiens und Libyens"
+- id: "https://www.dnb.de/ddcuebersichten/962"
+  scheme: DDC-DE
+  subject: "Geschichte Ägyptens und Sudans"
+- id: "https://www.dnb.de/ddcuebersichten/963"
+  scheme: DDC-DE
+  subject: "Geschichte Äthiopiens und Eritreas"
+- id: "https://www.dnb.de/ddcuebersichten/964"
+  scheme: DDC-DE
+  subject: "Geschichte der nordwestafrikanischen Küste und vorgelagerter Inseln"
+- id: "https://www.dnb.de/ddcuebersichten/965"
+  scheme: DDC-DE
+  subject: "Geschichte Algeriens"
+- id: "https://www.dnb.de/ddcuebersichten/966"
+  scheme: DDC-DE
+  subject: "Geschichte Westafrikas und vorgelagerter Inseln"
+- id: "https://www.dnb.de/ddcuebersichten/967"
+  scheme: DDC-DE
+  subject: "Geschichte Zentralafrikas und vorgelagerter Inseln"
+- id: "https://www.dnb.de/ddcuebersichten/968"
+  scheme: DDC-DE
+  subject: "Geschichte Südafrikas; der Republik Südafrika"
+- id: "https://www.dnb.de/ddcuebersichten/969"
+  scheme: DDC-DE
+  subject: "Geschichte der Inseln im südlichen Indischen Ozean"
+- id: "https://www.dnb.de/ddcuebersichten/970"
+  scheme: DDC-DE
+  subject: "Geschichte Nordamerikas"
+- id: "https://www.dnb.de/ddcuebersichten/971"
+  scheme: DDC-DE
+  subject: "Geschichte Kanadas"
+- id: "https://www.dnb.de/ddcuebersichten/972"
+  scheme: DDC-DE
+  subject: "Geschichte Mittelamerikas; Mexikos"
+- id: "https://www.dnb.de/ddcuebersichten/973"
+  scheme: DDC-DE
+  subject: "Geschichte der USA"
+- id: "https://www.dnb.de/ddcuebersichten/974"
+  scheme: DDC-DE
+  subject: "Geschichte der nordöstlichen Staaten der USA"
+- id: "https://www.dnb.de/ddcuebersichten/975"
+  scheme: DDC-DE
+  subject: "Geschichte der südöstlichen Staaten der USA"
+- id: "https://www.dnb.de/ddcuebersichten/976"
+  scheme: DDC-DE
+  subject: "Geschichte der südlichen zentralen Staaten der USA"
+- id: "https://www.dnb.de/ddcuebersichten/977"
+  scheme: DDC-DE
+  subject: "Geschichte der nördlichen zentralen Staaten der USA"
+- id: "https://www.dnb.de/ddcuebersichten/978"
+  scheme: DDC-DE
+  subject: "Geschichte der westlichen Staaten der USA"
+- id: "https://www.dnb.de/ddcuebersichten/979"
+  scheme: DDC-DE
+  subject: "Geschichte der Staaten des Großen Beckens und der pazifischen Gebirgsketten"
+- id: "https://www.dnb.de/ddcuebersichten/980"
+  scheme: DDC-DE
+  subject: "Geschichte Südamerikas"
+- id: "https://www.dnb.de/ddcuebersichten/981"
+  scheme: DDC-DE
+  subject: "Geschichte Brasiliens"
+- id: "https://www.dnb.de/ddcuebersichten/982"
+  scheme: DDC-DE
+  subject: "Geschichte Argentiniens"
+- id: "https://www.dnb.de/ddcuebersichten/983"
+  scheme: DDC-DE
+  subject: "Geschichte Chiles"
+- id: "https://www.dnb.de/ddcuebersichten/984"
+  scheme: DDC-DE
+  subject: "Geschichte Boliviens"
+- id: "https://www.dnb.de/ddcuebersichten/985"
+  scheme: DDC-DE
+  subject: "Geschichte Perus"
+- id: "https://www.dnb.de/ddcuebersichten/986"
+  scheme: DDC-DE
+  subject: "Geschichte Kolumbiens und Ecuadors"
+- id: "https://www.dnb.de/ddcuebersichten/987"
+  scheme: DDC-DE
+  subject: "Geschichte Venezuelas"
+- id: "https://www.dnb.de/ddcuebersichten/988"
+  scheme: DDC-DE
+  subject: "Geschichte Guayanas"
+- id: "https://www.dnb.de/ddcuebersichten/989"
+  scheme: DDC-DE
+  subject: "Geschichte Paraguays und Uruguays"
+- id: "https://www.dnb.de/ddcuebersichten/990"
+  scheme: DDC-DE
+  subject: "Geschichte anderer Gebiete"
+- id: "https://www.dnb.de/ddcuebersichten/993"
+  scheme: DDC-DE
+  subject: "Geschichte Neuseelands"
+- id: "https://www.dnb.de/ddcuebersichten/994"
+  scheme: DDC-DE
+  subject: "Geschichte Australiens"
+- id: "https://www.dnb.de/ddcuebersichten/995"
+  scheme: DDC-DE
+  subject: "Geschichte Melanesiens; Neuguineas"
+- id: "https://www.dnb.de/ddcuebersichten/996"
+  scheme: DDC-DE
+  subject: "Geschichte anderer Teile des Pazifischen Ozeans; Polynesiens"
+- id: "https://www.dnb.de/ddcuebersichten/997"
+  scheme: DDC-DE
+  subject: "Geschichte der atlantischen Inseln"
+- id: "https://www.dnb.de/ddcuebersichten/998"
+  scheme: DDC-DE
+  subject: "Geschichte der arktischen Inseln und der Antarktis"
+- id: "https://www.dnb.de/ddcuebersichten/999"
+  scheme: DDC-DE
+  subject: "Geschichte der außerirdischen Welten"

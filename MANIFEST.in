@@ -1,0 +1,35 @@
+# -*- coding: utf-8 -*-
+#
+# Copyright (C) 2021 Northwestern University.
+# Copyright (C) 2022 University of Münster.
+#
+# invenio-subjects-ddc is free software; you can redistribute it and/or
+# modify it under the terms of the MIT License; see LICENSE file for more
+# details.
+
+# Update this manifest file by running the following commands:
+# (please sort the lines in this file after running below commands)
+#
+#  check-manifest -u
+
+include .editorconfig
+prune docs/_build
+recursive-include .github/workflows *.yml
+recursive-include invenio_subjects_ddc_german/translations *.po *.pot *.mo
+
+# added by check-manifest
+include *.rst
+include *.md
+include *.sh
+include *.txt
+# include babel.ini
+include pytest.ini
+include Makefile
+recursive-include docs *.bat
+recursive-include docs *.py
+recursive-include docs *.rst
+recursive-include docs *.txt
+recursive-include docs Makefile
+recursive-include invenio_subjects_ddc_german *.html
+recursive-include invenio_subjects_ddc_german *.yaml *.yml
+recursive-include tests *.py
