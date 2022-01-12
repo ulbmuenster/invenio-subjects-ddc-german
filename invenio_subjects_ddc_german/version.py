@@ -13,4 +13,4 @@ This file is imported by ``invenio_subjects_ddc_german.__init__``,
 and parsed by ``setup.py``.
 """
 
-__version__ = '2022.01.06'
+__version__ = '2022.01.07'

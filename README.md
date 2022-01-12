@@ -8,7 +8,7 @@ Install this extension to get the german [Dewey Decimal Classification](https://
 
 From your instance directory:
 
-    pipenv install invenio-subjects-ddc
+    pipenv install invenio-subjects-ddc-german
 
 This will add it to your Pipfile.
 

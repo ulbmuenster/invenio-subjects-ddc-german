@@ -61,3 +61,6 @@ target/
 # Editors
 .*.sw?
 .vscode/
+
+Pipfile
+Pipfile.lock
