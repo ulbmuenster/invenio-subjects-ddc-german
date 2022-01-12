@@ -1,4 +1,5 @@
 ..
+    Copyright (C) 2021 Northwestern University.
     Copyright (C) 2022 University of Münster.
 
     invenio-subjects-ddc is free software; you can redistribute it and/or
