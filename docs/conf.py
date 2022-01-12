@@ -1,5 +1,6 @@
 # -*- coding: utf-8 -*-
 #
+# Copyright (C) 2021 Northwestern University.
 # Copyright (C) 2022 University of Münster.
 #
 # invenio-subjects-ddc-german is free software; you can redistribute it and/or
@@ -59,7 +60,7 @@ author = u'University of Münster'
 # Get the version string. Cannot be done with import!
 g = {}
 with open(os.path.join(os.path.dirname(__file__), '..',
-                       'invenio_subjects_ddc', 'version.py'),
+                       'invenio_subjects_ddc_german', 'version.py'),
           'rt') as fp:
     exec(fp.read(), g)
     version = g['__version__']
@@ -123,8 +124,8 @@ html_theme_options = {
     'github_banner': True,
     'show_powered_by': False,
     'extra_nav_links': {
-        'invenio-subjects-ddc-german@GitHub': 'https://github.com/ulbmuenster/invenio-subjects-ddc',
-        'invenio-subjects-ddc-german@PyPI': 'https://pypi.python.org/pypi/invenio-subjects-ddc/',
+        'invenio-subjects-ddc-german@GitHub': 'https://github.com/ulbmuenster/invenio-subjects-ddc-german',
+        'invenio-subjects-ddc-german@PyPI': 'https://pypi.python.org/pypi/invenio-subjects-ddc-german/',
     }
 }
 

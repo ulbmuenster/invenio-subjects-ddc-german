@@ -104,8 +104,8 @@ devhelp:
 	@echo
 	@echo "Build finished."
 	@echo "To view the help file:"
-	@echo "# mkdir -p $$HOME/.local/share/devhelp/invenio-subjects-lcsh"
-	@echo "# ln -s $(BUILDDIR)/devhelp $$HOME/.local/share/devhelp/invenio-subjects-lcsh"
+	@echo "# mkdir -p $$HOME/.local/share/devhelp/invenio-subjects-ddc-german"
+	@echo "# ln -s $(BUILDDIR)/devhelp $$HOME/.local/share/devhelp/invenio-subjects-ddc-german"
 	@echo "# devhelp"
 
 epub:
