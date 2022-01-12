@@ -43,16 +43,16 @@ When a new list of DDC term comes out, this package should be updated. Here we s
 
    1- Download the new list
    2- Convert terms to InvenioRDM subjects format
-   3- Write those to `invenio_subjects_ddc/vocabularies/subjects_ddc.yaml` file
+   3- Write those to `invenio_subjects_ddc_german/vocabularies/subjects_ddc_german.yaml` file
 
 3- Run the tests just to make sure everything is still good:
 
     make test
 
-4- When you are happy with the list, bump the version in `invenio_subjects_ddc/version.py` and release it.
+4- When you are happy with the list, bump the version in `invenio_subjects_ddc_german/version.py` and release it.
 
 
 ## Future Ideas
 
 - InvenioRDM doesn't have a way to update pre-existing subjects yet. Once there is one,
-  this package should provide the functionality to update DDC terms.
+  this package should provide the functionality to update GND subject terms.
