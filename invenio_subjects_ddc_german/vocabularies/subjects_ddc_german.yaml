@@ -1,2703 +1,2703 @@
-- id: "https://www.dnb.de/ddcuebersichten/000"
+- id: "info:eu-repo/classification/ddc/000"
   scheme: DDC-DE
   subject: "000 Informatik, Informationswissenschaft & allgemeine Werke"
-- id: "https://www.dnb.de/ddcuebersichten/001"
+- id: "info:eu-repo/classification/ddc/001"
   scheme: DDC-DE
   subject: "001 Wissen"
-- id: "https://www.dnb.de/ddcuebersichten/002"
+- id: "info:eu-repo/classification/ddc/002"
   scheme: DDC-DE
   subject: "002 Das Buch"
-- id: "https://www.dnb.de/ddcuebersichten/003"
+- id: "info:eu-repo/classification/ddc/003"
   scheme: DDC-DE
   subject: "003 Systeme"
-- id: "https://www.dnb.de/ddcuebersichten/004"
+- id: "info:eu-repo/classification/ddc/004"
   scheme: DDC-DE
   subject: "004 Informatik"
-- id: "https://www.dnb.de/ddcuebersichten/005"
+- id: "info:eu-repo/classification/ddc/005"
   scheme: DDC-DE
   subject: "005 Computerprogrammierung, Computerprogramme & Daten"
-- id: "https://www.dnb.de/ddcuebersichten/006"
+- id: "info:eu-repo/classification/ddc/006"
   scheme: DDC-DE
   subject: "006 Spezielle Computerverfahren"
-- id: "https://www.dnb.de/ddcuebersichten/010"
+- id: "info:eu-repo/classification/ddc/010"
   scheme: DDC-DE
   subject: "010 Bibliografie"
-- id: "https://www.dnb.de/ddcuebersichten/011"
+- id: "info:eu-repo/classification/ddc/011"
   scheme: DDC-DE
   subject: "011 Bibliografien & Kataloge"
-- id: "https://www.dnb.de/ddcuebersichten/012"
+- id: "info:eu-repo/classification/ddc/012"
   scheme: DDC-DE
   subject: "012 Bibliografien & Kataloge von Einzelpersonen"
-- id: "https://www.dnb.de/ddcuebersichten/014"
+- id: "info:eu-repo/classification/ddc/014"
   scheme: DDC-DE
   subject: "014 Anonymer & pseudonymer Werke"
-- id: "https://www.dnb.de/ddcuebersichten/015"
+- id: "info:eu-repo/classification/ddc/015"
   scheme: DDC-DE
   subject: "015 Von Werken aus einzelnen Orten"
-- id: "https://www.dnb.de/ddcuebersichten/016"
+- id: "info:eu-repo/classification/ddc/016"
   scheme: DDC-DE
   subject: "016 Von Werken über einzelne Themen"
-- id: "https://www.dnb.de/ddcuebersichten/017"
+- id: "info:eu-repo/classification/ddc/017"
   scheme: DDC-DE
   subject: "017 Allgemeinbibliografien"
-- id: "https://www.dnb.de/ddcuebersichten/020"
+- id: "info:eu-repo/classification/ddc/020"
   scheme: DDC-DE
   subject: "020 Bibliotheks- & Informationswissenschaften"
-- id: "https://www.dnb.de/ddcuebersichten/021"
+- id: "info:eu-repo/classification/ddc/021"
   scheme: DDC-DE
   subject: "021 Beziehungen von Bibliotheken"
-- id: "https://www.dnb.de/ddcuebersichten/022"
+- id: "info:eu-repo/classification/ddc/022"
   scheme: DDC-DE
   subject: "022 Verwaltung von Bibliotheksgebäuden und Bibliotheksstandorten"
-- id: "https://www.dnb.de/ddcuebersichten/023"
+- id: "info:eu-repo/classification/ddc/023"
   scheme: DDC-DE
   subject: "023 Personalmanagement"
-- id: "https://www.dnb.de/ddcuebersichten/025"
+- id: "info:eu-repo/classification/ddc/025"
   scheme: DDC-DE
   subject: "025 Tätigkeiten in Bibliotheken"
-- id: "https://www.dnb.de/ddcuebersichten/026"
+- id: "info:eu-repo/classification/ddc/026"
   scheme: DDC-DE
   subject: "026 Fachgebiets- & themenspezifische Bibliotheken"
-- id: "https://www.dnb.de/ddcuebersichten/027"
+- id: "info:eu-repo/classification/ddc/027"
   scheme: DDC-DE
   subject: "027 Allgemeinbibliotheken"
-- id: "https://www.dnb.de/ddcuebersichten/028"
+- id: "info:eu-repo/classification/ddc/028"
   scheme: DDC-DE
   subject: "028 Lesen & Nutzung anderer Informationsmedien"
-- id: "https://www.dnb.de/ddcuebersichten/030"
+- id: "info:eu-repo/classification/ddc/030"
   scheme: DDC-DE
   subject: "030 Allgemeinenzyklopädien"
-- id: "https://www.dnb.de/ddcuebersichten/031"
+- id: "info:eu-repo/classification/ddc/031"
   scheme: DDC-DE
   subject: "031 Enzyklopädien in amerikanischem Englisch"
-- id: "https://www.dnb.de/ddcuebersichten/032"
+- id: "info:eu-repo/classification/ddc/032"
   scheme: DDC-DE
   subject: "032 Enzyklopädien in Englisch"
-- id: "https://www.dnb.de/ddcuebersichten/033"
+- id: "info:eu-repo/classification/ddc/033"
   scheme: DDC-DE
   subject: "033 In anderen germanischen Sprachen"
-- id: "https://www.dnb.de/ddcuebersichten/034"
+- id: "info:eu-repo/classification/ddc/034"
   scheme: DDC-DE
   subject: "034 Enzyklopädien in Französisch, Okzitanisch & Katalanisch"
-- id: "https://www.dnb.de/ddcuebersichten/035"
+- id: "info:eu-repo/classification/ddc/035"
   scheme: DDC-DE
   subject: "035 In Italienisch, Rumänisch & verwandten Sprachen"
-- id: "https://www.dnb.de/ddcuebersichten/036"
+- id: "info:eu-repo/classification/ddc/036"
   scheme: DDC-DE
   subject: "036 Enzyklopädien in Spanisch, Portugiesisch & Galicisch"
-- id: "https://www.dnb.de/ddcuebersichten/037"
+- id: "info:eu-repo/classification/ddc/037"
   scheme: DDC-DE
   subject: "037 Enzyklopädien in slawischen Sprachen"
-- id: "https://www.dnb.de/ddcuebersichten/038"
+- id: "info:eu-repo/classification/ddc/038"
   scheme: DDC-DE
   subject: "038 Enzyklopädien in skandinavischen Sprachen"
-- id: "https://www.dnb.de/ddcuebersichten/039"
+- id: "info:eu-repo/classification/ddc/039"
   scheme: DDC-DE
   subject: "039 Enzyklopädien in anderen Sprachen"
-- id: "https://www.dnb.de/ddcuebersichten/050"
+- id: "info:eu-repo/classification/ddc/050"
   scheme: DDC-DE
   subject: "050 Magazine, Zeitschriften & fortlaufende Sammelwerke"
-- id: "https://www.dnb.de/ddcuebersichten/051"
+- id: "info:eu-repo/classification/ddc/051"
   scheme: DDC-DE
   subject: "051 Fortlaufende Sammelwerke in amerikanischem Englisch"
-- id: "https://www.dnb.de/ddcuebersichten/052"
+- id: "info:eu-repo/classification/ddc/052"
   scheme: DDC-DE
   subject: "052 Fortlaufende Sammelwerke in Englisch"
-- id: "https://www.dnb.de/ddcuebersichten/053"
+- id: "info:eu-repo/classification/ddc/053"
   scheme: DDC-DE
   subject: "053 Fortlaufende Sammelwerke in anderen germanischen Sprachen"
-- id: "https://www.dnb.de/ddcuebersichten/054"
+- id: "info:eu-repo/classification/ddc/054"
   scheme: DDC-DE
   subject: "054 Sammelwerke in Französisch, Okzitanisch & Katalanisch"
-- id: "https://www.dnb.de/ddcuebersichten/055"
+- id: "info:eu-repo/classification/ddc/055"
   scheme: DDC-DE
   subject: "055 In Italienisch, Rumänisch & verwandten Sprachen"
-- id: "https://www.dnb.de/ddcuebersichten/056"
+- id: "info:eu-repo/classification/ddc/056"
   scheme: DDC-DE
   subject: "056 Fortlaufende Sammelwerke in Spanisch, Portugiesisch & Galicisch"
-- id: "https://www.dnb.de/ddcuebersichten/057"
+- id: "info:eu-repo/classification/ddc/057"
   scheme: DDC-DE
   subject: "057 Fortlaufende Sammelwerke in slawischen Sprachen"
-- id: "https://www.dnb.de/ddcuebersichten/058"
+- id: "info:eu-repo/classification/ddc/058"
   scheme: DDC-DE
   subject: "058 Fortlaufende Sammelwerke in skandinavischen Sprachen"
-- id: "https://www.dnb.de/ddcuebersichten/059"
+- id: "info:eu-repo/classification/ddc/059"
   scheme: DDC-DE
   subject: "059 Fortlaufende Sammelwerke in anderen Sprachen"
-- id: "https://www.dnb.de/ddcuebersichten/060"
+- id: "info:eu-repo/classification/ddc/060"
   scheme: DDC-DE
   subject: "060 Allgemeine Organisationen & Museumswissenschaft"
-- id: "https://www.dnb.de/ddcuebersichten/061"
+- id: "info:eu-repo/classification/ddc/061"
   scheme: DDC-DE
   subject: "061 Organisationen in Nordamerika"
-- id: "https://www.dnb.de/ddcuebersichten/062"
+- id: "info:eu-repo/classification/ddc/062"
   scheme: DDC-DE
   subject: "062 Organisationen auf den Britischen Inseln"
-- id: "https://www.dnb.de/ddcuebersichten/063"
+- id: "info:eu-repo/classification/ddc/063"
   scheme: DDC-DE
   subject: "063 Organisationen in Deutschland; in Mitteleuropa"
-- id: "https://www.dnb.de/ddcuebersichten/064"
+- id: "info:eu-repo/classification/ddc/064"
   scheme: DDC-DE
   subject: "064 Organisationen in Frankreich & Monaco"
-- id: "https://www.dnb.de/ddcuebersichten/065"
+- id: "info:eu-repo/classification/ddc/065"
   scheme: DDC-DE
   subject: "065 In Italien, San Marino, Vatikanstadt, Malta"
-- id: "https://www.dnb.de/ddcuebersichten/066"
+- id: "info:eu-repo/classification/ddc/066"
   scheme: DDC-DE
   subject: "066 In Spanien, Andorra, Gibraltar, Portugal"
-- id: "https://www.dnb.de/ddcuebersichten/067"
+- id: "info:eu-repo/classification/ddc/067"
   scheme: DDC-DE
   subject: "067 Organisationen in Russland; in Osteuropa"
-- id: "https://www.dnb.de/ddcuebersichten/068"
+- id: "info:eu-repo/classification/ddc/068"
   scheme: DDC-DE
   subject: "068 Organisationen in anderen geografischen Gebieten"
-- id: "https://www.dnb.de/ddcuebersichten/069"
+- id: "info:eu-repo/classification/ddc/069"
   scheme: DDC-DE
   subject: "069 Museumswissenschaft"
-- id: "https://www.dnb.de/ddcuebersichten/070"
+- id: "info:eu-repo/classification/ddc/070"
   scheme: DDC-DE
   subject: "070 Publizistische Medien, Journalismus & Verlagswesen"
-- id: "https://www.dnb.de/ddcuebersichten/071"
+- id: "info:eu-repo/classification/ddc/071"
   scheme: DDC-DE
   subject: "071 Zeitungen in Nordamerika"
-- id: "https://www.dnb.de/ddcuebersichten/072"
+- id: "info:eu-repo/classification/ddc/072"
   scheme: DDC-DE
   subject: "072 Zeitungen auf den Britischen Inseln"
-- id: "https://www.dnb.de/ddcuebersichten/073"
+- id: "info:eu-repo/classification/ddc/073"
   scheme: DDC-DE
   subject: "073 Zeitungen in Deutschland; in Mitteleuropa"
-- id: "https://www.dnb.de/ddcuebersichten/074"
+- id: "info:eu-repo/classification/ddc/074"
   scheme: DDC-DE
   subject: "074 Zeitungen in Frankreich & Monaco"
-- id: "https://www.dnb.de/ddcuebersichten/075"
+- id: "info:eu-repo/classification/ddc/075"
   scheme: DDC-DE
   subject: "075 In Italien, San Marino, Vatikanstadt, Malta"
-- id: "https://www.dnb.de/ddcuebersichten/076"
+- id: "info:eu-repo/classification/ddc/076"
   scheme: DDC-DE
   subject: "076 In Spanien, Andorra, Gibraltar, Portugal"
-- id: "https://www.dnb.de/ddcuebersichten/077"
+- id: "info:eu-repo/classification/ddc/077"
   scheme: DDC-DE
   subject: "077 Zeitungen in Russland; in Osteuropa"
-- id: "https://www.dnb.de/ddcuebersichten/078"
+- id: "info:eu-repo/classification/ddc/078"
   scheme: DDC-DE
   subject: "078 Zeitungen in Skandinavien"
-- id: "https://www.dnb.de/ddcuebersichten/079"
+- id: "info:eu-repo/classification/ddc/079"
   scheme: DDC-DE
   subject: "079 Zeitungen in anderen geografischen Gebieten"
-- id: "https://www.dnb.de/ddcuebersichten/080"
+- id: "info:eu-repo/classification/ddc/080"
   scheme: DDC-DE
   subject: "080 Allgemeine Sammelwerke"
-- id: "https://www.dnb.de/ddcuebersichten/081"
+- id: "info:eu-repo/classification/ddc/081"
   scheme: DDC-DE
   subject: "081 Sammelwerke in amerikanischem Englisch"
-- id: "https://www.dnb.de/ddcuebersichten/082"
+- id: "info:eu-repo/classification/ddc/082"
   scheme: DDC-DE
   subject: "082 Sammelwerke in Englisch"
-- id: "https://www.dnb.de/ddcuebersichten/083"
+- id: "info:eu-repo/classification/ddc/083"
   scheme: DDC-DE
   subject: "083 Sammelwerke in anderen germanischen Sprachen"
-- id: "https://www.dnb.de/ddcuebersichten/084"
+- id: "info:eu-repo/classification/ddc/084"
   scheme: DDC-DE
   subject: "084 Sammelwerke in Französisch, Okzitanisch & Katalanisch"
-- id: "https://www.dnb.de/ddcuebersichten/085"
+- id: "info:eu-repo/classification/ddc/085"
   scheme: DDC-DE
   subject: "085 In Italienisch, Rumänisch & verwandten Sprachen"
-- id: "https://www.dnb.de/ddcuebersichten/086"
+- id: "info:eu-repo/classification/ddc/086"
   scheme: DDC-DE
   subject: "086 Sammelwerke in Spanisch, Portugiesisch & Galicisch"
-- id: "https://www.dnb.de/ddcuebersichten/087"
+- id: "info:eu-repo/classification/ddc/087"
   scheme: DDC-DE
   subject: "087 Sammelwerke in slawischen Sprachen"
-- id: "https://www.dnb.de/ddcuebersichten/088"
+- id: "info:eu-repo/classification/ddc/088"
   scheme: DDC-DE
   subject: "088 Sammelwerke in skandinavischen Sprachen"
-- id: "https://www.dnb.de/ddcuebersichten/089"
+- id: "info:eu-repo/classification/ddc/089"
   scheme: DDC-DE
   subject: "089 Sammelwerke in anderen Sprachen"
-- id: "https://www.dnb.de/ddcuebersichten/090"
+- id: "info:eu-repo/classification/ddc/090"
   scheme: DDC-DE
   subject: "090 Handschriften & seltene Bücher"
-- id: "https://www.dnb.de/ddcuebersichten/091"
+- id: "info:eu-repo/classification/ddc/091"
   scheme: DDC-DE
   subject: "091 Handschriften"
-- id: "https://www.dnb.de/ddcuebersichten/092"
+- id: "info:eu-repo/classification/ddc/092"
   scheme: DDC-DE
   subject: "092 Blockbücher"
-- id: "https://www.dnb.de/ddcuebersichten/093"
+- id: "info:eu-repo/classification/ddc/093"
   scheme: DDC-DE
   subject: "093 Inkunabeln"
-- id: "https://www.dnb.de/ddcuebersichten/094"
+- id: "info:eu-repo/classification/ddc/094"
   scheme: DDC-DE
   subject: "094 Gedruckte Bücher"
-- id: "https://www.dnb.de/ddcuebersichten/095"
+- id: "info:eu-repo/classification/ddc/095"
   scheme: DDC-DE
   subject: "095 Bücher mit besonderem Einband"
-- id: "https://www.dnb.de/ddcuebersichten/096"
+- id: "info:eu-repo/classification/ddc/096"
   scheme: DDC-DE
   subject: "096 Bücher mit besonderen Illustrationen"
-- id: "https://www.dnb.de/ddcuebersichten/097"
+- id: "info:eu-repo/classification/ddc/097"
   scheme: DDC-DE
   subject: "097 Bücher aus besonderem Besitz oder besonderer Herkunft"
-- id: "https://www.dnb.de/ddcuebersichten/098"
+- id: "info:eu-repo/classification/ddc/098"
   scheme: DDC-DE
   subject: "098 Verbotene Werke, Fälschungen & Scherzdrucke"
-- id: "https://www.dnb.de/ddcuebersichten/099"
+- id: "info:eu-repo/classification/ddc/099"
   scheme: DDC-DE
   subject: "099 Bücher mit besonderem Format"
-- id: "https://www.dnb.de/ddcuebersichten/100"
+- id: "info:eu-repo/classification/ddc/100"
   scheme: DDC-DE
   subject: "100 Philosophie und Psychologie"
-- id: "https://www.dnb.de/ddcuebersichten/101"
+- id: "info:eu-repo/classification/ddc/101"
   scheme: DDC-DE
   subject: "101 Theorie der Philosophie"
-- id: "https://www.dnb.de/ddcuebersichten/102"
+- id: "info:eu-repo/classification/ddc/102"
   scheme: DDC-DE
   subject: "102 Verschiedenes"
-- id: "https://www.dnb.de/ddcuebersichten/103"
+- id: "info:eu-repo/classification/ddc/103"
   scheme: DDC-DE
   subject: "103 Wörterbücher, Enzyklopädien"
-- id: "https://www.dnb.de/ddcuebersichten/105"
+- id: "info:eu-repo/classification/ddc/105"
   scheme: DDC-DE
   subject: "105 Fortlaufende Sammelwerke"
-- id: "https://www.dnb.de/ddcuebersichten/106"
+- id: "info:eu-repo/classification/ddc/106"
   scheme: DDC-DE
   subject: "106 Organisationen, Management"
-- id: "https://www.dnb.de/ddcuebersichten/107"
+- id: "info:eu-repo/classification/ddc/107"
   scheme: DDC-DE
   subject: "107 Ausbildung, Forschung, verwandte Themen"
-- id: "https://www.dnb.de/ddcuebersichten/108"
+- id: "info:eu-repo/classification/ddc/108"
   scheme: DDC-DE
   subject: "108 Behandlung nach Personengruppen"
-- id: "https://www.dnb.de/ddcuebersichten/109"
+- id: "info:eu-repo/classification/ddc/109"
   scheme: DDC-DE
   subject: "109 Historische Behandlung, Behandlung mehrerer Einzelpersonen"
-- id: "https://www.dnb.de/ddcuebersichten/110"
+- id: "info:eu-repo/classification/ddc/110"
   scheme: DDC-DE
   subject: "110 Metaphysik"
-- id: "https://www.dnb.de/ddcuebersichten/111"
+- id: "info:eu-repo/classification/ddc/111"
   scheme: DDC-DE
   subject: "111 Ontologie"
-- id: "https://www.dnb.de/ddcuebersichten/113"
+- id: "info:eu-repo/classification/ddc/113"
   scheme: DDC-DE
   subject: "113 Kosmologie"
-- id: "https://www.dnb.de/ddcuebersichten/114"
+- id: "info:eu-repo/classification/ddc/114"
   scheme: DDC-DE
   subject: "114 Raum"
-- id: "https://www.dnb.de/ddcuebersichten/115"
+- id: "info:eu-repo/classification/ddc/115"
   scheme: DDC-DE
   subject: "115 Zeit"
-- id: "https://www.dnb.de/ddcuebersichten/116"
+- id: "info:eu-repo/classification/ddc/116"
   scheme: DDC-DE
   subject: "116 Veränderung"
-- id: "https://www.dnb.de/ddcuebersichten/117"
+- id: "info:eu-repo/classification/ddc/117"
   scheme: DDC-DE
   subject: "117 Struktur"
-- id: "https://www.dnb.de/ddcuebersichten/118"
+- id: "info:eu-repo/classification/ddc/118"
   scheme: DDC-DE
   subject: "118 Kraft und Energie"
-- id: "https://www.dnb.de/ddcuebersichten/119"
+- id: "info:eu-repo/classification/ddc/119"
   scheme: DDC-DE
   subject: "119 Zahl und Quantität"
-- id: "https://www.dnb.de/ddcuebersichten/120"
+- id: "info:eu-repo/classification/ddc/120"
   scheme: DDC-DE
   subject: "120 Epistemologie, Kausalität, Menschheit"
-- id: "https://www.dnb.de/ddcuebersichten/121"
+- id: "info:eu-repo/classification/ddc/121"
   scheme: DDC-DE
   subject: "121 Epistemologie"
-- id: "https://www.dnb.de/ddcuebersichten/122"
+- id: "info:eu-repo/classification/ddc/122"
   scheme: DDC-DE
   subject: "122 Kausalität"
-- id: "https://www.dnb.de/ddcuebersichten/123"
+- id: "info:eu-repo/classification/ddc/123"
   scheme: DDC-DE
   subject: "123 Determinismus, Indeterminismus"
-- id: "https://www.dnb.de/ddcuebersichten/124"
+- id: "info:eu-repo/classification/ddc/124"
   scheme: DDC-DE
   subject: "124 Teleologie"
-- id: "https://www.dnb.de/ddcuebersichten/126"
+- id: "info:eu-repo/classification/ddc/126"
   scheme: DDC-DE
   subject: "126 Das Selbst"
-- id: "https://www.dnb.de/ddcuebersichten/127"
+- id: "info:eu-repo/classification/ddc/127"
   scheme: DDC-DE
   subject: "127 Das Unbewusste, das Unterbewusste"
-- id: "https://www.dnb.de/ddcuebersichten/128"
+- id: "info:eu-repo/classification/ddc/128"
   scheme: DDC-DE
   subject: "128 Menschheit"
-- id: "https://www.dnb.de/ddcuebersichten/129"
+- id: "info:eu-repo/classification/ddc/129"
   scheme: DDC-DE
   subject: "129 Ursprung und Schicksal individueller Seelen"
-- id: "https://www.dnb.de/ddcuebersichten/130"
+- id: "info:eu-repo/classification/ddc/130"
   scheme: DDC-DE
   subject: "130 Parapsychologie und Okkultismus"
-- id: "https://www.dnb.de/ddcuebersichten/131"
+- id: "info:eu-repo/classification/ddc/131"
   scheme: DDC-DE
   subject: "131 Parapsychologische und okkulte Techniken"
-- id: "https://www.dnb.de/ddcuebersichten/133"
+- id: "info:eu-repo/classification/ddc/133"
   scheme: DDC-DE
   subject: "133 Einzelne Themen der Parapsychologie und des Okkultismus"
-- id: "https://www.dnb.de/ddcuebersichten/135"
+- id: "info:eu-repo/classification/ddc/135"
   scheme: DDC-DE
   subject: "135 Träume, Mysterien"
-- id: "https://www.dnb.de/ddcuebersichten/137"
+- id: "info:eu-repo/classification/ddc/137"
   scheme: DDC-DE
   subject: "137 Divinatorische Graphologie"
-- id: "https://www.dnb.de/ddcuebersichten/138"
+- id: "info:eu-repo/classification/ddc/138"
   scheme: DDC-DE
   subject: "138 Physiognomie"
-- id: "https://www.dnb.de/ddcuebersichten/139"
+- id: "info:eu-repo/classification/ddc/139"
   scheme: DDC-DE
   subject: "139 Phrenologie"
-- id: "https://www.dnb.de/ddcuebersichten/140"
+- id: "info:eu-repo/classification/ddc/140"
   scheme: DDC-DE
   subject: "140 Einzelne philosophische Schulen"
-- id: "https://www.dnb.de/ddcuebersichten/141"
+- id: "info:eu-repo/classification/ddc/141"
   scheme: DDC-DE
   subject: "141 Idealismus und verwandte Systeme"
-- id: "https://www.dnb.de/ddcuebersichten/142"
+- id: "info:eu-repo/classification/ddc/142"
   scheme: DDC-DE
   subject: "142 Kritizismus"
-- id: "https://www.dnb.de/ddcuebersichten/143"
+- id: "info:eu-repo/classification/ddc/143"
   scheme: DDC-DE
   subject: "143 Bergsonismus, Intuitionismus"
-- id: "https://www.dnb.de/ddcuebersichten/144"
+- id: "info:eu-repo/classification/ddc/144"
   scheme: DDC-DE
   subject: "144 Humanismus und verwandte Systeme"
-- id: "https://www.dnb.de/ddcuebersichten/145"
+- id: "info:eu-repo/classification/ddc/145"
   scheme: DDC-DE
   subject: "145 Sensualismus"
-- id: "https://www.dnb.de/ddcuebersichten/146"
+- id: "info:eu-repo/classification/ddc/146"
   scheme: DDC-DE
   subject: "146 Naturalismus und verwandte Systeme"
-- id: "https://www.dnb.de/ddcuebersichten/147"
+- id: "info:eu-repo/classification/ddc/147"
   scheme: DDC-DE
   subject: "147 Pantheismus und verwandte Systeme"
-- id: "https://www.dnb.de/ddcuebersichten/148"
+- id: "info:eu-repo/classification/ddc/148"
   scheme: DDC-DE
   subject: "148 Eklektizismus, Liberalismus, Traditionalismus"
-- id: "https://www.dnb.de/ddcuebersichten/150"
+- id: "info:eu-repo/classification/ddc/150"
   scheme: DDC-DE
   subject: "150 Psychologie"
-- id: "https://www.dnb.de/ddcuebersichten/152"
+- id: "info:eu-repo/classification/ddc/152"
   scheme: DDC-DE
   subject: "152 Sinneswahrnehmung, Bewegung, Emotionen, Triebe"
-- id: "https://www.dnb.de/ddcuebersichten/153"
+- id: "info:eu-repo/classification/ddc/153"
   scheme: DDC-DE
   subject: "153 Kognitive Prozesse, Intelligenz"
-- id: "https://www.dnb.de/ddcuebersichten/154"
+- id: "info:eu-repo/classification/ddc/154"
   scheme: DDC-DE
   subject: "154 Unterbewusste und bewusstseinsveränderte Zustände"
-- id: "https://www.dnb.de/ddcuebersichten/155"
+- id: "info:eu-repo/classification/ddc/155"
   scheme: DDC-DE
   subject: "155 Differentielle Psychologie, Entwicklungspsychologie"
-- id: "https://www.dnb.de/ddcuebersichten/156"
+- id: "info:eu-repo/classification/ddc/156"
   scheme: DDC-DE
   subject: "156 Vergleichende Psychologie"
-- id: "https://www.dnb.de/ddcuebersichten/158"
+- id: "info:eu-repo/classification/ddc/158"
   scheme: DDC-DE
   subject: "158 Angewandte Psychologie"
-- id: "https://www.dnb.de/ddcuebersichten/160"
+- id: "info:eu-repo/classification/ddc/160"
   scheme: DDC-DE
   subject: "160 Logik"
-- id: "https://www.dnb.de/ddcuebersichten/161"
+- id: "info:eu-repo/classification/ddc/161"
   scheme: DDC-DE
   subject: "161 Induktion"
-- id: "https://www.dnb.de/ddcuebersichten/162"
+- id: "info:eu-repo/classification/ddc/162"
   scheme: DDC-DE
   subject: "162 Deduktion"
-- id: "https://www.dnb.de/ddcuebersichten/165"
+- id: "info:eu-repo/classification/ddc/165"
   scheme: DDC-DE
   subject: "165 Fehlschlüsse, Fehlerquellen"
-- id: "https://www.dnb.de/ddcuebersichten/166"
+- id: "info:eu-repo/classification/ddc/166"
   scheme: DDC-DE
   subject: "166 Syllogismen"
-- id: "https://www.dnb.de/ddcuebersichten/167"
+- id: "info:eu-repo/classification/ddc/167"
   scheme: DDC-DE
   subject: "167 Hypothesen"
-- id: "https://www.dnb.de/ddcuebersichten/168"
+- id: "info:eu-repo/classification/ddc/168"
   scheme: DDC-DE
   subject: "168 Argument, Überzeugungung"
-- id: "https://www.dnb.de/ddcuebersichten/169"
+- id: "info:eu-repo/classification/ddc/169"
   scheme: DDC-DE
   subject: "169 Analogie"
-- id: "https://www.dnb.de/ddcuebersichten/170"
+- id: "info:eu-repo/classification/ddc/170"
   scheme: DDC-DE
   subject: "170 Ethik"
-- id: "https://www.dnb.de/ddcuebersichten/171"
+- id: "info:eu-repo/classification/ddc/171"
   scheme: DDC-DE
   subject: "171 Ethische Systeme"
-- id: "https://www.dnb.de/ddcuebersichten/172"
+- id: "info:eu-repo/classification/ddc/172"
   scheme: DDC-DE
   subject: "172 Politische Ethik"
-- id: "https://www.dnb.de/ddcuebersichten/173"
+- id: "info:eu-repo/classification/ddc/173"
   scheme: DDC-DE
   subject: "173 Familienethik"
-- id: "https://www.dnb.de/ddcuebersichten/174"
+- id: "info:eu-repo/classification/ddc/174"
   scheme: DDC-DE
   subject: "174 Berufsethik"
-- id: "https://www.dnb.de/ddcuebersichten/175"
+- id: "info:eu-repo/classification/ddc/175"
   scheme: DDC-DE
   subject: "175 Ethik von Freizeit und Erholung"
-- id: "https://www.dnb.de/ddcuebersichten/176"
+- id: "info:eu-repo/classification/ddc/176"
   scheme: DDC-DE
   subject: "176 Sexual- und Reproduktionsethik"
-- id: "https://www.dnb.de/ddcuebersichten/177"
+- id: "info:eu-repo/classification/ddc/177"
   scheme: DDC-DE
   subject: "177 Ethik sozialer Beziehungen"
-- id: "https://www.dnb.de/ddcuebersichten/178"
+- id: "info:eu-repo/classification/ddc/178"
   scheme: DDC-DE
   subject: "178 Konsumethik"
-- id: "https://www.dnb.de/ddcuebersichten/179"
+- id: "info:eu-repo/classification/ddc/179"
   scheme: DDC-DE
   subject: "179 Andere ethische Normen"
-- id: "https://www.dnb.de/ddcuebersichten/180"
+- id: "info:eu-repo/classification/ddc/180"
   scheme: DDC-DE
   subject: "180 Antike, mittelalterliche und östliche Philosophie"
-- id: "https://www.dnb.de/ddcuebersichten/181"
+- id: "info:eu-repo/classification/ddc/181"
   scheme: DDC-DE
   subject: "181 Östliche Philosophie"
-- id: "https://www.dnb.de/ddcuebersichten/182"
+- id: "info:eu-repo/classification/ddc/182"
   scheme: DDC-DE
   subject: "182 Vorsokratische griechische Philosophien"
-- id: "https://www.dnb.de/ddcuebersichten/183"
+- id: "info:eu-repo/classification/ddc/183"
   scheme: DDC-DE
   subject: "183 Sokratische und verwandte Philosophien"
-- id: "https://www.dnb.de/ddcuebersichten/184"
+- id: "info:eu-repo/classification/ddc/184"
   scheme: DDC-DE
   subject: "184 Platonische Philosophie"
-- id: "https://www.dnb.de/ddcuebersichten/185"
+- id: "info:eu-repo/classification/ddc/185"
   scheme: DDC-DE
   subject: "185 Aristotelische Philosophie"
-- id: "https://www.dnb.de/ddcuebersichten/186"
+- id: "info:eu-repo/classification/ddc/186"
   scheme: DDC-DE
   subject: "186 Skeptische und neuplatonische Philosophien"
-- id: "https://www.dnb.de/ddcuebersichten/187"
+- id: "info:eu-repo/classification/ddc/187"
   scheme: DDC-DE
   subject: "187 Epikureische Philosophie"
-- id: "https://www.dnb.de/ddcuebersichten/188"
+- id: "info:eu-repo/classification/ddc/188"
   scheme: DDC-DE
   subject: "188 Stoische Philosophie"
-- id: "https://www.dnb.de/ddcuebersichten/189"
+- id: "info:eu-repo/classification/ddc/189"
   scheme: DDC-DE
   subject: "189 Mittelalterliche westliche Philosophie"
-- id: "https://www.dnb.de/ddcuebersichten/190"
+- id: "info:eu-repo/classification/ddc/190"
   scheme: DDC-DE
   subject: "190 Neuzeitliche westliche Philosophie"
-- id: "https://www.dnb.de/ddcuebersichten/191"
+- id: "info:eu-repo/classification/ddc/191"
   scheme: DDC-DE
   subject: "191 Philosophie in den USA und Kanada"
-- id: "https://www.dnb.de/ddcuebersichten/192"
+- id: "info:eu-repo/classification/ddc/192"
   scheme: DDC-DE
   subject: "192 Philosophie auf den Britischen Inseln"
-- id: "https://www.dnb.de/ddcuebersichten/193"
+- id: "info:eu-repo/classification/ddc/193"
   scheme: DDC-DE
   subject: "193 Philosophie in Deutschland und Österreich"
-- id: "https://www.dnb.de/ddcuebersichten/194"
+- id: "info:eu-repo/classification/ddc/194"
   scheme: DDC-DE
   subject: "194 Philosophie in Frankreich"
-- id: "https://www.dnb.de/ddcuebersichten/195"
+- id: "info:eu-repo/classification/ddc/195"
   scheme: DDC-DE
   subject: "195 Philosophie in Italien"
-- id: "https://www.dnb.de/ddcuebersichten/196"
+- id: "info:eu-repo/classification/ddc/196"
   scheme: DDC-DE
   subject: "196 Philosophie in Spanien und Portugal"
-- id: "https://www.dnb.de/ddcuebersichten/197"
+- id: "info:eu-repo/classification/ddc/197"
   scheme: DDC-DE
   subject: "197 Philosophie in Russland und der früheren Sowjetunion"
-- id: "https://www.dnb.de/ddcuebersichten/198"
+- id: "info:eu-repo/classification/ddc/198"
   scheme: DDC-DE
   subject: "198 Philosophie in Skandinavien"
-- id: "https://www.dnb.de/ddcuebersichten/199"
+- id: "info:eu-repo/classification/ddc/199"
   scheme: DDC-DE
   subject: "199 Philosophie in anderen geografischen Gebieten"
-- id: "https://www.dnb.de/ddcuebersichten/200"
+- id: "info:eu-repo/classification/ddc/200"
   scheme: DDC-DE
   subject: "200 Religion"
-- id: "https://www.dnb.de/ddcuebersichten/201"
+- id: "info:eu-repo/classification/ddc/201"
   scheme: DDC-DE
   subject: "201 Religiöse Mythologie, Soziallehre"
-- id: "https://www.dnb.de/ddcuebersichten/202"
+- id: "info:eu-repo/classification/ddc/202"
   scheme: DDC-DE
   subject: "202 Lehren"
-- id: "https://www.dnb.de/ddcuebersichten/203"
+- id: "info:eu-repo/classification/ddc/203"
   scheme: DDC-DE
   subject: "203 Gottesdienst und andere Formen der öffentlichen Religionsausübung"
-- id: "https://www.dnb.de/ddcuebersichten/204"
+- id: "info:eu-repo/classification/ddc/204"
   scheme: DDC-DE
   subject: "204 Religiöse Erfahrung, religiöses Leben, religiöse Praxis"
-- id: "https://www.dnb.de/ddcuebersichten/205"
+- id: "info:eu-repo/classification/ddc/205"
   scheme: DDC-DE
   subject: "205 Religiöse Ethik"
-- id: "https://www.dnb.de/ddcuebersichten/206"
+- id: "info:eu-repo/classification/ddc/206"
   scheme: DDC-DE
   subject: "206 Religiöse Führer und Organisation"
-- id: "https://www.dnb.de/ddcuebersichten/207"
+- id: "info:eu-repo/classification/ddc/207"
   scheme: DDC-DE
   subject: "207 Mission, religiöse Erziehung"
-- id: "https://www.dnb.de/ddcuebersichten/208"
+- id: "info:eu-repo/classification/ddc/208"
   scheme: DDC-DE
   subject: "208 Quellen"
-- id: "https://www.dnb.de/ddcuebersichten/209"
+- id: "info:eu-repo/classification/ddc/209"
   scheme: DDC-DE
   subject: "209 Sekten, Reformbewegungen"
-- id: "https://www.dnb.de/ddcuebersichten/210"
+- id: "info:eu-repo/classification/ddc/210"
   scheme: DDC-DE
   subject: "210 Religionsphilosophie, Religionstheorie"
-- id: "https://www.dnb.de/ddcuebersichten/211"
+- id: "info:eu-repo/classification/ddc/211"
   scheme: DDC-DE
   subject: "211 Gottesvorstellungen"
-- id: "https://www.dnb.de/ddcuebersichten/212"
+- id: "info:eu-repo/classification/ddc/212"
   scheme: DDC-DE
   subject: "212 Gottesfrage, Gotteserkenntnis, Eigenschaften Gottes"
-- id: "https://www.dnb.de/ddcuebersichten/213"
+- id: "info:eu-repo/classification/ddc/213"
   scheme: DDC-DE
   subject: "213 Schöpfung"
-- id: "https://www.dnb.de/ddcuebersichten/214"
+- id: "info:eu-repo/classification/ddc/214"
   scheme: DDC-DE
   subject: "214 Theodizee"
-- id: "https://www.dnb.de/ddcuebersichten/215"
+- id: "info:eu-repo/classification/ddc/215"
   scheme: DDC-DE
   subject: "215 Naturwissenschaft und Religion"
-- id: "https://www.dnb.de/ddcuebersichten/218"
+- id: "info:eu-repo/classification/ddc/218"
   scheme: DDC-DE
   subject: "218 Der Mensch"
-- id: "https://www.dnb.de/ddcuebersichten/220"
+- id: "info:eu-repo/classification/ddc/220"
   scheme: DDC-DE
   subject: "220 Bibel"
-- id: "https://www.dnb.de/ddcuebersichten/221"
+- id: "info:eu-repo/classification/ddc/221"
   scheme: DDC-DE
   subject: "221 Altes Testament (Tenach)"
-- id: "https://www.dnb.de/ddcuebersichten/222"
+- id: "info:eu-repo/classification/ddc/222"
   scheme: DDC-DE
   subject: "222 Geschichtsbücher des Alten Testaments"
-- id: "https://www.dnb.de/ddcuebersichten/223"
+- id: "info:eu-repo/classification/ddc/223"
   scheme: DDC-DE
   subject: "223 Poetische Bücher des Alten Testaments"
-- id: "https://www.dnb.de/ddcuebersichten/224"
+- id: "info:eu-repo/classification/ddc/224"
   scheme: DDC-DE
   subject: "224 Prophetische Bücher des Alten Testaments"
-- id: "https://www.dnb.de/ddcuebersichten/225"
+- id: "info:eu-repo/classification/ddc/225"
   scheme: DDC-DE
   subject: "225 Neues Testament"
-- id: "https://www.dnb.de/ddcuebersichten/226"
+- id: "info:eu-repo/classification/ddc/226"
   scheme: DDC-DE
   subject: "226 Evangelien, Apostelgeschichte"
-- id: "https://www.dnb.de/ddcuebersichten/227"
+- id: "info:eu-repo/classification/ddc/227"
   scheme: DDC-DE
   subject: "227 Briefe"
-- id: "https://www.dnb.de/ddcuebersichten/228"
+- id: "info:eu-repo/classification/ddc/228"
   scheme: DDC-DE
   subject: "228 Johannes-Apokalypse (Offenbarung des Johannes)"
-- id: "https://www.dnb.de/ddcuebersichten/229"
+- id: "info:eu-repo/classification/ddc/229"
   scheme: DDC-DE
   subject: "229 Apokryphen, Pseudepigraphen"
-- id: "https://www.dnb.de/ddcuebersichten/230"
+- id: "info:eu-repo/classification/ddc/230"
   scheme: DDC-DE
   subject: "230 Christentum, Christliche Theologie"
-- id: "https://www.dnb.de/ddcuebersichten/231"
+- id: "info:eu-repo/classification/ddc/231"
   scheme: DDC-DE
   subject: "231 Gott"
-- id: "https://www.dnb.de/ddcuebersichten/232"
+- id: "info:eu-repo/classification/ddc/232"
   scheme: DDC-DE
   subject: "232 Jesus Christus und seine Familie"
-- id: "https://www.dnb.de/ddcuebersichten/233"
+- id: "info:eu-repo/classification/ddc/233"
   scheme: DDC-DE
   subject: "233 Der Mensch"
-- id: "https://www.dnb.de/ddcuebersichten/234"
+- id: "info:eu-repo/classification/ddc/234"
   scheme: DDC-DE
   subject: "234 Erlösung, Gnade"
-- id: "https://www.dnb.de/ddcuebersichten/235"
+- id: "info:eu-repo/classification/ddc/235"
   scheme: DDC-DE
   subject: "235 Geistliche Wesen"
-- id: "https://www.dnb.de/ddcuebersichten/236"
+- id: "info:eu-repo/classification/ddc/236"
   scheme: DDC-DE
   subject: "236 Eschatologie"
-- id: "https://www.dnb.de/ddcuebersichten/238"
+- id: "info:eu-repo/classification/ddc/238"
   scheme: DDC-DE
   subject: "238 Glaubensbekenntnisse, Katechismen"
-- id: "https://www.dnb.de/ddcuebersichten/239"
+- id: "info:eu-repo/classification/ddc/239"
   scheme: DDC-DE
   subject: "239 Apologetik, Polemik"
-- id: "https://www.dnb.de/ddcuebersichten/240"
+- id: "info:eu-repo/classification/ddc/240"
   scheme: DDC-DE
   subject: "240 Christliche Ethik, spirituelle Theologie"
-- id: "https://www.dnb.de/ddcuebersichten/241"
+- id: "info:eu-repo/classification/ddc/241"
   scheme: DDC-DE
   subject: "241 Christliche Ethik"
-- id: "https://www.dnb.de/ddcuebersichten/242"
+- id: "info:eu-repo/classification/ddc/242"
   scheme: DDC-DE
   subject: "242 Erbauungsliteratur"
-- id: "https://www.dnb.de/ddcuebersichten/243"
+- id: "info:eu-repo/classification/ddc/243"
   scheme: DDC-DE
   subject: "243 Evangelistisches Schrifttum für Einzelpersonen"
-- id: "https://www.dnb.de/ddcuebersichten/246"
+- id: "info:eu-repo/classification/ddc/246"
   scheme: DDC-DE
   subject: "246 Kunst im Christentum"
-- id: "https://www.dnb.de/ddcuebersichten/247"
+- id: "info:eu-repo/classification/ddc/247"
   scheme: DDC-DE
   subject: "247 Kirchenausstattung, liturgisches Gerät"
-- id: "https://www.dnb.de/ddcuebersichten/248"
+- id: "info:eu-repo/classification/ddc/248"
   scheme: DDC-DE
   subject: "248 Christliche Erfahrung, christliche Praxis, christliches Leben"
-- id: "https://www.dnb.de/ddcuebersichten/249"
+- id: "info:eu-repo/classification/ddc/249"
   scheme: DDC-DE
   subject: "249 Christliches Leben in der Familie"
-- id: "https://www.dnb.de/ddcuebersichten/250"
+- id: "info:eu-repo/classification/ddc/250"
   scheme: DDC-DE
   subject: "250 Christliche Orden und Ortskirchen"
-- id: "https://www.dnb.de/ddcuebersichten/251"
+- id: "info:eu-repo/classification/ddc/251"
   scheme: DDC-DE
   subject: "251 Homiletik"
-- id: "https://www.dnb.de/ddcuebersichten/252"
+- id: "info:eu-repo/classification/ddc/252"
   scheme: DDC-DE
   subject: "252 Predigttexte"
-- id: "https://www.dnb.de/ddcuebersichten/253"
+- id: "info:eu-repo/classification/ddc/253"
   scheme: DDC-DE
   subject: "253 Pastoraltheologie"
-- id: "https://www.dnb.de/ddcuebersichten/254"
+- id: "info:eu-repo/classification/ddc/254"
   scheme: DDC-DE
   subject: "254 Gemeindeverwaltung"
-- id: "https://www.dnb.de/ddcuebersichten/255"
+- id: "info:eu-repo/classification/ddc/255"
   scheme: DDC-DE
   subject: "255 Religiöse Kongregationen und Orden"
-- id: "https://www.dnb.de/ddcuebersichten/259"
+- id: "info:eu-repo/classification/ddc/259"
   scheme: DDC-DE
   subject: "259 Familienseelsorge, Kategorialseelsorge"
-- id: "https://www.dnb.de/ddcuebersichten/260"
+- id: "info:eu-repo/classification/ddc/260"
   scheme: DDC-DE
   subject: "260 Soziallehre, Ekklesiologie"
-- id: "https://www.dnb.de/ddcuebersichten/261"
+- id: "info:eu-repo/classification/ddc/261"
   scheme: DDC-DE
   subject: "261 Soziallehre"
-- id: "https://www.dnb.de/ddcuebersichten/262"
+- id: "info:eu-repo/classification/ddc/262"
   scheme: DDC-DE
   subject: "262 Ekklesiologie"
-- id: "https://www.dnb.de/ddcuebersichten/263"
+- id: "info:eu-repo/classification/ddc/263"
   scheme: DDC-DE
   subject: "263 Heilige Tage, Zeiten und Orte"
-- id: "https://www.dnb.de/ddcuebersichten/264"
+- id: "info:eu-repo/classification/ddc/264"
   scheme: DDC-DE
   subject: "264 Öffentliche Religionsausübung"
-- id: "https://www.dnb.de/ddcuebersichten/265"
+- id: "info:eu-repo/classification/ddc/265"
   scheme: DDC-DE
   subject: "265 Sakramente, andere Riten und Handlungen"
-- id: "https://www.dnb.de/ddcuebersichten/266"
+- id: "info:eu-repo/classification/ddc/266"
   scheme: DDC-DE
   subject: "266 Mission"
-- id: "https://www.dnb.de/ddcuebersichten/267"
+- id: "info:eu-repo/classification/ddc/267"
   scheme: DDC-DE
   subject: "267 Religiöse Verbände"
-- id: "https://www.dnb.de/ddcuebersichten/268"
+- id: "info:eu-repo/classification/ddc/268"
   scheme: DDC-DE
   subject: "268 Religiöse Erziehung"
-- id: "https://www.dnb.de/ddcuebersichten/269"
+- id: "info:eu-repo/classification/ddc/269"
   scheme: DDC-DE
   subject: "269 Geistliche Erneuerung"
-- id: "https://www.dnb.de/ddcuebersichten/270"
+- id: "info:eu-repo/classification/ddc/270"
   scheme: DDC-DE
   subject: "270 Geschichte des Christentums, Kirchengeschichte"
-- id: "https://www.dnb.de/ddcuebersichten/271"
+- id: "info:eu-repo/classification/ddc/271"
   scheme: DDC-DE
   subject: "271 Religiöse Orden in der Kirchengeschichte"
-- id: "https://www.dnb.de/ddcuebersichten/272"
+- id: "info:eu-repo/classification/ddc/272"
   scheme: DDC-DE
   subject: "272 Verfolgung in der Kirchengeschichte"
-- id: "https://www.dnb.de/ddcuebersichten/273"
+- id: "info:eu-repo/classification/ddc/273"
   scheme: DDC-DE
   subject: "273 Dogmatische Kontroversen, Häresie"
-- id: "https://www.dnb.de/ddcuebersichten/274"
+- id: "info:eu-repo/classification/ddc/274"
   scheme: DDC-DE
   subject: "274 Geschichte des Christentums in Europa"
-- id: "https://www.dnb.de/ddcuebersichten/275"
+- id: "info:eu-repo/classification/ddc/275"
   scheme: DDC-DE
   subject: "275 Geschichte des Christentums in Asien"
-- id: "https://www.dnb.de/ddcuebersichten/276"
+- id: "info:eu-repo/classification/ddc/276"
   scheme: DDC-DE
   subject: "276 Geschichte des Christentums in Afrika"
-- id: "https://www.dnb.de/ddcuebersichten/277"
+- id: "info:eu-repo/classification/ddc/277"
   scheme: DDC-DE
   subject: "277 Geschichte des Christentums in Nordamerika"
-- id: "https://www.dnb.de/ddcuebersichten/278"
+- id: "info:eu-repo/classification/ddc/278"
   scheme: DDC-DE
   subject: "278 Geschichte des Christentums in Südamerika"
-- id: "https://www.dnb.de/ddcuebersichten/279"
+- id: "info:eu-repo/classification/ddc/279"
   scheme: DDC-DE
   subject: "279 Geschichte des Christentums in anderen Gebieten"
-- id: "https://www.dnb.de/ddcuebersichten/280"
+- id: "info:eu-repo/classification/ddc/280"
   scheme: DDC-DE
   subject: "280 Christliche Konfessionen und Sekten"
-- id: "https://www.dnb.de/ddcuebersichten/281"
+- id: "info:eu-repo/classification/ddc/281"
   scheme: DDC-DE
   subject: "281 Alte Kirche, Ostkirchen"
-- id: "https://www.dnb.de/ddcuebersichten/282"
+- id: "info:eu-repo/classification/ddc/282"
   scheme: DDC-DE
   subject: "282 Römisch-Katholische Kirche"
-- id: "https://www.dnb.de/ddcuebersichten/283"
+- id: "info:eu-repo/classification/ddc/283"
   scheme: DDC-DE
   subject: "283 Anglikanische Kirchen"
-- id: "https://www.dnb.de/ddcuebersichten/284"
+- id: "info:eu-repo/classification/ddc/284"
   scheme: DDC-DE
   subject: "284 Protestanten kontinentaleuropäischen Ursprungs"
-- id: "https://www.dnb.de/ddcuebersichten/285"
+- id: "info:eu-repo/classification/ddc/285"
   scheme: DDC-DE
   subject: "285 Presbyterianer, Reformierte, Kongregationalisten"
-- id: "https://www.dnb.de/ddcuebersichten/286"
+- id: "info:eu-repo/classification/ddc/286"
   scheme: DDC-DE
   subject: "286 Baptisten, Christ, Adventisten"
-- id: "https://www.dnb.de/ddcuebersichten/287"
+- id: "info:eu-repo/classification/ddc/287"
   scheme: DDC-DE
   subject: "287 Methodisten und verwandte Kirchen"
-- id: "https://www.dnb.de/ddcuebersichten/289"
+- id: "info:eu-repo/classification/ddc/289"
   scheme: DDC-DE
   subject: "289 Andere Konfessionen und Sekten"
-- id: "https://www.dnb.de/ddcuebersichten/290"
+- id: "info:eu-repo/classification/ddc/290"
   scheme: DDC-DE
   subject: "290 Andere Religionen"
-- id: "https://www.dnb.de/ddcuebersichten/292"
+- id: "info:eu-repo/classification/ddc/292"
   scheme: DDC-DE
   subject: "292 Griechische und römische Religion"
-- id: "https://www.dnb.de/ddcuebersichten/293"
+- id: "info:eu-repo/classification/ddc/293"
   scheme: DDC-DE
   subject: "293 Germanische Religion"
-- id: "https://www.dnb.de/ddcuebersichten/294"
+- id: "info:eu-repo/classification/ddc/294"
   scheme: DDC-DE
   subject: "294 Religionen indischen Ursprungs"
-- id: "https://www.dnb.de/ddcuebersichten/295"
+- id: "info:eu-repo/classification/ddc/295"
   scheme: DDC-DE
   subject: "295 Parsismus"
-- id: "https://www.dnb.de/ddcuebersichten/296"
+- id: "info:eu-repo/classification/ddc/296"
   scheme: DDC-DE
   subject: "296 Judentum"
-- id: "https://www.dnb.de/ddcuebersichten/297"
+- id: "info:eu-repo/classification/ddc/297"
   scheme: DDC-DE
   subject: "297 Islam, Babismus, Bahaismus"
-- id: "https://www.dnb.de/ddcuebersichten/299"
+- id: "info:eu-repo/classification/ddc/299"
   scheme: DDC-DE
   subject: "299 An anderer Stelle nicht vorgesehene Religionen"
-- id: "https://www.dnb.de/ddcuebersichten/300"
+- id: "info:eu-repo/classification/ddc/300"
   scheme: DDC-DE
   subject: "300 Sozialwissenschaften"
-- id: "https://www.dnb.de/ddcuebersichten/301"
+- id: "info:eu-repo/classification/ddc/301"
   scheme: DDC-DE
   subject: "301 Soziologie, Anthropologie"
-- id: "https://www.dnb.de/ddcuebersichten/302"
+- id: "info:eu-repo/classification/ddc/302"
   scheme: DDC-DE
   subject: "302 Soziale Interaktion"
-- id: "https://www.dnb.de/ddcuebersichten/303"
+- id: "info:eu-repo/classification/ddc/303"
   scheme: DDC-DE
   subject: "303 Gesellschaftliche Prozesse"
-- id: "https://www.dnb.de/ddcuebersichten/304"
+- id: "info:eu-repo/classification/ddc/304"
   scheme: DDC-DE
   subject: "304 Das Sozialverhalten beeinflussende Faktoren"
-- id: "https://www.dnb.de/ddcuebersichten/305"
+- id: "info:eu-repo/classification/ddc/305"
   scheme: DDC-DE
   subject: "305 Soziale Gruppen"
-- id: "https://www.dnb.de/ddcuebersichten/306"
+- id: "info:eu-repo/classification/ddc/306"
   scheme: DDC-DE
   subject: "306 Kultur und Institutionen"
-- id: "https://www.dnb.de/ddcuebersichten/307"
+- id: "info:eu-repo/classification/ddc/307"
   scheme: DDC-DE
   subject: "307 Gemeinschaften"
-- id: "https://www.dnb.de/ddcuebersichten/310"
+- id: "info:eu-repo/classification/ddc/310"
   scheme: DDC-DE
   subject: "310 Sammlungen allgemeiner Statistiken"
-- id: "https://www.dnb.de/ddcuebersichten/314"
+- id: "info:eu-repo/classification/ddc/314"
   scheme: DDC-DE
   subject: "314 Allgemeine Statistiken zu Europa"
-- id: "https://www.dnb.de/ddcuebersichten/315"
+- id: "info:eu-repo/classification/ddc/315"
   scheme: DDC-DE
   subject: "315 Allgemeine Statistiken zu Asien"
-- id: "https://www.dnb.de/ddcuebersichten/316"
+- id: "info:eu-repo/classification/ddc/316"
   scheme: DDC-DE
   subject: "316 Allgemeine Statistiken zu Afrika"
-- id: "https://www.dnb.de/ddcuebersichten/317"
+- id: "info:eu-repo/classification/ddc/317"
   scheme: DDC-DE
   subject: "317 Allgemeine Statistiken zu Nordamerika"
-- id: "https://www.dnb.de/ddcuebersichten/318"
+- id: "info:eu-repo/classification/ddc/318"
   scheme: DDC-DE
   subject: "318 Allgemeine Statistiken zu Südamerika"
-- id: "https://www.dnb.de/ddcuebersichten/319"
+- id: "info:eu-repo/classification/ddc/319"
   scheme: DDC-DE
   subject: "319 Allgemeine Statistiken zu anderen Gebieten"
-- id: "https://www.dnb.de/ddcuebersichten/320"
+- id: "info:eu-repo/classification/ddc/320"
   scheme: DDC-DE
   subject: "320 Politikwissenschaft"
-- id: "https://www.dnb.de/ddcuebersichten/321"
+- id: "info:eu-repo/classification/ddc/321"
   scheme: DDC-DE
   subject: "321 Staatsformen und Regierungssysteme"
-- id: "https://www.dnb.de/ddcuebersichten/322"
+- id: "info:eu-repo/classification/ddc/322"
   scheme: DDC-DE
   subject: "322 Beziehungen des Staats zu organisierten Gruppen"
-- id: "https://www.dnb.de/ddcuebersichten/323"
+- id: "info:eu-repo/classification/ddc/323"
   scheme: DDC-DE
   subject: "323 Grundrechte und politische Rechte"
-- id: "https://www.dnb.de/ddcuebersichten/324"
+- id: "info:eu-repo/classification/ddc/324"
   scheme: DDC-DE
   subject: "324 Der politische Prozess"
-- id: "https://www.dnb.de/ddcuebersichten/325"
+- id: "info:eu-repo/classification/ddc/325"
   scheme: DDC-DE
   subject: "325 Internationale Migration, Kolonisation"
-- id: "https://www.dnb.de/ddcuebersichten/326"
+- id: "info:eu-repo/classification/ddc/326"
   scheme: DDC-DE
   subject: "326 Sklaverei und Sklavenbefreiung"
-- id: "https://www.dnb.de/ddcuebersichten/327"
+- id: "info:eu-repo/classification/ddc/327"
   scheme: DDC-DE
   subject: "327 Internationale Beziehungen"
-- id: "https://www.dnb.de/ddcuebersichten/328"
+- id: "info:eu-repo/classification/ddc/328"
   scheme: DDC-DE
   subject: "328 Der Gesetzgebungsprozess"
-- id: "https://www.dnb.de/ddcuebersichten/330"
+- id: "info:eu-repo/classification/ddc/330"
   scheme: DDC-DE
   subject: "330 Wirtschaft"
-- id: "https://www.dnb.de/ddcuebersichten/331"
+- id: "info:eu-repo/classification/ddc/331"
   scheme: DDC-DE
   subject: "331 Arbeitsökonomie"
-- id: "https://www.dnb.de/ddcuebersichten/332"
+- id: "info:eu-repo/classification/ddc/332"
   scheme: DDC-DE
   subject: "332 Finanzwirtschaft"
-- id: "https://www.dnb.de/ddcuebersichten/333"
+- id: "info:eu-repo/classification/ddc/333"
   scheme: DDC-DE
   subject: "333 Boden- und Energiewirtschaft"
-- id: "https://www.dnb.de/ddcuebersichten/334"
+- id: "info:eu-repo/classification/ddc/334"
   scheme: DDC-DE
   subject: "334 Genossenschaften"
-- id: "https://www.dnb.de/ddcuebersichten/335"
+- id: "info:eu-repo/classification/ddc/335"
   scheme: DDC-DE
   subject: "335 Sozialismus und verwandte Systeme"
-- id: "https://www.dnb.de/ddcuebersichten/336"
+- id: "info:eu-repo/classification/ddc/336"
   scheme: DDC-DE
   subject: "336 Öffentliche Finanzen"
-- id: "https://www.dnb.de/ddcuebersichten/337"
+- id: "info:eu-repo/classification/ddc/337"
   scheme: DDC-DE
   subject: "337 Weltwirtschaft"
-- id: "https://www.dnb.de/ddcuebersichten/338"
+- id: "info:eu-repo/classification/ddc/338"
   scheme: DDC-DE
   subject: "338 Produktion"
-- id: "https://www.dnb.de/ddcuebersichten/339"
+- id: "info:eu-repo/classification/ddc/339"
   scheme: DDC-DE
   subject: "339 Makroökonomie und verwandte Themen"
-- id: "https://www.dnb.de/ddcuebersichten/340"
+- id: "info:eu-repo/classification/ddc/340"
   scheme: DDC-DE
   subject: "340 Recht"
-- id: "https://www.dnb.de/ddcuebersichten/341"
+- id: "info:eu-repo/classification/ddc/341"
   scheme: DDC-DE
   subject: "341 Völkerrecht"
-- id: "https://www.dnb.de/ddcuebersichten/342"
+- id: "info:eu-repo/classification/ddc/342"
   scheme: DDC-DE
   subject: "342 Verfassungs- und Verwaltungsrecht"
-- id: "https://www.dnb.de/ddcuebersichten/343"
+- id: "info:eu-repo/classification/ddc/343"
   scheme: DDC-DE
   subject: "343 Wehrrecht, Steuerrecht, Wirtschaftsrecht"
-- id: "https://www.dnb.de/ddcuebersichten/344"
+- id: "info:eu-repo/classification/ddc/344"
   scheme: DDC-DE
   subject: "344 Arbeitsrecht, Sozialrecht, Bildungsrecht, Kulturrecht"
-- id: "https://www.dnb.de/ddcuebersichten/345"
+- id: "info:eu-repo/classification/ddc/345"
   scheme: DDC-DE
   subject: "345 Strafrecht"
-- id: "https://www.dnb.de/ddcuebersichten/346"
+- id: "info:eu-repo/classification/ddc/346"
   scheme: DDC-DE
   subject: "346 Privatrecht"
-- id: "https://www.dnb.de/ddcuebersichten/347"
+- id: "info:eu-repo/classification/ddc/347"
   scheme: DDC-DE
   subject: "347 Zivilprozessrecht, Zivilgerichte"
-- id: "https://www.dnb.de/ddcuebersichten/348"
+- id: "info:eu-repo/classification/ddc/348"
   scheme: DDC-DE
   subject: "348 Gesetze, Verordnungen, Rechtsfälle"
-- id: "https://www.dnb.de/ddcuebersichten/349"
+- id: "info:eu-repo/classification/ddc/349"
   scheme: DDC-DE
   subject: "349 Recht einzelner Gebietskörperschaften und Gebiete"
-- id: "https://www.dnb.de/ddcuebersichten/350"
+- id: "info:eu-repo/classification/ddc/350"
   scheme: DDC-DE
   subject: "350 Öffentliche Verwaltung, Militärwissenschaft"
-- id: "https://www.dnb.de/ddcuebersichten/351"
+- id: "info:eu-repo/classification/ddc/351"
   scheme: DDC-DE
   subject: "351 Öffentliche Verwaltung"
-- id: "https://www.dnb.de/ddcuebersichten/352"
+- id: "info:eu-repo/classification/ddc/352"
   scheme: DDC-DE
   subject: "352 Allgemeines zur öffentlichen Verwaltung"
-- id: "https://www.dnb.de/ddcuebersichten/353"
+- id: "info:eu-repo/classification/ddc/353"
   scheme: DDC-DE
   subject: "353 Einzelne Bereiche der öffentlichen Verwaltung"
-- id: "https://www.dnb.de/ddcuebersichten/354"
+- id: "info:eu-repo/classification/ddc/354"
   scheme: DDC-DE
   subject: "354 Verwaltung von Wirtschaft und Umwelt"
-- id: "https://www.dnb.de/ddcuebersichten/355"
+- id: "info:eu-repo/classification/ddc/355"
   scheme: DDC-DE
   subject: "355 Militärwissenschaft"
-- id: "https://www.dnb.de/ddcuebersichten/356"
+- id: "info:eu-repo/classification/ddc/356"
   scheme: DDC-DE
   subject: "356 Infanterie und Kampfführung"
-- id: "https://www.dnb.de/ddcuebersichten/357"
+- id: "info:eu-repo/classification/ddc/357"
   scheme: DDC-DE
   subject: "357 Kavalleriestreitkräfte und Kampfführung"
-- id: "https://www.dnb.de/ddcuebersichten/358"
+- id: "info:eu-repo/classification/ddc/358"
   scheme: DDC-DE
   subject: "358 Luftstreitkräfte und andere spezialisierte Streitkräfte"
-- id: "https://www.dnb.de/ddcuebersichten/359"
+- id: "info:eu-repo/classification/ddc/359"
   scheme: DDC-DE
   subject: "359 Seestreitkräfte und Kampfführung"
-- id: "https://www.dnb.de/ddcuebersichten/360"
+- id: "info:eu-repo/classification/ddc/360"
   scheme: DDC-DE
   subject: "360 Soziale Probleme und Sozialdienste; Verbände"
-- id: "https://www.dnb.de/ddcuebersichten/361"
+- id: "info:eu-repo/classification/ddc/361"
   scheme: DDC-DE
   subject: "361 Soziale Probleme und Sozialhilfe im Allgemeinen"
-- id: "https://www.dnb.de/ddcuebersichten/362"
+- id: "info:eu-repo/classification/ddc/362"
   scheme: DDC-DE
   subject: "362 Probleme und Dienste der Sozialhilfe"
-- id: "https://www.dnb.de/ddcuebersichten/363"
+- id: "info:eu-repo/classification/ddc/363"
   scheme: DDC-DE
   subject: "363 Andere soziale Probleme und Sozialdienste"
-- id: "https://www.dnb.de/ddcuebersichten/364"
+- id: "info:eu-repo/classification/ddc/364"
   scheme: DDC-DE
   subject: "364 Kriminologie"
-- id: "https://www.dnb.de/ddcuebersichten/365"
+- id: "info:eu-repo/classification/ddc/365"
   scheme: DDC-DE
   subject: "365 Justizvollzugsanstalten und verwandte Einrichtungen"
-- id: "https://www.dnb.de/ddcuebersichten/366"
+- id: "info:eu-repo/classification/ddc/366"
   scheme: DDC-DE
   subject: "366 Verbände"
-- id: "https://www.dnb.de/ddcuebersichten/367"
+- id: "info:eu-repo/classification/ddc/367"
   scheme: DDC-DE
   subject: "367 Allgemeine Klubs"
-- id: "https://www.dnb.de/ddcuebersichten/368"
+- id: "info:eu-repo/classification/ddc/368"
   scheme: DDC-DE
   subject: "368 Versicherungen"
-- id: "https://www.dnb.de/ddcuebersichten/369"
+- id: "info:eu-repo/classification/ddc/369"
   scheme: DDC-DE
   subject: "369 Verschiedene Arten von Verbänden"
-- id: "https://www.dnb.de/ddcuebersichten/370"
+- id: "info:eu-repo/classification/ddc/370"
   scheme: DDC-DE
   subject: "370 Bildung und Erziehung"
-- id: "https://www.dnb.de/ddcuebersichten/371"
+- id: "info:eu-repo/classification/ddc/371"
   scheme: DDC-DE
   subject: "371 Schulen, schulische Tätigkeiten; Sonderpädagogik"
-- id: "https://www.dnb.de/ddcuebersichten/372"
+- id: "info:eu-repo/classification/ddc/372"
   scheme: DDC-DE
   subject: "372 Primar- und Elementarbildung"
-- id: "https://www.dnb.de/ddcuebersichten/373"
+- id: "info:eu-repo/classification/ddc/373"
   scheme: DDC-DE
   subject: "373 Sekundarbildung"
-- id: "https://www.dnb.de/ddcuebersichten/374"
+- id: "info:eu-repo/classification/ddc/374"
   scheme: DDC-DE
   subject: "374 Erwachsenenbildung"
-- id: "https://www.dnb.de/ddcuebersichten/375"
+- id: "info:eu-repo/classification/ddc/375"
   scheme: DDC-DE
   subject: "375 Curricula"
-- id: "https://www.dnb.de/ddcuebersichten/378"
+- id: "info:eu-repo/classification/ddc/378"
   scheme: DDC-DE
   subject: "378 Hochschulbildung"
-- id: "https://www.dnb.de/ddcuebersichten/379"
+- id: "info:eu-repo/classification/ddc/379"
   scheme: DDC-DE
   subject: "379 Bildungspolitik"
-- id: "https://www.dnb.de/ddcuebersichten/380"
+- id: "info:eu-repo/classification/ddc/380"
   scheme: DDC-DE
   subject: "380 Handel, Kommunikation, Verkehr"
-- id: "https://www.dnb.de/ddcuebersichten/381"
+- id: "info:eu-repo/classification/ddc/381"
   scheme: DDC-DE
   subject: "381 Handel"
-- id: "https://www.dnb.de/ddcuebersichten/382"
+- id: "info:eu-repo/classification/ddc/382"
   scheme: DDC-DE
   subject: "382 Internationaler Handel"
-- id: "https://www.dnb.de/ddcuebersichten/383"
+- id: "info:eu-repo/classification/ddc/383"
   scheme: DDC-DE
   subject: "383 Postverkehr"
-- id: "https://www.dnb.de/ddcuebersichten/384"
+- id: "info:eu-repo/classification/ddc/384"
   scheme: DDC-DE
   subject: "384 Kommunikation; Telekommunikation"
-- id: "https://www.dnb.de/ddcuebersichten/385"
+- id: "info:eu-repo/classification/ddc/385"
   scheme: DDC-DE
   subject: "385 Schienenverkehr"
-- id: "https://www.dnb.de/ddcuebersichten/386"
+- id: "info:eu-repo/classification/ddc/386"
   scheme: DDC-DE
   subject: "386 Binnenschifffahrt, Fährverkehr"
-- id: "https://www.dnb.de/ddcuebersichten/387"
+- id: "info:eu-repo/classification/ddc/387"
   scheme: DDC-DE
   subject: "387 Schifffahrt, Luft-, Weltraumverkehr"
-- id: "https://www.dnb.de/ddcuebersichten/388"
+- id: "info:eu-repo/classification/ddc/388"
   scheme: DDC-DE
   subject: "388 Verkehr; Landverkehr"
-- id: "https://www.dnb.de/ddcuebersichten/389"
+- id: "info:eu-repo/classification/ddc/389"
   scheme: DDC-DE
   subject: "389 Metrologie, Normung"
-- id: "https://www.dnb.de/ddcuebersichten/390"
+- id: "info:eu-repo/classification/ddc/390"
   scheme: DDC-DE
   subject: "390 Bräuche, Etikette, Folklore"
-- id: "https://www.dnb.de/ddcuebersichten/391"
+- id: "info:eu-repo/classification/ddc/391"
   scheme: DDC-DE
   subject: "391 Kleidung, äußeres Erscheinungsbild"
-- id: "https://www.dnb.de/ddcuebersichten/392"
+- id: "info:eu-repo/classification/ddc/392"
   scheme: DDC-DE
   subject: "392 Bräuche im Lebenslauf und im häuslichen Leben"
-- id: "https://www.dnb.de/ddcuebersichten/393"
+- id: "info:eu-repo/classification/ddc/393"
   scheme: DDC-DE
   subject: "393 Sterbe- und Bestattungsriten"
-- id: "https://www.dnb.de/ddcuebersichten/394"
+- id: "info:eu-repo/classification/ddc/394"
   scheme: DDC-DE
   subject: "394 Allgemeine Bräuche"
-- id: "https://www.dnb.de/ddcuebersichten/395"
+- id: "info:eu-repo/classification/ddc/395"
   scheme: DDC-DE
   subject: "395 Etikette (Manieren)"
-- id: "https://www.dnb.de/ddcuebersichten/398"
+- id: "info:eu-repo/classification/ddc/398"
   scheme: DDC-DE
   subject: "398 Folklore"
-- id: "https://www.dnb.de/ddcuebersichten/399"
+- id: "info:eu-repo/classification/ddc/399"
   scheme: DDC-DE
   subject: "399 Bräuche des Krieges und der Diplomatie"
-- id: "https://www.dnb.de/ddcuebersichten/400"
+- id: "info:eu-repo/classification/ddc/400"
   scheme: DDC-DE
   subject: "400 Sprache"
-- id: "https://www.dnb.de/ddcuebersichten/401"
+- id: "info:eu-repo/classification/ddc/401"
   scheme: DDC-DE
   subject: "401 Sprachphilosophie, Sprachtheorie"
-- id: "https://www.dnb.de/ddcuebersichten/402"
+- id: "info:eu-repo/classification/ddc/402"
   scheme: DDC-DE
   subject: "402 Verschiedenes"
-- id: "https://www.dnb.de/ddcuebersichten/403"
+- id: "info:eu-repo/classification/ddc/403"
   scheme: DDC-DE
   subject: "403 Wörterbücher, Enzyklopädien"
-- id: "https://www.dnb.de/ddcuebersichten/404"
+- id: "info:eu-repo/classification/ddc/404"
   scheme: DDC-DE
   subject: "404 Spezielle Themen"
-- id: "https://www.dnb.de/ddcuebersichten/405"
+- id: "info:eu-repo/classification/ddc/405"
   scheme: DDC-DE
   subject: "405 Fortlaufende Sammelwerke"
-- id: "https://www.dnb.de/ddcuebersichten/406"
+- id: "info:eu-repo/classification/ddc/406"
   scheme: DDC-DE
   subject: "406 Organisationen, Management"
-- id: "https://www.dnb.de/ddcuebersichten/407"
+- id: "info:eu-repo/classification/ddc/407"
   scheme: DDC-DE
   subject: "407 Ausbildung, Forschung, verwandte Themen"
-- id: "https://www.dnb.de/ddcuebersichten/408"
+- id: "info:eu-repo/classification/ddc/408"
   scheme: DDC-DE
   subject: "408 Behandlung nach Personengruppen"
-- id: "https://www.dnb.de/ddcuebersichten/409"
+- id: "info:eu-repo/classification/ddc/409"
   scheme: DDC-DE
   subject: "409 Geografische, personenbezogene Behandlung"
-- id: "https://www.dnb.de/ddcuebersichten/410"
+- id: "info:eu-repo/classification/ddc/410"
   scheme: DDC-DE
   subject: "410 Linguistik"
-- id: "https://www.dnb.de/ddcuebersichten/411"
+- id: "info:eu-repo/classification/ddc/411"
   scheme: DDC-DE
   subject: "411 Schriftsysteme"
-- id: "https://www.dnb.de/ddcuebersichten/412"
+- id: "info:eu-repo/classification/ddc/412"
   scheme: DDC-DE
   subject: "412 Etymologie"
-- id: "https://www.dnb.de/ddcuebersichten/413"
+- id: "info:eu-repo/classification/ddc/413"
   scheme: DDC-DE
   subject: "413 Wörterbücher"
-- id: "https://www.dnb.de/ddcuebersichten/414"
+- id: "info:eu-repo/classification/ddc/414"
   scheme: DDC-DE
   subject: "414 Phonologie, Phonetik"
-- id: "https://www.dnb.de/ddcuebersichten/415"
+- id: "info:eu-repo/classification/ddc/415"
   scheme: DDC-DE
   subject: "415 Grammatik"
-- id: "https://www.dnb.de/ddcuebersichten/417"
+- id: "info:eu-repo/classification/ddc/417"
   scheme: DDC-DE
   subject: "417 Dialektologie, historische Linguistik"
-- id: "https://www.dnb.de/ddcuebersichten/418"
+- id: "info:eu-repo/classification/ddc/418"
   scheme: DDC-DE
   subject: "418 Standardsprache; Angewandte Linguistik"
-- id: "https://www.dnb.de/ddcuebersichten/419"
+- id: "info:eu-repo/classification/ddc/419"
   scheme: DDC-DE
   subject: "419 Gebärdensprachen"
-- id: "https://www.dnb.de/ddcuebersichten/420"
+- id: "info:eu-repo/classification/ddc/420"
   scheme: DDC-DE
   subject: "420 Englisch, Altenglisch"
-- id: "https://www.dnb.de/ddcuebersichten/421"
+- id: "info:eu-repo/classification/ddc/421"
   scheme: DDC-DE
   subject: "421 Schriftsystem und Phonologie des Englischen"
-- id: "https://www.dnb.de/ddcuebersichten/422"
+- id: "info:eu-repo/classification/ddc/422"
   scheme: DDC-DE
   subject: "422 Etymologie des Englischen"
-- id: "https://www.dnb.de/ddcuebersichten/423"
+- id: "info:eu-repo/classification/ddc/423"
   scheme: DDC-DE
   subject: "423 Englische Wörterbücher"
-- id: "https://www.dnb.de/ddcuebersichten/425"
+- id: "info:eu-repo/classification/ddc/425"
   scheme: DDC-DE
   subject: "425 Englische Grammatik"
-- id: "https://www.dnb.de/ddcuebersichten/427"
+- id: "info:eu-repo/classification/ddc/427"
   scheme: DDC-DE
   subject: "427 Varianten des Englischen, Mittelenglisch"
-- id: "https://www.dnb.de/ddcuebersichten/428"
+- id: "info:eu-repo/classification/ddc/428"
   scheme: DDC-DE
   subject: "428 Gebrauch des Standard-Englisch"
-- id: "https://www.dnb.de/ddcuebersichten/429"
+- id: "info:eu-repo/classification/ddc/429"
   scheme: DDC-DE
   subject: "429 Altenglisch (Angelsächsisch)"
-- id: "https://www.dnb.de/ddcuebersichten/430"
+- id: "info:eu-repo/classification/ddc/430"
   scheme: DDC-DE
   subject: "430 Germanische Sprachen; Deutsch"
-- id: "https://www.dnb.de/ddcuebersichten/431"
+- id: "info:eu-repo/classification/ddc/431"
   scheme: DDC-DE
   subject: "431 Schriftsysteme und Phonologie des Deutschen"
-- id: "https://www.dnb.de/ddcuebersichten/432"
+- id: "info:eu-repo/classification/ddc/432"
   scheme: DDC-DE
   subject: "432 Etymologie des Deutschen"
-- id: "https://www.dnb.de/ddcuebersichten/433"
+- id: "info:eu-repo/classification/ddc/433"
   scheme: DDC-DE
   subject: "433 Deutsche Wörterbücher"
-- id: "https://www.dnb.de/ddcuebersichten/435"
+- id: "info:eu-repo/classification/ddc/435"
   scheme: DDC-DE
   subject: "435 Deutsche Grammatik"
-- id: "https://www.dnb.de/ddcuebersichten/437"
+- id: "info:eu-repo/classification/ddc/437"
   scheme: DDC-DE
   subject: "437 Varianten des Deutschen"
-- id: "https://www.dnb.de/ddcuebersichten/438"
+- id: "info:eu-repo/classification/ddc/438"
   scheme: DDC-DE
   subject: "438 Gebrauch des Standard-Deutsch"
-- id: "https://www.dnb.de/ddcuebersichten/439"
+- id: "info:eu-repo/classification/ddc/439"
   scheme: DDC-DE
   subject: "439 Andere germanische Sprachen"
-- id: "https://www.dnb.de/ddcuebersichten/440"
+- id: "info:eu-repo/classification/ddc/440"
   scheme: DDC-DE
   subject: "440 Romanische Sprachen; Französisch"
-- id: "https://www.dnb.de/ddcuebersichten/441"
+- id: "info:eu-repo/classification/ddc/441"
   scheme: DDC-DE
   subject: "441 Schriftsysteme und Phonologie des Französischen"
-- id: "https://www.dnb.de/ddcuebersichten/442"
+- id: "info:eu-repo/classification/ddc/442"
   scheme: DDC-DE
   subject: "442 Etymologie des Französischen"
-- id: "https://www.dnb.de/ddcuebersichten/443"
+- id: "info:eu-repo/classification/ddc/443"
   scheme: DDC-DE
   subject: "443 Französische Wörterbücher"
-- id: "https://www.dnb.de/ddcuebersichten/445"
+- id: "info:eu-repo/classification/ddc/445"
   scheme: DDC-DE
   subject: "445 Französische Grammatik"
-- id: "https://www.dnb.de/ddcuebersichten/447"
+- id: "info:eu-repo/classification/ddc/447"
   scheme: DDC-DE
   subject: "447 Varianten des Französischen"
-- id: "https://www.dnb.de/ddcuebersichten/448"
+- id: "info:eu-repo/classification/ddc/448"
   scheme: DDC-DE
   subject: "448 Gebrauch des Standard-Französisch"
-- id: "https://www.dnb.de/ddcuebersichten/449"
+- id: "info:eu-repo/classification/ddc/449"
   scheme: DDC-DE
   subject: "449 Okzitanisch, Katalanisch"
-- id: "https://www.dnb.de/ddcuebersichten/450"
+- id: "info:eu-repo/classification/ddc/450"
   scheme: DDC-DE
   subject: "450 Italienisch, Rumänisch, Rätoromanisch"
-- id: "https://www.dnb.de/ddcuebersichten/451"
+- id: "info:eu-repo/classification/ddc/451"
   scheme: DDC-DE
   subject: "451 Schriftsysteme und Phonologie des Italienischen"
-- id: "https://www.dnb.de/ddcuebersichten/452"
+- id: "info:eu-repo/classification/ddc/452"
   scheme: DDC-DE
   subject: "452 Etymologie des Italienischen"
-- id: "https://www.dnb.de/ddcuebersichten/453"
+- id: "info:eu-repo/classification/ddc/453"
   scheme: DDC-DE
   subject: "453 Italienische Wörterbücher"
-- id: "https://www.dnb.de/ddcuebersichten/455"
+- id: "info:eu-repo/classification/ddc/455"
   scheme: DDC-DE
   subject: "455 Italienische Grammatik"
-- id: "https://www.dnb.de/ddcuebersichten/457"
+- id: "info:eu-repo/classification/ddc/457"
   scheme: DDC-DE
   subject: "457 Varianten des Italienischen"
-- id: "https://www.dnb.de/ddcuebersichten/458"
+- id: "info:eu-repo/classification/ddc/458"
   scheme: DDC-DE
   subject: "458 Gebrauch des Standard-Italienisch"
-- id: "https://www.dnb.de/ddcuebersichten/459"
+- id: "info:eu-repo/classification/ddc/459"
   scheme: DDC-DE
   subject: "459 Rumänisch, Rätoromanisch"
-- id: "https://www.dnb.de/ddcuebersichten/460"
+- id: "info:eu-repo/classification/ddc/460"
   scheme: DDC-DE
   subject: "460 Spanisch, Portugiesisch"
-- id: "https://www.dnb.de/ddcuebersichten/461"
+- id: "info:eu-repo/classification/ddc/461"
   scheme: DDC-DE
   subject: "461 Schriftsysteme und Phonologie des Spanischen"
-- id: "https://www.dnb.de/ddcuebersichten/462"
+- id: "info:eu-repo/classification/ddc/462"
   scheme: DDC-DE
   subject: "462 Etymologie des Spanischen"
-- id: "https://www.dnb.de/ddcuebersichten/463"
+- id: "info:eu-repo/classification/ddc/463"
   scheme: DDC-DE
   subject: "463 Spanische Wörterbücher"
-- id: "https://www.dnb.de/ddcuebersichten/465"
+- id: "info:eu-repo/classification/ddc/465"
   scheme: DDC-DE
   subject: "465 Spanische Grammatik"
-- id: "https://www.dnb.de/ddcuebersichten/467"
+- id: "info:eu-repo/classification/ddc/467"
   scheme: DDC-DE
   subject: "467 Varianten des Spanischen"
-- id: "https://www.dnb.de/ddcuebersichten/468"
+- id: "info:eu-repo/classification/ddc/468"
   scheme: DDC-DE
   subject: "468 Gebrauch des Standard-Spanisch"
-- id: "https://www.dnb.de/ddcuebersichten/469"
+- id: "info:eu-repo/classification/ddc/469"
   scheme: DDC-DE
   subject: "469 Portugiesisch"
-- id: "https://www.dnb.de/ddcuebersichten/470"
+- id: "info:eu-repo/classification/ddc/470"
   scheme: DDC-DE
   subject: "470 Italische Sprachen; Latein"
-- id: "https://www.dnb.de/ddcuebersichten/471"
+- id: "info:eu-repo/classification/ddc/471"
   scheme: DDC-DE
   subject: "471 Schriftsysteme und Phonologie des klassischen Latein"
-- id: "https://www.dnb.de/ddcuebersichten/472"
+- id: "info:eu-repo/classification/ddc/472"
   scheme: DDC-DE
   subject: "472 Etymologie des klassischen Latein"
-- id: "https://www.dnb.de/ddcuebersichten/473"
+- id: "info:eu-repo/classification/ddc/473"
   scheme: DDC-DE
   subject: "473 Wörterbücher des klassischen Latein"
-- id: "https://www.dnb.de/ddcuebersichten/475"
+- id: "info:eu-repo/classification/ddc/475"
   scheme: DDC-DE
   subject: "475 Grammatik des klassischen Latein"
-- id: "https://www.dnb.de/ddcuebersichten/477"
+- id: "info:eu-repo/classification/ddc/477"
   scheme: DDC-DE
   subject: "477 Altlatein, Mittellatein, Neulatein, Kirchenlatein, Vulgärlatein"
-- id: "https://www.dnb.de/ddcuebersichten/478"
+- id: "info:eu-repo/classification/ddc/478"
   scheme: DDC-DE
   subject: "478 Gebrauch des klassischen Latein"
-- id: "https://www.dnb.de/ddcuebersichten/479"
+- id: "info:eu-repo/classification/ddc/479"
   scheme: DDC-DE
   subject: "479 Andere italische Sprachen"
-- id: "https://www.dnb.de/ddcuebersichten/480"
+- id: "info:eu-repo/classification/ddc/480"
   scheme: DDC-DE
   subject: "480 Hellenische Sprachen; klassisches Griechisch"
-- id: "https://www.dnb.de/ddcuebersichten/481"
+- id: "info:eu-repo/classification/ddc/481"
   scheme: DDC-DE
   subject: "481 Schriftsysteme und Phonologie des klassischen Griechisch"
-- id: "https://www.dnb.de/ddcuebersichten/482"
+- id: "info:eu-repo/classification/ddc/482"
   scheme: DDC-DE
   subject: "482 Etymologie des klassischen Griechisch"
-- id: "https://www.dnb.de/ddcuebersichten/483"
+- id: "info:eu-repo/classification/ddc/483"
   scheme: DDC-DE
   subject: "483 Wörterbücher des klassischen Griechisch"
-- id: "https://www.dnb.de/ddcuebersichten/485"
+- id: "info:eu-repo/classification/ddc/485"
   scheme: DDC-DE
   subject: "485 Grammatik des klassischen Griechisch"
-- id: "https://www.dnb.de/ddcuebersichten/487"
+- id: "info:eu-repo/classification/ddc/487"
   scheme: DDC-DE
   subject: "487 Vorklassisches Griechisch, Mittelgriechisch"
-- id: "https://www.dnb.de/ddcuebersichten/488"
+- id: "info:eu-repo/classification/ddc/488"
   scheme: DDC-DE
   subject: "488 Gebrauch des klassischen Griechisch"
-- id: "https://www.dnb.de/ddcuebersichten/489"
+- id: "info:eu-repo/classification/ddc/489"
   scheme: DDC-DE
   subject: "489 Andere hellenische Sprachen, Neugriechisch"
-- id: "https://www.dnb.de/ddcuebersichten/490"
+- id: "info:eu-repo/classification/ddc/490"
   scheme: DDC-DE
   subject: "490 Andere Sprachen"
-- id: "https://www.dnb.de/ddcuebersichten/491"
+- id: "info:eu-repo/classification/ddc/491"
   scheme: DDC-DE
   subject: "491 Ostindoeuropäische und keltische Sprachen"
-- id: "https://www.dnb.de/ddcuebersichten/492"
+- id: "info:eu-repo/classification/ddc/492"
   scheme: DDC-DE
   subject: "492 Afroasiatische Sprachen; semitische Sprachen"
-- id: "https://www.dnb.de/ddcuebersichten/493"
+- id: "info:eu-repo/classification/ddc/493"
   scheme: DDC-DE
   subject: "493 Nichtsemitische afroasiatische Sprachen"
-- id: "https://www.dnb.de/ddcuebersichten/494"
+- id: "info:eu-repo/classification/ddc/494"
   scheme: DDC-DE
   subject: "494 Altaische, uralische, paläosibirische, drawidische Sprachen"
-- id: "https://www.dnb.de/ddcuebersichten/495"
+- id: "info:eu-repo/classification/ddc/495"
   scheme: DDC-DE
   subject: "495 Ost- und südostasiatische Sprachen"
-- id: "https://www.dnb.de/ddcuebersichten/496"
+- id: "info:eu-repo/classification/ddc/496"
   scheme: DDC-DE
   subject: "496 Afrikanische Sprachen"
-- id: "https://www.dnb.de/ddcuebersichten/497"
+- id: "info:eu-repo/classification/ddc/497"
   scheme: DDC-DE
   subject: "497 Nordamerikanische Indianersprachen"
-- id: "https://www.dnb.de/ddcuebersichten/498"
+- id: "info:eu-repo/classification/ddc/498"
   scheme: DDC-DE
   subject: "498 Südamerikanische Indianersprachen"
-- id: "https://www.dnb.de/ddcuebersichten/499"
+- id: "info:eu-repo/classification/ddc/499"
   scheme: DDC-DE
   subject: "499 Austronesische und andere Sprachen"
-- id: "https://www.dnb.de/ddcuebersichten/500"
+- id: "info:eu-repo/classification/ddc/500"
   scheme: DDC-DE
   subject: "500 Naturwissenschaften und Mathematik"
-- id: "https://www.dnb.de/ddcuebersichten/501"
+- id: "info:eu-repo/classification/ddc/501"
   scheme: DDC-DE
   subject: "501 Philosophie, Theorie"
-- id: "https://www.dnb.de/ddcuebersichten/502"
+- id: "info:eu-repo/classification/ddc/502"
   scheme: DDC-DE
   subject: "502 Verschiedenes"
-- id: "https://www.dnb.de/ddcuebersichten/503"
+- id: "info:eu-repo/classification/ddc/503"
   scheme: DDC-DE
   subject: "503 Wörterbücher, Enzyklopädien"
-- id: "https://www.dnb.de/ddcuebersichten/505"
+- id: "info:eu-repo/classification/ddc/505"
   scheme: DDC-DE
   subject: "505 Fortlaufende Sammelwerke"
-- id: "https://www.dnb.de/ddcuebersichten/506"
+- id: "info:eu-repo/classification/ddc/506"
   scheme: DDC-DE
   subject: "506 Organisationen, Management"
-- id: "https://www.dnb.de/ddcuebersichten/507"
+- id: "info:eu-repo/classification/ddc/507"
   scheme: DDC-DE
   subject: "507 Ausbildung, Forschung, verwandte Themen"
-- id: "https://www.dnb.de/ddcuebersichten/508"
+- id: "info:eu-repo/classification/ddc/508"
   scheme: DDC-DE
   subject: "508 Naturgeschichte"
-- id: "https://www.dnb.de/ddcuebersichten/509"
+- id: "info:eu-repo/classification/ddc/509"
   scheme: DDC-DE
   subject: "509 Historische, geografische, personenbezogene Behandlung"
-- id: "https://www.dnb.de/ddcuebersichten/510"
+- id: "info:eu-repo/classification/ddc/510"
   scheme: DDC-DE
   subject: "510 Mathematik"
-- id: "https://www.dnb.de/ddcuebersichten/511"
+- id: "info:eu-repo/classification/ddc/511"
   scheme: DDC-DE
   subject: "511 Allgemeine mathematische Prinzipien"
-- id: "https://www.dnb.de/ddcuebersichten/512"
+- id: "info:eu-repo/classification/ddc/512"
   scheme: DDC-DE
   subject: "512 Algebra"
-- id: "https://www.dnb.de/ddcuebersichten/513"
+- id: "info:eu-repo/classification/ddc/513"
   scheme: DDC-DE
   subject: "513 Arithmetik"
-- id: "https://www.dnb.de/ddcuebersichten/514"
+- id: "info:eu-repo/classification/ddc/514"
   scheme: DDC-DE
   subject: "514 Topologie"
-- id: "https://www.dnb.de/ddcuebersichten/515"
+- id: "info:eu-repo/classification/ddc/515"
   scheme: DDC-DE
   subject: "515 Analysis"
-- id: "https://www.dnb.de/ddcuebersichten/516"
+- id: "info:eu-repo/classification/ddc/516"
   scheme: DDC-DE
   subject: "516 Geometrie"
-- id: "https://www.dnb.de/ddcuebersichten/518"
+- id: "info:eu-repo/classification/ddc/518"
   scheme: DDC-DE
   subject: "518 Numerische Analysis"
-- id: "https://www.dnb.de/ddcuebersichten/519"
+- id: "info:eu-repo/classification/ddc/519"
   scheme: DDC-DE
   subject: "519 Wahrscheinlichkeiten, angewandte Mathematik"
-- id: "https://www.dnb.de/ddcuebersichten/520"
+- id: "info:eu-repo/classification/ddc/520"
   scheme: DDC-DE
   subject: "520 Astronomie und zugeordnete Wissenschaften"
-- id: "https://www.dnb.de/ddcuebersichten/521"
+- id: "info:eu-repo/classification/ddc/521"
   scheme: DDC-DE
   subject: "521 Himmelsmechanik"
-- id: "https://www.dnb.de/ddcuebersichten/522"
+- id: "info:eu-repo/classification/ddc/522"
   scheme: DDC-DE
   subject: "522 Techniken, Ausstattung, Materialien"
-- id: "https://www.dnb.de/ddcuebersichten/523"
+- id: "info:eu-repo/classification/ddc/523"
   scheme: DDC-DE
   subject: "523 Einzelne Himmelskörper und Himmelsphänomene"
-- id: "https://www.dnb.de/ddcuebersichten/525"
+- id: "info:eu-repo/classification/ddc/525"
   scheme: DDC-DE
   subject: "525 Erde (Astronomische Geografie)"
-- id: "https://www.dnb.de/ddcuebersichten/526"
+- id: "info:eu-repo/classification/ddc/526"
   scheme: DDC-DE
   subject: "526 Mathematische Geografie"
-- id: "https://www.dnb.de/ddcuebersichten/527"
+- id: "info:eu-repo/classification/ddc/527"
   scheme: DDC-DE
   subject: "527 Astronavigation"
-- id: "https://www.dnb.de/ddcuebersichten/528"
+- id: "info:eu-repo/classification/ddc/528"
   scheme: DDC-DE
   subject: "528 Ephemeriden"
-- id: "https://www.dnb.de/ddcuebersichten/529"
+- id: "info:eu-repo/classification/ddc/529"
   scheme: DDC-DE
   subject: "529 Chronologie"
-- id: "https://www.dnb.de/ddcuebersichten/530"
+- id: "info:eu-repo/classification/ddc/530"
   scheme: DDC-DE
   subject: "530 Physik"
-- id: "https://www.dnb.de/ddcuebersichten/531"
+- id: "info:eu-repo/classification/ddc/531"
   scheme: DDC-DE
   subject: "531 Klassische Mechanik; Festkörpermechanik"
-- id: "https://www.dnb.de/ddcuebersichten/532"
+- id: "info:eu-repo/classification/ddc/532"
   scheme: DDC-DE
   subject: "532 Mechanik der Fluide; Mechanik der Flüssigkeiten"
-- id: "https://www.dnb.de/ddcuebersichten/533"
+- id: "info:eu-repo/classification/ddc/533"
   scheme: DDC-DE
   subject: "533 Gasmechanik"
-- id: "https://www.dnb.de/ddcuebersichten/534"
+- id: "info:eu-repo/classification/ddc/534"
   scheme: DDC-DE
   subject: "534 Schall und verwandte Schwingungen"
-- id: "https://www.dnb.de/ddcuebersichten/535"
+- id: "info:eu-repo/classification/ddc/535"
   scheme: DDC-DE
   subject: "535 Licht, Infrarot- und Ultraviolettphänomene"
-- id: "https://www.dnb.de/ddcuebersichten/536"
+- id: "info:eu-repo/classification/ddc/536"
   scheme: DDC-DE
   subject: "536 Wärme"
-- id: "https://www.dnb.de/ddcuebersichten/537"
+- id: "info:eu-repo/classification/ddc/537"
   scheme: DDC-DE
   subject: "537 Elektrizität, Elektronik"
-- id: "https://www.dnb.de/ddcuebersichten/538"
+- id: "info:eu-repo/classification/ddc/538"
   scheme: DDC-DE
   subject: "538 Magnetismus"
-- id: "https://www.dnb.de/ddcuebersichten/539"
+- id: "info:eu-repo/classification/ddc/539"
   scheme: DDC-DE
   subject: "539 Moderne Physik"
-- id: "https://www.dnb.de/ddcuebersichten/540"
+- id: "info:eu-repo/classification/ddc/540"
   scheme: DDC-DE
   subject: "540 Chemie und zugeordnete Wissenschaften"
-- id: "https://www.dnb.de/ddcuebersichten/541"
+- id: "info:eu-repo/classification/ddc/541"
   scheme: DDC-DE
   subject: "541 Physikalische Chemie"
-- id: "https://www.dnb.de/ddcuebersichten/542"
+- id: "info:eu-repo/classification/ddc/542"
   scheme: DDC-DE
   subject: "542 Techniken, Ausstattung, Materialien"
-- id: "https://www.dnb.de/ddcuebersichten/543"
+- id: "info:eu-repo/classification/ddc/543"
   scheme: DDC-DE
   subject: "543 Analytische Chemie"
-- id: "https://www.dnb.de/ddcuebersichten/546"
+- id: "info:eu-repo/classification/ddc/546"
   scheme: DDC-DE
   subject: "546 Anorganische Chemie"
-- id: "https://www.dnb.de/ddcuebersichten/547"
+- id: "info:eu-repo/classification/ddc/547"
   scheme: DDC-DE
   subject: "547 Organische Chemie"
-- id: "https://www.dnb.de/ddcuebersichten/548"
+- id: "info:eu-repo/classification/ddc/548"
   scheme: DDC-DE
   subject: "548 Kristallografie"
-- id: "https://www.dnb.de/ddcuebersichten/549"
+- id: "info:eu-repo/classification/ddc/549"
   scheme: DDC-DE
   subject: "549 Mineralogie"
-- id: "https://www.dnb.de/ddcuebersichten/550"
+- id: "info:eu-repo/classification/ddc/550"
   scheme: DDC-DE
   subject: "550 Geowissenschaften"
-- id: "https://www.dnb.de/ddcuebersichten/551"
+- id: "info:eu-repo/classification/ddc/551"
   scheme: DDC-DE
   subject: "551 Geologie, Hydrologie, Meteorologie"
-- id: "https://www.dnb.de/ddcuebersichten/552"
+- id: "info:eu-repo/classification/ddc/552"
   scheme: DDC-DE
   subject: "552 Petrologie"
-- id: "https://www.dnb.de/ddcuebersichten/553"
+- id: "info:eu-repo/classification/ddc/553"
   scheme: DDC-DE
   subject: "553 Lagerstättenkunde"
-- id: "https://www.dnb.de/ddcuebersichten/554"
+- id: "info:eu-repo/classification/ddc/554"
   scheme: DDC-DE
   subject: "554 Geowissenschaften Europas"
-- id: "https://www.dnb.de/ddcuebersichten/555"
+- id: "info:eu-repo/classification/ddc/555"
   scheme: DDC-DE
   subject: "555 Geowissenschaften Asiens"
-- id: "https://www.dnb.de/ddcuebersichten/556"
+- id: "info:eu-repo/classification/ddc/556"
   scheme: DDC-DE
   subject: "556 Geowissenschaften Afrikas"
-- id: "https://www.dnb.de/ddcuebersichten/557"
+- id: "info:eu-repo/classification/ddc/557"
   scheme: DDC-DE
   subject: "557 Geowissenschaften Nordamerikas"
-- id: "https://www.dnb.de/ddcuebersichten/558"
+- id: "info:eu-repo/classification/ddc/558"
   scheme: DDC-DE
   subject: "558 Geowissenschaften Südamerikas"
-- id: "https://www.dnb.de/ddcuebersichten/559"
+- id: "info:eu-repo/classification/ddc/559"
   scheme: DDC-DE
   subject: "559 Geowissenschaften anderer Gebiete"
-- id: "https://www.dnb.de/ddcuebersichten/560"
+- id: "info:eu-repo/classification/ddc/560"
   scheme: DDC-DE
   subject: "560 Paläontologie; Paläozoologie"
-- id: "https://www.dnb.de/ddcuebersichten/561"
+- id: "info:eu-repo/classification/ddc/561"
   scheme: DDC-DE
   subject: "561 Paläobotanik; fossile Mikroorganismen"
-- id: "https://www.dnb.de/ddcuebersichten/562"
+- id: "info:eu-repo/classification/ddc/562"
   scheme: DDC-DE
   subject: "562 Fossile Evertebrata (Wirbellose)"
-- id: "https://www.dnb.de/ddcuebersichten/563"
+- id: "info:eu-repo/classification/ddc/563"
   scheme: DDC-DE
   subject: "563 Fossile Wirbellose des Meeres und der Meeresküste"
-- id: "https://www.dnb.de/ddcuebersichten/564"
+- id: "info:eu-repo/classification/ddc/564"
   scheme: DDC-DE
   subject: "564 Fossile Mollusca (Weichtiere), Tentaculata (Kranzfühler)"
-- id: "https://www.dnb.de/ddcuebersichten/565"
+- id: "info:eu-repo/classification/ddc/565"
   scheme: DDC-DE
   subject: "565 Fossile Arthropoden (Gliederfüßer)"
-- id: "https://www.dnb.de/ddcuebersichten/566"
+- id: "info:eu-repo/classification/ddc/566"
   scheme: DDC-DE
   subject: "566 Fossile Chordata (Chordatiere)"
-- id: "https://www.dnb.de/ddcuebersichten/567"
+- id: "info:eu-repo/classification/ddc/567"
   scheme: DDC-DE
   subject: "567 Fossile wechselwarme Wirbeltiere; fossile Pisces (Fische)"
-- id: "https://www.dnb.de/ddcuebersichten/568"
+- id: "info:eu-repo/classification/ddc/568"
   scheme: DDC-DE
   subject: "568 Fossile Aves (Vögel)"
-- id: "https://www.dnb.de/ddcuebersichten/569"
+- id: "info:eu-repo/classification/ddc/569"
   scheme: DDC-DE
   subject: "569 Fossile Mammalia (Säugetiere)"
-- id: "https://www.dnb.de/ddcuebersichten/570"
+- id: "info:eu-repo/classification/ddc/570"
   scheme: DDC-DE
   subject: "570 Biowissenschaften; Biologie"
-- id: "https://www.dnb.de/ddcuebersichten/571"
+- id: "info:eu-repo/classification/ddc/571"
   scheme: DDC-DE
   subject: "571 Physiologie und verwandte Themen"
-- id: "https://www.dnb.de/ddcuebersichten/572"
+- id: "info:eu-repo/classification/ddc/572"
   scheme: DDC-DE
   subject: "572 Biochemie"
-- id: "https://www.dnb.de/ddcuebersichten/573"
+- id: "info:eu-repo/classification/ddc/573"
   scheme: DDC-DE
   subject: "573 Einzelne physiologische Systeme bei Tieren"
-- id: "https://www.dnb.de/ddcuebersichten/575"
+- id: "info:eu-repo/classification/ddc/575"
   scheme: DDC-DE
   subject: "575 Einzelne Teile von und physiologische Systeme bei Pflanzen"
-- id: "https://www.dnb.de/ddcuebersichten/576"
+- id: "info:eu-repo/classification/ddc/576"
   scheme: DDC-DE
   subject: "576 Genetik und Evolution"
-- id: "https://www.dnb.de/ddcuebersichten/577"
+- id: "info:eu-repo/classification/ddc/577"
   scheme: DDC-DE
   subject: "577 Ökologie"
-- id: "https://www.dnb.de/ddcuebersichten/578"
+- id: "info:eu-repo/classification/ddc/578"
   scheme: DDC-DE
   subject: "578 Naturgeschichte von Organismen"
-- id: "https://www.dnb.de/ddcuebersichten/579"
+- id: "info:eu-repo/classification/ddc/579"
   scheme: DDC-DE
   subject: "579 Mikroorganismen, Pilze, Algen"
-- id: "https://www.dnb.de/ddcuebersichten/580"
+- id: "info:eu-repo/classification/ddc/580"
   scheme: DDC-DE
   subject: "580 Pflanzen (Botanik)"
-- id: "https://www.dnb.de/ddcuebersichten/581"
+- id: "info:eu-repo/classification/ddc/581"
   scheme: DDC-DE
   subject: "581 Einzelne Themen in der Naturgeschichte"
-- id: "https://www.dnb.de/ddcuebersichten/582"
+- id: "info:eu-repo/classification/ddc/582"
   scheme: DDC-DE
   subject: "582 Pflanzen mit spezifischen Merkmalen und Blüten"
-- id: "https://www.dnb.de/ddcuebersichten/583"
+- id: "info:eu-repo/classification/ddc/583"
   scheme: DDC-DE
   subject: "583 Magnoliopsida (Zweikeimblättrige)"
-- id: "https://www.dnb.de/ddcuebersichten/584"
+- id: "info:eu-repo/classification/ddc/584"
   scheme: DDC-DE
   subject: "584 Liliopsida (Einkeimblättrige)"
-- id: "https://www.dnb.de/ddcuebersichten/585"
+- id: "info:eu-repo/classification/ddc/585"
   scheme: DDC-DE
   subject: "585 Gymnospermae (Nacktsamer); Coniferae (Nadelgehölze)"
-- id: "https://www.dnb.de/ddcuebersichten/586"
+- id: "info:eu-repo/classification/ddc/586"
   scheme: DDC-DE
   subject: "586 Cryptogamia (Blütenlose Pflanzen)"
-- id: "https://www.dnb.de/ddcuebersichten/587"
+- id: "info:eu-repo/classification/ddc/587"
   scheme: DDC-DE
   subject: "587 Pteridophyta (Farnpflanzen)"
-- id: "https://www.dnb.de/ddcuebersichten/588"
+- id: "info:eu-repo/classification/ddc/588"
   scheme: DDC-DE
   subject: "588 Bryophyta (Moose)"
-- id: "https://www.dnb.de/ddcuebersichten/590"
+- id: "info:eu-repo/classification/ddc/590"
   scheme: DDC-DE
   subject: "590 Tiere (Zoologie)"
-- id: "https://www.dnb.de/ddcuebersichten/591"
+- id: "info:eu-repo/classification/ddc/591"
   scheme: DDC-DE
   subject: "591 Einzelne Themen in der Naturgeschichte"
-- id: "https://www.dnb.de/ddcuebersichten/592"
+- id: "info:eu-repo/classification/ddc/592"
   scheme: DDC-DE
   subject: "592 Evertebrata (Wirbellose)"
-- id: "https://www.dnb.de/ddcuebersichten/593"
+- id: "info:eu-repo/classification/ddc/593"
   scheme: DDC-DE
   subject: "593 Wirbellose des Meeres und der Meeresküste"
-- id: "https://www.dnb.de/ddcuebersichten/594"
+- id: "info:eu-repo/classification/ddc/594"
   scheme: DDC-DE
   subject: "594 Mollusca (Weichtiere), Tentaculata (Kranzfühler)"
-- id: "https://www.dnb.de/ddcuebersichten/595"
+- id: "info:eu-repo/classification/ddc/595"
   scheme: DDC-DE
   subject: "595 Arthropoden (Gliederfüßer)"
-- id: "https://www.dnb.de/ddcuebersichten/596"
+- id: "info:eu-repo/classification/ddc/596"
   scheme: DDC-DE
   subject: "596 Chordata (Chordatiere)"
-- id: "https://www.dnb.de/ddcuebersichten/597"
+- id: "info:eu-repo/classification/ddc/597"
   scheme: DDC-DE
   subject: "597 Wechselwarme Wirbeltiere; Pisces (Fische)"
-- id: "https://www.dnb.de/ddcuebersichten/598"
+- id: "info:eu-repo/classification/ddc/598"
   scheme: DDC-DE
   subject: "598 Aves (Vögel)"
-- id: "https://www.dnb.de/ddcuebersichten/599"
+- id: "info:eu-repo/classification/ddc/599"
   scheme: DDC-DE
   subject: "599 Mammalia (Säugetiere)"
-- id: "https://www.dnb.de/ddcuebersichten/600"
+- id: "info:eu-repo/classification/ddc/600"
   scheme: DDC-DE
   subject: "600 Technik, Technologie"
-- id: "https://www.dnb.de/ddcuebersichten/601"
+- id: "info:eu-repo/classification/ddc/601"
   scheme: DDC-DE
   subject: "601 Philosophie, Theorie"
-- id: "https://www.dnb.de/ddcuebersichten/602"
+- id: "info:eu-repo/classification/ddc/602"
   scheme: DDC-DE
   subject: "602 Verschiedenes"
-- id: "https://www.dnb.de/ddcuebersichten/603"
+- id: "info:eu-repo/classification/ddc/603"
   scheme: DDC-DE
   subject: "603 Wörterbücher, Enzyklopädien"
-- id: "https://www.dnb.de/ddcuebersichten/604"
+- id: "info:eu-repo/classification/ddc/604"
   scheme: DDC-DE
   subject: "604 Spezielle Themen"
-- id: "https://www.dnb.de/ddcuebersichten/605"
+- id: "info:eu-repo/classification/ddc/605"
   scheme: DDC-DE
   subject: "605 Fortlaufende Sammelwerke"
-- id: "https://www.dnb.de/ddcuebersichten/606"
+- id: "info:eu-repo/classification/ddc/606"
   scheme: DDC-DE
   subject: "606 Organisationen"
-- id: "https://www.dnb.de/ddcuebersichten/607"
+- id: "info:eu-repo/classification/ddc/607"
   scheme: DDC-DE
   subject: "607 Ausbildung, Forschung, verwandte Themen"
-- id: "https://www.dnb.de/ddcuebersichten/608"
+- id: "info:eu-repo/classification/ddc/608"
   scheme: DDC-DE
   subject: "608 Erfindungen, Patente"
-- id: "https://www.dnb.de/ddcuebersichten/609"
+- id: "info:eu-repo/classification/ddc/609"
   scheme: DDC-DE
   subject: "609 Historische, geografische, personenbezogene Behandlung"
-- id: "https://www.dnb.de/ddcuebersichten/610"
+- id: "info:eu-repo/classification/ddc/610"
   scheme: DDC-DE
   subject: "610 Medizin und Gesundheit"
-- id: "https://www.dnb.de/ddcuebersichten/611"
+- id: "info:eu-repo/classification/ddc/611"
   scheme: DDC-DE
   subject: "611 Menschliche Anatomie, Zytologie, Histologie"
-- id: "https://www.dnb.de/ddcuebersichten/612"
+- id: "info:eu-repo/classification/ddc/612"
   scheme: DDC-DE
   subject: "612 Humanphysiologie"
-- id: "https://www.dnb.de/ddcuebersichten/613"
+- id: "info:eu-repo/classification/ddc/613"
   scheme: DDC-DE
   subject: "613 Persönliche Gesundheit und Sicherheit"
-- id: "https://www.dnb.de/ddcuebersichten/614"
+- id: "info:eu-repo/classification/ddc/614"
   scheme: DDC-DE
   subject: "614 Inzidenz und Prävention von Krankheiten"
-- id: "https://www.dnb.de/ddcuebersichten/615"
+- id: "info:eu-repo/classification/ddc/615"
   scheme: DDC-DE
   subject: "615 Pharmakologie, Therapeutik"
-- id: "https://www.dnb.de/ddcuebersichten/616"
+- id: "info:eu-repo/classification/ddc/616"
   scheme: DDC-DE
   subject: "616 Krankheiten"
-- id: "https://www.dnb.de/ddcuebersichten/617"
+- id: "info:eu-repo/classification/ddc/617"
   scheme: DDC-DE
   subject: "617 Chirurgie und verwandte medizinische Fachrichtungen"
-- id: "https://www.dnb.de/ddcuebersichten/618"
+- id: "info:eu-repo/classification/ddc/618"
   scheme: DDC-DE
   subject: "618 Gynäkologie, Geburtsmedizin, Pädiatrie, Geriatrie"
-- id: "https://www.dnb.de/ddcuebersichten/620"
+- id: "info:eu-repo/classification/ddc/620"
   scheme: DDC-DE
   subject: "620 Ingenieurwissenschaften und zugeordnete Tätigkeitenn"
-- id: "https://www.dnb.de/ddcuebersichten/621"
+- id: "info:eu-repo/classification/ddc/621"
   scheme: DDC-DE
   subject: "621 Angewandte Physik"
-- id: "https://www.dnb.de/ddcuebersichten/622"
+- id: "info:eu-repo/classification/ddc/622"
   scheme: DDC-DE
   subject: "622 Bergbau und verwandte Tätigkeiten"
-- id: "https://www.dnb.de/ddcuebersichten/623"
+- id: "info:eu-repo/classification/ddc/623"
   scheme: DDC-DE
   subject: "623 Militär- und Schiffstechnik"
-- id: "https://www.dnb.de/ddcuebersichten/624"
+- id: "info:eu-repo/classification/ddc/624"
   scheme: DDC-DE
   subject: "624 Ingenieurbau"
-- id: "https://www.dnb.de/ddcuebersichten/625"
+- id: "info:eu-repo/classification/ddc/625"
   scheme: DDC-DE
   subject: "625 Eisenbahn- und Straßenbau"
-- id: "https://www.dnb.de/ddcuebersichten/627"
+- id: "info:eu-repo/classification/ddc/627"
   scheme: DDC-DE
   subject: "627 Wasserbau"
-- id: "https://www.dnb.de/ddcuebersichten/628"
+- id: "info:eu-repo/classification/ddc/628"
   scheme: DDC-DE
   subject: "628 Sanitär- und Kommunaltechnik; Umwelttechnik"
-- id: "https://www.dnb.de/ddcuebersichten/629"
+- id: "info:eu-repo/classification/ddc/629"
   scheme: DDC-DE
   subject: "629 Andere Fachrichtungen der Ingenieurwissenschaften"
-- id: "https://www.dnb.de/ddcuebersichten/630"
+- id: "info:eu-repo/classification/ddc/630"
   scheme: DDC-DE
   subject: "630 Landwirtschaft und verwandte Bereiche"
-- id: "https://www.dnb.de/ddcuebersichten/631"
+- id: "info:eu-repo/classification/ddc/631"
   scheme: DDC-DE
   subject: "631 Techniken, Ausstattung, Materialien"
-- id: "https://www.dnb.de/ddcuebersichten/632"
+- id: "info:eu-repo/classification/ddc/632"
   scheme: DDC-DE
   subject: "632 Schäden, Krankheiten, Schädlinge an Pflanzen"
-- id: "https://www.dnb.de/ddcuebersichten/633"
+- id: "info:eu-repo/classification/ddc/633"
   scheme: DDC-DE
   subject: "633 Feld- und Plantagenfrüchte"
-- id: "https://www.dnb.de/ddcuebersichten/634"
+- id: "info:eu-repo/classification/ddc/634"
   scheme: DDC-DE
   subject: "634 Obstanlagen, Früchte, Forstwirtschaft"
-- id: "https://www.dnb.de/ddcuebersichten/635"
+- id: "info:eu-repo/classification/ddc/635"
   scheme: DDC-DE
   subject: "635 Gartenpflanzen (Gartenbau)"
-- id: "https://www.dnb.de/ddcuebersichten/636"
+- id: "info:eu-repo/classification/ddc/636"
   scheme: DDC-DE
   subject: "636 Viehwirtschaft"
-- id: "https://www.dnb.de/ddcuebersichten/637"
+- id: "info:eu-repo/classification/ddc/637"
   scheme: DDC-DE
   subject: "637 Milchverarbeitung und verwandte Produkte"
-- id: "https://www.dnb.de/ddcuebersichten/638"
+- id: "info:eu-repo/classification/ddc/638"
   scheme: DDC-DE
   subject: "638 Insektenzucht"
-- id: "https://www.dnb.de/ddcuebersichten/639"
+- id: "info:eu-repo/classification/ddc/639"
   scheme: DDC-DE
   subject: "639 Jagd, Fischfang, Naturschutz"
-- id: "https://www.dnb.de/ddcuebersichten/640"
+- id: "info:eu-repo/classification/ddc/640"
   scheme: DDC-DE
   subject: "640 Hauswirtschaft und Familie"
-- id: "https://www.dnb.de/ddcuebersichten/641"
+- id: "info:eu-repo/classification/ddc/641"
   scheme: DDC-DE
   subject: "641 Essen und Trinken"
-- id: "https://www.dnb.de/ddcuebersichten/642"
+- id: "info:eu-repo/classification/ddc/642"
   scheme: DDC-DE
   subject: "642 Mahlzeiten, Tischkultur"
-- id: "https://www.dnb.de/ddcuebersichten/643"
+- id: "info:eu-repo/classification/ddc/643"
   scheme: DDC-DE
   subject: "643 Wohnen, Haushaltsausstattung"
-- id: "https://www.dnb.de/ddcuebersichten/644"
+- id: "info:eu-repo/classification/ddc/644"
   scheme: DDC-DE
   subject: "644 Gebäudeversorgung für Haushalte"
-- id: "https://www.dnb.de/ddcuebersichten/645"
+- id: "info:eu-repo/classification/ddc/645"
   scheme: DDC-DE
   subject: "645 Einrichtungsgegenstände"
-- id: "https://www.dnb.de/ddcuebersichten/646"
+- id: "info:eu-repo/classification/ddc/646"
   scheme: DDC-DE
   subject: "646 Nähen, Kleidung, persönliches Leben, Familienleben"
-- id: "https://www.dnb.de/ddcuebersichten/647"
+- id: "info:eu-repo/classification/ddc/647"
   scheme: DDC-DE
   subject: "647 Großhaushaltsführung"
-- id: "https://www.dnb.de/ddcuebersichten/648"
+- id: "info:eu-repo/classification/ddc/648"
   scheme: DDC-DE
   subject: "648 Haushaltsführung"
-- id: "https://www.dnb.de/ddcuebersichten/649"
+- id: "info:eu-repo/classification/ddc/649"
   scheme: DDC-DE
   subject: "649 Kindererziehung, häusliche Betreuung"
-- id: "https://www.dnb.de/ddcuebersichten/650"
+- id: "info:eu-repo/classification/ddc/650"
   scheme: DDC-DE
   subject: "650 Management und unterstützende Tätigkeiten"
-- id: "https://www.dnb.de/ddcuebersichten/651"
+- id: "info:eu-repo/classification/ddc/651"
   scheme: DDC-DE
   subject: "651 Büroarbeit"
-- id: "https://www.dnb.de/ddcuebersichten/652"
+- id: "info:eu-repo/classification/ddc/652"
   scheme: DDC-DE
   subject: "652 Techniken der schriftlichen Kommunikation"
-- id: "https://www.dnb.de/ddcuebersichten/653"
+- id: "info:eu-repo/classification/ddc/653"
   scheme: DDC-DE
   subject: "653 Stenografie"
-- id: "https://www.dnb.de/ddcuebersichten/657"
+- id: "info:eu-repo/classification/ddc/657"
   scheme: DDC-DE
   subject: "657 Rechnungslegung"
-- id: "https://www.dnb.de/ddcuebersichten/658"
+- id: "info:eu-repo/classification/ddc/658"
   scheme: DDC-DE
   subject: "658 Allgemeines Management"
-- id: "https://www.dnb.de/ddcuebersichten/659"
+- id: "info:eu-repo/classification/ddc/659"
   scheme: DDC-DE
   subject: "659 Werbung, Öffentlichkeitsarbeit"
-- id: "https://www.dnb.de/ddcuebersichten/660"
+- id: "info:eu-repo/classification/ddc/660"
   scheme: DDC-DE
   subject: "660 Chemische Verfahrenstechnik"
-- id: "https://www.dnb.de/ddcuebersichten/661"
+- id: "info:eu-repo/classification/ddc/661"
   scheme: DDC-DE
   subject: "661 Industriechemikalien"
-- id: "https://www.dnb.de/ddcuebersichten/662"
+- id: "info:eu-repo/classification/ddc/662"
   scheme: DDC-DE
   subject: "662 Explosivstoffe, Brennstoffe und verwandte Produkte"
-- id: "https://www.dnb.de/ddcuebersichten/663"
+- id: "info:eu-repo/classification/ddc/663"
   scheme: DDC-DE
   subject: "663 Getränketechnologie"
-- id: "https://www.dnb.de/ddcuebersichten/664"
+- id: "info:eu-repo/classification/ddc/664"
   scheme: DDC-DE
   subject: "664 Lebensmitteltechnologie"
-- id: "https://www.dnb.de/ddcuebersichten/665"
+- id: "info:eu-repo/classification/ddc/665"
   scheme: DDC-DE
   subject: "665 Industrielle Öle, Fette, Wachse, technische Gase"
-- id: "https://www.dnb.de/ddcuebersichten/666"
+- id: "info:eu-repo/classification/ddc/666"
   scheme: DDC-DE
   subject: "666 Keramiktechnologie und zugeordnete Technologien"
-- id: "https://www.dnb.de/ddcuebersichten/667"
+- id: "info:eu-repo/classification/ddc/667"
   scheme: DDC-DE
   subject: "667 Reinigungs-, Färbe-, Beschichtungstechniken"
-- id: "https://www.dnb.de/ddcuebersichten/668"
+- id: "info:eu-repo/classification/ddc/668"
   scheme: DDC-DE
   subject: "668 Technik anderer organischer Produkte"
-- id: "https://www.dnb.de/ddcuebersichten/669"
+- id: "info:eu-repo/classification/ddc/669"
   scheme: DDC-DE
   subject: "669 Metallurgie"
-- id: "https://www.dnb.de/ddcuebersichten/670"
+- id: "info:eu-repo/classification/ddc/670"
   scheme: DDC-DE
   subject: "670 Industrielle Fertigung"
-- id: "https://www.dnb.de/ddcuebersichten/671"
+- id: "info:eu-repo/classification/ddc/671"
   scheme: DDC-DE
   subject: "671 Metallverarbeitung und Rohprodukte aus Metall"
-- id: "https://www.dnb.de/ddcuebersichten/672"
+- id: "info:eu-repo/classification/ddc/672"
   scheme: DDC-DE
   subject: "672 Eisen, Stahl, andere Eisenlegierungen"
-- id: "https://www.dnb.de/ddcuebersichten/673"
+- id: "info:eu-repo/classification/ddc/673"
   scheme: DDC-DE
   subject: "673 Nichteisenmetalle"
-- id: "https://www.dnb.de/ddcuebersichten/674"
+- id: "info:eu-repo/classification/ddc/674"
   scheme: DDC-DE
   subject: "674 Holzverarbeitung, Holzprodukte, Kork"
-- id: "https://www.dnb.de/ddcuebersichten/675"
+- id: "info:eu-repo/classification/ddc/675"
   scheme: DDC-DE
   subject: "675 Leder- und Pelzverarbeitung"
-- id: "https://www.dnb.de/ddcuebersichten/676"
+- id: "info:eu-repo/classification/ddc/676"
   scheme: DDC-DE
   subject: "676 Zellstoff und Papierherstellung"
-- id: "https://www.dnb.de/ddcuebersichten/677"
+- id: "info:eu-repo/classification/ddc/677"
   scheme: DDC-DE
   subject: "677 Textilien"
-- id: "https://www.dnb.de/ddcuebersichten/678"
+- id: "info:eu-repo/classification/ddc/678"
   scheme: DDC-DE
   subject: "678 Elastomere, Elastomerprodukte"
-- id: "https://www.dnb.de/ddcuebersichten/679"
+- id: "info:eu-repo/classification/ddc/679"
   scheme: DDC-DE
   subject: "679 Andere Produkte aus einzelnen Werkstoffen"
-- id: "https://www.dnb.de/ddcuebersichten/680"
+- id: "info:eu-repo/classification/ddc/680"
   scheme: DDC-DE
   subject: "680 Industrielle Fertigung für einzelne Verwendungszwecke"
-- id: "https://www.dnb.de/ddcuebersichten/681"
+- id: "info:eu-repo/classification/ddc/681"
   scheme: DDC-DE
   subject: "681 Präzisionsinstrumente und andere Geräte"
-- id: "https://www.dnb.de/ddcuebersichten/682"
+- id: "info:eu-repo/classification/ddc/682"
   scheme: DDC-DE
   subject: "682 Schmiedehandwerk"
-- id: "https://www.dnb.de/ddcuebersichten/683"
+- id: "info:eu-repo/classification/ddc/683"
   scheme: DDC-DE
   subject: "683 Eisenwaren, Haushaltsgeräte"
-- id: "https://www.dnb.de/ddcuebersichten/684"
+- id: "info:eu-repo/classification/ddc/684"
   scheme: DDC-DE
   subject: "684 Wohnungseinrichtung, Heimwerkstätten"
-- id: "https://www.dnb.de/ddcuebersichten/685"
+- id: "info:eu-repo/classification/ddc/685"
   scheme: DDC-DE
   subject: "685 Leder- und Pelzwaren und verwandte Produkte"
-- id: "https://www.dnb.de/ddcuebersichten/686"
+- id: "info:eu-repo/classification/ddc/686"
   scheme: DDC-DE
   subject: "686 Drucken und verwandte Tätigkeiten"
-- id: "https://www.dnb.de/ddcuebersichten/687"
+- id: "info:eu-repo/classification/ddc/687"
   scheme: DDC-DE
   subject: "687 Kleidung, Accessoires"
-- id: "https://www.dnb.de/ddcuebersichten/688"
+- id: "info:eu-repo/classification/ddc/688"
   scheme: DDC-DE
   subject: "688 Andere Endprodukte, Verpackungstechnik"
-- id: "https://www.dnb.de/ddcuebersichten/690"
+- id: "info:eu-repo/classification/ddc/690"
   scheme: DDC-DE
   subject: "690 Hausbau, Bauhandwerk"
-- id: "https://www.dnb.de/ddcuebersichten/691"
+- id: "info:eu-repo/classification/ddc/691"
   scheme: DDC-DE
   subject: "691 Baustoffe"
-- id: "https://www.dnb.de/ddcuebersichten/692"
+- id: "info:eu-repo/classification/ddc/692"
   scheme: DDC-DE
   subject: "692 Bauhilfstechniken"
-- id: "https://www.dnb.de/ddcuebersichten/693"
+- id: "info:eu-repo/classification/ddc/693"
   scheme: DDC-DE
   subject: "693 Einzelne Baustoffarten und Zwecke"
-- id: "https://www.dnb.de/ddcuebersichten/694"
+- id: "info:eu-repo/classification/ddc/694"
   scheme: DDC-DE
   subject: "694 Holzbau, Zimmerhandwerk"
-- id: "https://www.dnb.de/ddcuebersichten/695"
+- id: "info:eu-repo/classification/ddc/695"
   scheme: DDC-DE
   subject: "695 Dachdeckung"
-- id: "https://www.dnb.de/ddcuebersichten/696"
+- id: "info:eu-repo/classification/ddc/696"
   scheme: DDC-DE
   subject: "696 Versorgungseinrichtungen"
-- id: "https://www.dnb.de/ddcuebersichten/697"
+- id: "info:eu-repo/classification/ddc/697"
   scheme: DDC-DE
   subject: "697 Heizungs-, Lüftungs-, Klimatechnik"
-- id: "https://www.dnb.de/ddcuebersichten/698"
+- id: "info:eu-repo/classification/ddc/698"
   scheme: DDC-DE
   subject: "698 Ausbau"
-- id: "https://www.dnb.de/ddcuebersichten/700"
+- id: "info:eu-repo/classification/ddc/700"
   scheme: DDC-DE
   subject: "700 Künste; Bildende und angewandte Kunst"
-- id: "https://www.dnb.de/ddcuebersichten/701"
+- id: "info:eu-repo/classification/ddc/701"
   scheme: DDC-DE
   subject: "701 Kunstphilosophie, Kunsttheorie der bildenden und angewandten Kunst"
-- id: "https://www.dnb.de/ddcuebersichten/702"
+- id: "info:eu-repo/classification/ddc/702"
   scheme: DDC-DE
   subject: "702 Verschiedenes zur bildenden und angewandten Kunst"
-- id: "https://www.dnb.de/ddcuebersichten/703"
+- id: "info:eu-repo/classification/ddc/703"
   scheme: DDC-DE
   subject: "703 Wörterbücher, Enzyklopädien zur bildenden und angewandten Kunst"
-- id: "https://www.dnb.de/ddcuebersichten/704"
+- id: "info:eu-repo/classification/ddc/704"
   scheme: DDC-DE
   subject: "704 Spezielle Themen zur bildenden und angewandten Kunst"
-- id: "https://www.dnb.de/ddcuebersichten/705"
+- id: "info:eu-repo/classification/ddc/705"
   scheme: DDC-DE
   subject: "705 Fortlaufende Sammelwerke zur bildenden und angewandten Kunst"
-- id: "https://www.dnb.de/ddcuebersichten/706"
+- id: "info:eu-repo/classification/ddc/706"
   scheme: DDC-DE
   subject: "706 Organisationen, Management der bildenden und angewandten Kunst"
-- id: "https://www.dnb.de/ddcuebersichten/707"
+- id: "info:eu-repo/classification/ddc/707"
   scheme: DDC-DE
   subject: "707 Ausbildung, Forschung, verwandte Themen zur bildenden und angewandten Kunst"
-- id: "https://www.dnb.de/ddcuebersichten/708"
+- id: "info:eu-repo/classification/ddc/708"
   scheme: DDC-DE
   subject: "708 Galerien, Museen, Privatsammlungen zur bildenden und angewandten Kunst"
-- id: "https://www.dnb.de/ddcuebersichten/709"
+- id: "info:eu-repo/classification/ddc/709"
   scheme: DDC-DE
   subject: "709 Historische, geografische, personenbezogene Behandlung der bildenden und angewandten Kunst"
-- id: "https://www.dnb.de/ddcuebersichten/710"
+- id: "info:eu-repo/classification/ddc/710"
   scheme: DDC-DE
   subject: "710 Städtebau, Raumplanung, Landschaftsgestaltung"
-- id: "https://www.dnb.de/ddcuebersichten/711"
+- id: "info:eu-repo/classification/ddc/711"
   scheme: DDC-DE
   subject: "711 Raumplanung"
-- id: "https://www.dnb.de/ddcuebersichten/712"
+- id: "info:eu-repo/classification/ddc/712"
   scheme: DDC-DE
   subject: "712 Landschaftsgestaltung"
-- id: "https://www.dnb.de/ddcuebersichten/713"
+- id: "info:eu-repo/classification/ddc/713"
   scheme: DDC-DE
   subject: "713 Landschaftsgestaltung von Verkehrswegen"
-- id: "https://www.dnb.de/ddcuebersichten/714"
+- id: "info:eu-repo/classification/ddc/714"
   scheme: DDC-DE
   subject: "714 Wasser als Gestaltungselement"
-- id: "https://www.dnb.de/ddcuebersichten/715"
+- id: "info:eu-repo/classification/ddc/715"
   scheme: DDC-DE
   subject: "715 Gehölze als Gestaltungselemente"
-- id: "https://www.dnb.de/ddcuebersichten/716"
+- id: "info:eu-repo/classification/ddc/716"
   scheme: DDC-DE
   subject: "716 Krautige Pflanzen als Gestaltungselemente"
-- id: "https://www.dnb.de/ddcuebersichten/717"
+- id: "info:eu-repo/classification/ddc/717"
   scheme: DDC-DE
   subject: "717 Andere Gestaltungselemente"
-- id: "https://www.dnb.de/ddcuebersichten/718"
+- id: "info:eu-repo/classification/ddc/718"
   scheme: DDC-DE
   subject: "718 Landschaftsgestaltung von Friedhöfen"
-- id: "https://www.dnb.de/ddcuebersichten/719"
+- id: "info:eu-repo/classification/ddc/719"
   scheme: DDC-DE
   subject: "719 Naturlandschaften"
-- id: "https://www.dnb.de/ddcuebersichten/720"
+- id: "info:eu-repo/classification/ddc/720"
   scheme: DDC-DE
   subject: "720 Architektur"
-- id: "https://www.dnb.de/ddcuebersichten/721"
+- id: "info:eu-repo/classification/ddc/721"
   scheme: DDC-DE
   subject: "721 Architektonische Struktur"
-- id: "https://www.dnb.de/ddcuebersichten/722"
+- id: "info:eu-repo/classification/ddc/722"
   scheme: DDC-DE
   subject: "722 Architektur bis ca. 300"
-- id: "https://www.dnb.de/ddcuebersichten/723"
+- id: "info:eu-repo/classification/ddc/723"
   scheme: DDC-DE
   subject: "723 Architektur von ca. 300 bis 1399"
-- id: "https://www.dnb.de/ddcuebersichten/724"
+- id: "info:eu-repo/classification/ddc/724"
   scheme: DDC-DE
   subject: "724 Architektur ab 1400"
-- id: "https://www.dnb.de/ddcuebersichten/725"
+- id: "info:eu-repo/classification/ddc/725"
   scheme: DDC-DE
   subject: "725 Öffentliche Bauwerke"
-- id: "https://www.dnb.de/ddcuebersichten/726"
+- id: "info:eu-repo/classification/ddc/726"
   scheme: DDC-DE
   subject: "726 Gebäude für religiöse und verwandte Zwecke"
-- id: "https://www.dnb.de/ddcuebersichten/727"
+- id: "info:eu-repo/classification/ddc/727"
   scheme: DDC-DE
   subject: "727 Gebäude für Lehr- und Forschungszwecke"
-- id: "https://www.dnb.de/ddcuebersichten/728"
+- id: "info:eu-repo/classification/ddc/728"
   scheme: DDC-DE
   subject: "728 Wohnbauten und verwandte Gebäude"
-- id: "https://www.dnb.de/ddcuebersichten/729"
+- id: "info:eu-repo/classification/ddc/729"
   scheme: DDC-DE
   subject: "729 Entwurf und Gestaltung, Innenarchitektur"
-- id: "https://www.dnb.de/ddcuebersichten/730"
+- id: "info:eu-repo/classification/ddc/730"
   scheme: DDC-DE
   subject: "730 Plastische Künste; Bildhauerkunst"
-- id: "https://www.dnb.de/ddcuebersichten/731"
+- id: "info:eu-repo/classification/ddc/731"
   scheme: DDC-DE
   subject: "731 Verfahren, Formen und Motive in der Bildhauerkunst"
-- id: "https://www.dnb.de/ddcuebersichten/732"
+- id: "info:eu-repo/classification/ddc/732"
   scheme: DDC-DE
   subject: "732 Bildhauerei bis ca. 500"
-- id: "https://www.dnb.de/ddcuebersichten/733"
+- id: "info:eu-repo/classification/ddc/733"
   scheme: DDC-DE
   subject: "733 Griechische, etruskische, römische Bildhauerkunst"
-- id: "https://www.dnb.de/ddcuebersichten/734"
+- id: "info:eu-repo/classification/ddc/734"
   scheme: DDC-DE
   subject: "734 Bildhauerkunst von ca. 500 bis 1399"
-- id: "https://www.dnb.de/ddcuebersichten/735"
+- id: "info:eu-repo/classification/ddc/735"
   scheme: DDC-DE
   subject: "735 Bildhauerkunst ab 1400"
-- id: "https://www.dnb.de/ddcuebersichten/736"
+- id: "info:eu-repo/classification/ddc/736"
   scheme: DDC-DE
   subject: "736 Schnitzen, Schnitzereien"
-- id: "https://www.dnb.de/ddcuebersichten/737"
+- id: "info:eu-repo/classification/ddc/737"
   scheme: DDC-DE
   subject: "737 Numismatik, Siegelkunde"
-- id: "https://www.dnb.de/ddcuebersichten/738"
+- id: "info:eu-repo/classification/ddc/738"
   scheme: DDC-DE
   subject: "738 Keramikkunst"
-- id: "https://www.dnb.de/ddcuebersichten/739"
+- id: "info:eu-repo/classification/ddc/739"
   scheme: DDC-DE
   subject: "739 Metallkunst"
-- id: "https://www.dnb.de/ddcuebersichten/740"
+- id: "info:eu-repo/classification/ddc/740"
   scheme: DDC-DE
   subject: "740 Zeichnung, angewandte Kunst"
-- id: "https://www.dnb.de/ddcuebersichten/741"
+- id: "info:eu-repo/classification/ddc/741"
   scheme: DDC-DE
   subject: "741 Zeichnung, Zeichnungen"
-- id: "https://www.dnb.de/ddcuebersichten/742"
+- id: "info:eu-repo/classification/ddc/742"
   scheme: DDC-DE
   subject: "742 Perspektive"
-- id: "https://www.dnb.de/ddcuebersichten/743"
+- id: "info:eu-repo/classification/ddc/743"
   scheme: DDC-DE
   subject: "743 Zeichnung und Zeichnungen nach Motiv"
-- id: "https://www.dnb.de/ddcuebersichten/745"
+- id: "info:eu-repo/classification/ddc/745"
   scheme: DDC-DE
   subject: "745 Angewandte Kunst"
-- id: "https://www.dnb.de/ddcuebersichten/746"
+- id: "info:eu-repo/classification/ddc/746"
   scheme: DDC-DE
   subject: "746 Textilkunst"
-- id: "https://www.dnb.de/ddcuebersichten/747"
+- id: "info:eu-repo/classification/ddc/747"
   scheme: DDC-DE
   subject: "747 Innendekoration"
-- id: "https://www.dnb.de/ddcuebersichten/748"
+- id: "info:eu-repo/classification/ddc/748"
   scheme: DDC-DE
   subject: "748 Glas"
-- id: "https://www.dnb.de/ddcuebersichten/749"
+- id: "info:eu-repo/classification/ddc/749"
   scheme: DDC-DE
   subject: "749 Möbel, Möbelzubehör"
-- id: "https://www.dnb.de/ddcuebersichten/750"
+- id: "info:eu-repo/classification/ddc/750"
   scheme: DDC-DE
   subject: "750 Malerei, Gemälde"
-- id: "https://www.dnb.de/ddcuebersichten/751"
+- id: "info:eu-repo/classification/ddc/751"
   scheme: DDC-DE
   subject: "751 Techniken, Ausstattung, Materialien, Formen"
-- id: "https://www.dnb.de/ddcuebersichten/752"
+- id: "info:eu-repo/classification/ddc/752"
   scheme: DDC-DE
   subject: "752 Farbe"
-- id: "https://www.dnb.de/ddcuebersichten/753"
+- id: "info:eu-repo/classification/ddc/753"
   scheme: DDC-DE
   subject: "753 Symbolik, Allegorie, Mythologie, Legende"
-- id: "https://www.dnb.de/ddcuebersichten/754"
+- id: "info:eu-repo/classification/ddc/754"
   scheme: DDC-DE
   subject: "754 Genremalerei"
-- id: "https://www.dnb.de/ddcuebersichten/755"
+- id: "info:eu-repo/classification/ddc/755"
   scheme: DDC-DE
   subject: "755 Religion"
-- id: "https://www.dnb.de/ddcuebersichten/757"
+- id: "info:eu-repo/classification/ddc/757"
   scheme: DDC-DE
   subject: "757 Menschliche Figuren"
-- id: "https://www.dnb.de/ddcuebersichten/758"
+- id: "info:eu-repo/classification/ddc/758"
   scheme: DDC-DE
   subject: "758 Andere Motive"
-- id: "https://www.dnb.de/ddcuebersichten/759"
+- id: "info:eu-repo/classification/ddc/759"
   scheme: DDC-DE
   subject: "759 Histor., geogr., personenbezogene Behandlung"
-- id: "https://www.dnb.de/ddcuebersichten/760"
+- id: "info:eu-repo/classification/ddc/760"
   scheme: DDC-DE
   subject: "760 Grafik; Druckgrafik, Drucke"
-- id: "https://www.dnb.de/ddcuebersichten/761"
+- id: "info:eu-repo/classification/ddc/761"
   scheme: DDC-DE
   subject: "761 Hochdruckverfahren (Blockdruck)"
-- id: "https://www.dnb.de/ddcuebersichten/763"
+- id: "info:eu-repo/classification/ddc/763"
   scheme: DDC-DE
   subject: "763 Lithografische Druckverfahren"
-- id: "https://www.dnb.de/ddcuebersichten/764"
+- id: "info:eu-repo/classification/ddc/764"
   scheme: DDC-DE
   subject: "764 Farblithografie, Serigrafie"
-- id: "https://www.dnb.de/ddcuebersichten/765"
+- id: "info:eu-repo/classification/ddc/765"
   scheme: DDC-DE
   subject: "765 Metallgravur"
-- id: "https://www.dnb.de/ddcuebersichten/766"
+- id: "info:eu-repo/classification/ddc/766"
   scheme: DDC-DE
   subject: "766 Mezzotinto, Aquatinta und verwandte Techniken"
-- id: "https://www.dnb.de/ddcuebersichten/767"
+- id: "info:eu-repo/classification/ddc/767"
   scheme: DDC-DE
   subject: "767 Radierung, Kaltnadelarbeit"
-- id: "https://www.dnb.de/ddcuebersichten/769"
+- id: "info:eu-repo/classification/ddc/769"
   scheme: DDC-DE
   subject: "769 Drucke"
-- id: "https://www.dnb.de/ddcuebersichten/770"
+- id: "info:eu-repo/classification/ddc/770"
   scheme: DDC-DE
   subject: "770 Fotografie, Fotografien, Computerkunst"
-- id: "https://www.dnb.de/ddcuebersichten/771"
+- id: "info:eu-repo/classification/ddc/771"
   scheme: DDC-DE
   subject: "771 Techniken, Ausstattung, Materialien"
-- id: "https://www.dnb.de/ddcuebersichten/772"
+- id: "info:eu-repo/classification/ddc/772"
   scheme: DDC-DE
   subject: "772 Entwicklungsverfahren mit Metallsalzen"
-- id: "https://www.dnb.de/ddcuebersichten/773"
+- id: "info:eu-repo/classification/ddc/773"
   scheme: DDC-DE
   subject: "773 Pigmentdruckverfahren"
-- id: "https://www.dnb.de/ddcuebersichten/774"
+- id: "info:eu-repo/classification/ddc/774"
   scheme: DDC-DE
   subject: "774 Holografie"
-- id: "https://www.dnb.de/ddcuebersichten/775"
+- id: "info:eu-repo/classification/ddc/775"
   scheme: DDC-DE
   subject: "775 Digitale Fotografie"
-- id: "https://www.dnb.de/ddcuebersichten/776"
+- id: "info:eu-repo/classification/ddc/776"
   scheme: DDC-DE
   subject: "776 Computerkunst (Digitale Kunst)"
-- id: "https://www.dnb.de/ddcuebersichten/778"
+- id: "info:eu-repo/classification/ddc/778"
   scheme: DDC-DE
   subject: "778 Bereiche und Arten der Fotografie"
-- id: "https://www.dnb.de/ddcuebersichten/779"
+- id: "info:eu-repo/classification/ddc/779"
   scheme: DDC-DE
   subject: "779 Fotografien"
-- id: "https://www.dnb.de/ddcuebersichten/780"
+- id: "info:eu-repo/classification/ddc/780"
   scheme: DDC-DE
   subject: "780 Musik"
-- id: "https://www.dnb.de/ddcuebersichten/781"
+- id: "info:eu-repo/classification/ddc/781"
   scheme: DDC-DE
   subject: "781 Allgemeine Prinzipien, musikalische Formen"
-- id: "https://www.dnb.de/ddcuebersichten/782"
+- id: "info:eu-repo/classification/ddc/782"
   scheme: DDC-DE
   subject: "782 Vokalmusik"
-- id: "https://www.dnb.de/ddcuebersichten/783"
+- id: "info:eu-repo/classification/ddc/783"
   scheme: DDC-DE
   subject: "783 Musik für Einzelstimmen; die Stimme"
-- id: "https://www.dnb.de/ddcuebersichten/784"
+- id: "info:eu-repo/classification/ddc/784"
   scheme: DDC-DE
   subject: "784 Instrumente, Instrumentalensembles"
-- id: "https://www.dnb.de/ddcuebersichten/785"
+- id: "info:eu-repo/classification/ddc/785"
   scheme: DDC-DE
   subject: "785 Ensembles mit einem Instrument pro Stimme"
-- id: "https://www.dnb.de/ddcuebersichten/786"
+- id: "info:eu-repo/classification/ddc/786"
   scheme: DDC-DE
   subject: "786 Tasteninstrumente, andere Instrumente"
-- id: "https://www.dnb.de/ddcuebersichten/787"
+- id: "info:eu-repo/classification/ddc/787"
   scheme: DDC-DE
   subject: "787 Saiteninstrumente"
-- id: "https://www.dnb.de/ddcuebersichten/788"
+- id: "info:eu-repo/classification/ddc/788"
   scheme: DDC-DE
   subject: "788 Blasinstrumente"
-- id: "https://www.dnb.de/ddcuebersichten/790"
+- id: "info:eu-repo/classification/ddc/790"
   scheme: DDC-DE
   subject: "790 Freizeitgestaltung, darstellende Künste, Sport"
-- id: "https://www.dnb.de/ddcuebersichten/791"
+- id: "info:eu-repo/classification/ddc/791"
   scheme: DDC-DE
   subject: "791 Öffentliche Darbietungen, Film, Rundfunk"
-- id: "https://www.dnb.de/ddcuebersichten/792"
+- id: "info:eu-repo/classification/ddc/792"
   scheme: DDC-DE
   subject: "792 Bühnenkunst"
-- id: "https://www.dnb.de/ddcuebersichten/793"
+- id: "info:eu-repo/classification/ddc/793"
   scheme: DDC-DE
   subject: "793 Spiele und Freizeitaktivitäten für drinnen"
-- id: "https://www.dnb.de/ddcuebersichten/794"
+- id: "info:eu-repo/classification/ddc/794"
   scheme: DDC-DE
   subject: "794 Unterhaltungsspiele für drinnen"
-- id: "https://www.dnb.de/ddcuebersichten/795"
+- id: "info:eu-repo/classification/ddc/795"
   scheme: DDC-DE
   subject: "795 Glücksspiele"
-- id: "https://www.dnb.de/ddcuebersichten/796"
+- id: "info:eu-repo/classification/ddc/796"
   scheme: DDC-DE
   subject: "796 Sportarten, Sportspiele"
-- id: "https://www.dnb.de/ddcuebersichten/797"
+- id: "info:eu-repo/classification/ddc/797"
   scheme: DDC-DE
   subject: "797 Wasser- und Luftsport"
-- id: "https://www.dnb.de/ddcuebersichten/798"
+- id: "info:eu-repo/classification/ddc/798"
   scheme: DDC-DE
   subject: "798 Pferdesport, Tierrennen"
-- id: "https://www.dnb.de/ddcuebersichten/799"
+- id: "info:eu-repo/classification/ddc/799"
   scheme: DDC-DE
   subject: "799 Fischfang, Jagd, Schießen"
-- id: "https://www.dnb.de/ddcuebersichten/800"
+- id: "info:eu-repo/classification/ddc/800"
   scheme: DDC-DE
   subject: "800 Literatur und Rhetorik"
-- id: "https://www.dnb.de/ddcuebersichten/801"
+- id: "info:eu-repo/classification/ddc/801"
   scheme: DDC-DE
   subject: "801 Literaturtheorie"
-- id: "https://www.dnb.de/ddcuebersichten/802"
+- id: "info:eu-repo/classification/ddc/802"
   scheme: DDC-DE
   subject: "802 Verschiedenes"
-- id: "https://www.dnb.de/ddcuebersichten/803"
+- id: "info:eu-repo/classification/ddc/803"
   scheme: DDC-DE
   subject: "803 Wörterbücher, Enzyklopädien"
-- id: "https://www.dnb.de/ddcuebersichten/805"
+- id: "info:eu-repo/classification/ddc/805"
   scheme: DDC-DE
   subject: "805 Fortlaufende Sammelwerke"
-- id: "https://www.dnb.de/ddcuebersichten/806"
+- id: "info:eu-repo/classification/ddc/806"
   scheme: DDC-DE
   subject: "806 Organisationen, Management"
-- id: "https://www.dnb.de/ddcuebersichten/807"
+- id: "info:eu-repo/classification/ddc/807"
   scheme: DDC-DE
   subject: "807 Ausbildung, Forschung, verwandte Themen"
-- id: "https://www.dnb.de/ddcuebersichten/808"
+- id: "info:eu-repo/classification/ddc/808"
   scheme: DDC-DE
   subject: "808 Rhetorik, Sammlungen von Literatur"
-- id: "https://www.dnb.de/ddcuebersichten/809"
+- id: "info:eu-repo/classification/ddc/809"
   scheme: DDC-DE
   subject: "809 Geschichte, Darstellung, Literaturwissenschaft und –kritik"
-- id: "https://www.dnb.de/ddcuebersichten/810"
+- id: "info:eu-repo/classification/ddc/810"
   scheme: DDC-DE
   subject: "810 Amerikanische Literatur in in Englisch"
-- id: "https://www.dnb.de/ddcuebersichten/811"
+- id: "info:eu-repo/classification/ddc/811"
   scheme: DDC-DE
   subject: "811 Amerikanische Versdichtung"
-- id: "https://www.dnb.de/ddcuebersichten/812"
+- id: "info:eu-repo/classification/ddc/812"
   scheme: DDC-DE
   subject: "812 Amerikanische Dramen"
-- id: "https://www.dnb.de/ddcuebersichten/813"
+- id: "info:eu-repo/classification/ddc/813"
   scheme: DDC-DE
   subject: "813 Amerikanische Erzählprosa"
-- id: "https://www.dnb.de/ddcuebersichten/814"
+- id: "info:eu-repo/classification/ddc/814"
   scheme: DDC-DE
   subject: "814 Amerikanische Essays"
-- id: "https://www.dnb.de/ddcuebersichten/815"
+- id: "info:eu-repo/classification/ddc/815"
   scheme: DDC-DE
   subject: "815 Amerikanische Reden"
-- id: "https://www.dnb.de/ddcuebersichten/816"
+- id: "info:eu-repo/classification/ddc/816"
   scheme: DDC-DE
   subject: "816 Amerikanische Briefe"
-- id: "https://www.dnb.de/ddcuebersichten/817"
+- id: "info:eu-repo/classification/ddc/817"
   scheme: DDC-DE
   subject: "817 Amerikanischer Humor, amerikanische Satire"
-- id: "https://www.dnb.de/ddcuebersichten/818"
+- id: "info:eu-repo/classification/ddc/818"
   scheme: DDC-DE
   subject: "818 Amerikanische vermischte Schriften"
-- id: "https://www.dnb.de/ddcuebersichten/820"
+- id: "info:eu-repo/classification/ddc/820"
   scheme: DDC-DE
   subject: "820 Englische, altenglische Literaturen"
-- id: "https://www.dnb.de/ddcuebersichten/821"
+- id: "info:eu-repo/classification/ddc/821"
   scheme: DDC-DE
   subject: "821 Englische Versdichtung"
-- id: "https://www.dnb.de/ddcuebersichten/822"
+- id: "info:eu-repo/classification/ddc/822"
   scheme: DDC-DE
   subject: "822 Englische Dramen"
-- id: "https://www.dnb.de/ddcuebersichten/823"
+- id: "info:eu-repo/classification/ddc/823"
   scheme: DDC-DE
   subject: "823 Englische Erzählprosa"
-- id: "https://www.dnb.de/ddcuebersichten/824"
+- id: "info:eu-repo/classification/ddc/824"
   scheme: DDC-DE
   subject: "824 Englische Essays"
-- id: "https://www.dnb.de/ddcuebersichten/825"
+- id: "info:eu-repo/classification/ddc/825"
   scheme: DDC-DE
   subject: "825 Englische Reden"
-- id: "https://www.dnb.de/ddcuebersichten/826"
+- id: "info:eu-repo/classification/ddc/826"
   scheme: DDC-DE
   subject: "826 Englische Briefe"
-- id: "https://www.dnb.de/ddcuebersichten/827"
+- id: "info:eu-repo/classification/ddc/827"
   scheme: DDC-DE
   subject: "827 Englischer Humor, englische Satire"
-- id: "https://www.dnb.de/ddcuebersichten/828"
+- id: "info:eu-repo/classification/ddc/828"
   scheme: DDC-DE
   subject: "828 Englische vermischte Schriften"
-- id: "https://www.dnb.de/ddcuebersichten/829"
+- id: "info:eu-repo/classification/ddc/829"
   scheme: DDC-DE
   subject: "829 Altenglische (Angelsächsische) Literatur"
-- id: "https://www.dnb.de/ddcuebersichten/830"
+- id: "info:eu-repo/classification/ddc/830"
   scheme: DDC-DE
   subject: "830 Literaturen germanischer Sprachen; Deutsche Literatur"
-- id: "https://www.dnb.de/ddcuebersichten/831"
+- id: "info:eu-repo/classification/ddc/831"
   scheme: DDC-DE
   subject: "831 Deutsche Versdichtung"
-- id: "https://www.dnb.de/ddcuebersichten/832"
+- id: "info:eu-repo/classification/ddc/832"
   scheme: DDC-DE
   subject: "832 Deutsche Dramen"
-- id: "https://www.dnb.de/ddcuebersichten/833"
+- id: "info:eu-repo/classification/ddc/833"
   scheme: DDC-DE
   subject: "833 Deutsche Erzählprosa"
-- id: "https://www.dnb.de/ddcuebersichten/834"
+- id: "info:eu-repo/classification/ddc/834"
   scheme: DDC-DE
   subject: "834 Deutsche Essays"
-- id: "https://www.dnb.de/ddcuebersichten/835"
+- id: "info:eu-repo/classification/ddc/835"
   scheme: DDC-DE
   subject: "835 Deutsche Reden"
-- id: "https://www.dnb.de/ddcuebersichten/836"
+- id: "info:eu-repo/classification/ddc/836"
   scheme: DDC-DE
   subject: "836 Deutsche Briefe"
-- id: "https://www.dnb.de/ddcuebersichten/837"
+- id: "info:eu-repo/classification/ddc/837"
   scheme: DDC-DE
   subject: "837 Deutscher Humor, deutsche Satire"
-- id: "https://www.dnb.de/ddcuebersichten/838"
+- id: "info:eu-repo/classification/ddc/838"
   scheme: DDC-DE
   subject: "838 Deutsche vermischte Schriften"
-- id: "https://www.dnb.de/ddcuebersichten/839"
+- id: "info:eu-repo/classification/ddc/839"
   scheme: DDC-DE
   subject: "839 Andere germanische Literaturen"
-- id: "https://www.dnb.de/ddcuebersichten/840"
+- id: "info:eu-repo/classification/ddc/840"
   scheme: DDC-DE
   subject: "840 Literaturen romanischer Sprachen; Französische Literatur"
-- id: "https://www.dnb.de/ddcuebersichten/841"
+- id: "info:eu-repo/classification/ddc/841"
   scheme: DDC-DE
   subject: "841 Französische Versdichtung"
-- id: "https://www.dnb.de/ddcuebersichten/842"
+- id: "info:eu-repo/classification/ddc/842"
   scheme: DDC-DE
   subject: "842 Französische Dramen"
-- id: "https://www.dnb.de/ddcuebersichten/843"
+- id: "info:eu-repo/classification/ddc/843"
   scheme: DDC-DE
   subject: "843 Französische Erzählprosa"
-- id: "https://www.dnb.de/ddcuebersichten/844"
+- id: "info:eu-repo/classification/ddc/844"
   scheme: DDC-DE
   subject: "844 Französische Essays"
-- id: "https://www.dnb.de/ddcuebersichten/845"
+- id: "info:eu-repo/classification/ddc/845"
   scheme: DDC-DE
   subject: "845 Französische Reden"
-- id: "https://www.dnb.de/ddcuebersichten/846"
+- id: "info:eu-repo/classification/ddc/846"
   scheme: DDC-DE
   subject: "846 Französische Briefe"
-- id: "https://www.dnb.de/ddcuebersichten/847"
+- id: "info:eu-repo/classification/ddc/847"
   scheme: DDC-DE
   subject: "847 Französischer Humor, französische Satire"
-- id: "https://www.dnb.de/ddcuebersichten/848"
+- id: "info:eu-repo/classification/ddc/848"
   scheme: DDC-DE
   subject: "848 Französische vermischte Schriften"
-- id: "https://www.dnb.de/ddcuebersichten/849"
+- id: "info:eu-repo/classification/ddc/849"
   scheme: DDC-DE
   subject: "849 Okzitanische, katalanische Literaturen"
-- id: "https://www.dnb.de/ddcuebersichten/850"
+- id: "info:eu-repo/classification/ddc/850"
   scheme: DDC-DE
   subject: "850 Italienische, rumänische, rätoromanische Literaturen"
-- id: "https://www.dnb.de/ddcuebersichten/851"
+- id: "info:eu-repo/classification/ddc/851"
   scheme: DDC-DE
   subject: "851 Italienische Versdichtung"
-- id: "https://www.dnb.de/ddcuebersichten/852"
+- id: "info:eu-repo/classification/ddc/852"
   scheme: DDC-DE
   subject: "852 Italienische Dramen"
-- id: "https://www.dnb.de/ddcuebersichten/853"
+- id: "info:eu-repo/classification/ddc/853"
   scheme: DDC-DE
   subject: "853 Italienische Erzählprosa"
-- id: "https://www.dnb.de/ddcuebersichten/854"
+- id: "info:eu-repo/classification/ddc/854"
   scheme: DDC-DE
   subject: "854 Italienische Essays"
-- id: "https://www.dnb.de/ddcuebersichten/855"
+- id: "info:eu-repo/classification/ddc/855"
   scheme: DDC-DE
   subject: "855 Italienische Reden"
-- id: "https://www.dnb.de/ddcuebersichten/856"
+- id: "info:eu-repo/classification/ddc/856"
   scheme: DDC-DE
   subject: "856 Italienische Briefe"
-- id: "https://www.dnb.de/ddcuebersichten/857"
+- id: "info:eu-repo/classification/ddc/857"
   scheme: DDC-DE
   subject: "857 Italienischer Humor, italienische Satire"
-- id: "https://www.dnb.de/ddcuebersichten/858"
+- id: "info:eu-repo/classification/ddc/858"
   scheme: DDC-DE
   subject: "858 Italienische vermischte Schriften"
-- id: "https://www.dnb.de/ddcuebersichten/859"
+- id: "info:eu-repo/classification/ddc/859"
   scheme: DDC-DE
   subject: "859 Rumänische, rätoromanische Literaturen"
-- id: "https://www.dnb.de/ddcuebersichten/860"
+- id: "info:eu-repo/classification/ddc/860"
   scheme: DDC-DE
   subject: "860 Spanische, portugiesische Literaturen"
-- id: "https://www.dnb.de/ddcuebersichten/861"
+- id: "info:eu-repo/classification/ddc/861"
   scheme: DDC-DE
   subject: "861 Spanische Versdichtung"
-- id: "https://www.dnb.de/ddcuebersichten/862"
+- id: "info:eu-repo/classification/ddc/862"
   scheme: DDC-DE
   subject: "862 Spanische Dramen"
-- id: "https://www.dnb.de/ddcuebersichten/863"
+- id: "info:eu-repo/classification/ddc/863"
   scheme: DDC-DE
   subject: "863 Spanische Erzählprosa"
-- id: "https://www.dnb.de/ddcuebersichten/864"
+- id: "info:eu-repo/classification/ddc/864"
   scheme: DDC-DE
   subject: "864 Spanische Essays"
-- id: "https://www.dnb.de/ddcuebersichten/865"
+- id: "info:eu-repo/classification/ddc/865"
   scheme: DDC-DE
   subject: "865 Spanische Reden"
-- id: "https://www.dnb.de/ddcuebersichten/866"
+- id: "info:eu-repo/classification/ddc/866"
   scheme: DDC-DE
   subject: "866 Spanische Briefe"
-- id: "https://www.dnb.de/ddcuebersichten/867"
+- id: "info:eu-repo/classification/ddc/867"
   scheme: DDC-DE
   subject: "867 Spanischer Humor, spanische Satire"
-- id: "https://www.dnb.de/ddcuebersichten/868"
+- id: "info:eu-repo/classification/ddc/868"
   scheme: DDC-DE
   subject: "868 Spanische vermischte Schriften"
-- id: "https://www.dnb.de/ddcuebersichten/869"
+- id: "info:eu-repo/classification/ddc/869"
   scheme: DDC-DE
   subject: "869 Portugiesische Literatur"
-- id: "https://www.dnb.de/ddcuebersichten/870"
+- id: "info:eu-repo/classification/ddc/870"
   scheme: DDC-DE
   subject: "870 Italische Literaturen; Lateinische Literatur"
-- id: "https://www.dnb.de/ddcuebersichten/871"
+- id: "info:eu-repo/classification/ddc/871"
   scheme: DDC-DE
   subject: "871 Lateinische Versdichtung"
-- id: "https://www.dnb.de/ddcuebersichten/872"
+- id: "info:eu-repo/classification/ddc/872"
   scheme: DDC-DE
   subject: "872 Lateinische dramatische Versdichtung, Dramen"
-- id: "https://www.dnb.de/ddcuebersichten/873"
+- id: "info:eu-repo/classification/ddc/873"
   scheme: DDC-DE
   subject: "873 Lateinische erzählende Versdichtung, Erzählprosa"
-- id: "https://www.dnb.de/ddcuebersichten/874"
+- id: "info:eu-repo/classification/ddc/874"
   scheme: DDC-DE
   subject: "874 Lateinische lyrische Versdichtung"
-- id: "https://www.dnb.de/ddcuebersichten/875"
+- id: "info:eu-repo/classification/ddc/875"
   scheme: DDC-DE
   subject: "875 Lateinische Reden"
-- id: "https://www.dnb.de/ddcuebersichten/876"
+- id: "info:eu-repo/classification/ddc/876"
   scheme: DDC-DE
   subject: "876 Lateinische Briefe"
-- id: "https://www.dnb.de/ddcuebersichten/877"
+- id: "info:eu-repo/classification/ddc/877"
   scheme: DDC-DE
   subject: "877 Lateinischer Humor, lateinische Satire"
-- id: "https://www.dnb.de/ddcuebersichten/878"
+- id: "info:eu-repo/classification/ddc/878"
   scheme: DDC-DE
   subject: "878 Lateinische vermischte Schriften"
-- id: "https://www.dnb.de/ddcuebersichten/879"
+- id: "info:eu-repo/classification/ddc/879"
   scheme: DDC-DE
   subject: "879 Literaturen anderer italischer Sprachen"
-- id: "https://www.dnb.de/ddcuebersichten/880"
+- id: "info:eu-repo/classification/ddc/880"
   scheme: DDC-DE
   subject: "880 Hellenische Literaturen; Klassische griechische Literatur"
-- id: "https://www.dnb.de/ddcuebersichten/881"
+- id: "info:eu-repo/classification/ddc/881"
   scheme: DDC-DE
   subject: "881 Klassische griechische Versdichtung"
-- id: "https://www.dnb.de/ddcuebersichten/882"
+- id: "info:eu-repo/classification/ddc/882"
   scheme: DDC-DE
   subject: "882 Klassische griechische dramatische Versdichtung, Dramen"
-- id: "https://www.dnb.de/ddcuebersichten/883"
+- id: "info:eu-repo/classification/ddc/883"
   scheme: DDC-DE
   subject: "883 Klassische griechische erzählende Versdichtung, Erzählprosa"
-- id: "https://www.dnb.de/ddcuebersichten/884"
+- id: "info:eu-repo/classification/ddc/884"
   scheme: DDC-DE
   subject: "884 Klassische griechische lyrische Versdichtung"
-- id: "https://www.dnb.de/ddcuebersichten/885"
+- id: "info:eu-repo/classification/ddc/885"
   scheme: DDC-DE
   subject: "885 Klassische griechische Reden"
-- id: "https://www.dnb.de/ddcuebersichten/886"
+- id: "info:eu-repo/classification/ddc/886"
   scheme: DDC-DE
   subject: "886 Klassische griechische Briefe"
-- id: "https://www.dnb.de/ddcuebersichten/887"
+- id: "info:eu-repo/classification/ddc/887"
   scheme: DDC-DE
   subject: "887 Humor und Satire in klassischem Griechisch"
-- id: "https://www.dnb.de/ddcuebersichten/888"
+- id: "info:eu-repo/classification/ddc/888"
   scheme: DDC-DE
   subject: "888 Klassische griechische vermischte Schriften"
-- id: "https://www.dnb.de/ddcuebersichten/889"
+- id: "info:eu-repo/classification/ddc/889"
   scheme: DDC-DE
   subject: "889 Neugriechische Literatur"
-- id: "https://www.dnb.de/ddcuebersichten/890"
+- id: "info:eu-repo/classification/ddc/890"
   scheme: DDC-DE
   subject: "890 Literaturen anderer Sprachen"
-- id: "https://www.dnb.de/ddcuebersichten/891"
+- id: "info:eu-repo/classification/ddc/891"
   scheme: DDC-DE
   subject: "891 Ostindoeuropäische, keltische Literaturen"
-- id: "https://www.dnb.de/ddcuebersichten/892"
+- id: "info:eu-repo/classification/ddc/892"
   scheme: DDC-DE
   subject: "892 Afroasiatische Literaturen; Semitische Literaturen"
-- id: "https://www.dnb.de/ddcuebersichten/893"
+- id: "info:eu-repo/classification/ddc/893"
   scheme: DDC-DE
   subject: "893 Nichtsemitische afroasiatische Literaturen"
-- id: "https://www.dnb.de/ddcuebersichten/894"
+- id: "info:eu-repo/classification/ddc/894"
   scheme: DDC-DE
   subject: "894 Altaische, uralische, paläosibirische, drawidische Literaturen"
-- id: "https://www.dnb.de/ddcuebersichten/895"
+- id: "info:eu-repo/classification/ddc/895"
   scheme: DDC-DE
   subject: "895 Ost- und südostasiatische Literaturen"
-- id: "https://www.dnb.de/ddcuebersichten/896"
+- id: "info:eu-repo/classification/ddc/896"
   scheme: DDC-DE
   subject: "896 Afrikanische Literaturen"
-- id: "https://www.dnb.de/ddcuebersichten/897"
+- id: "info:eu-repo/classification/ddc/897"
   scheme: DDC-DE
   subject: "897 Literaturen nordamerikanischer Indianersprachen"
-- id: "https://www.dnb.de/ddcuebersichten/898"
+- id: "info:eu-repo/classification/ddc/898"
   scheme: DDC-DE
   subject: "898 Literaturen südamerikanischer Indianersprachen"
-- id: "https://www.dnb.de/ddcuebersichten/899"
+- id: "info:eu-repo/classification/ddc/899"
   scheme: DDC-DE
   subject: "899 Austronesische und andere Literaturen"
-- id: "https://www.dnb.de/ddcuebersichten/900"
+- id: "info:eu-repo/classification/ddc/900"
   scheme: DDC-DE
   subject: "900 Geschichte und Geografie"
-- id: "https://www.dnb.de/ddcuebersichten/901"
+- id: "info:eu-repo/classification/ddc/901"
   scheme: DDC-DE
   subject: "901 Geschichtsphilosophie, Geschichtstheorie"
-- id: "https://www.dnb.de/ddcuebersichten/902"
+- id: "info:eu-repo/classification/ddc/902"
   scheme: DDC-DE
   subject: "902 Verschiedenes"
-- id: "https://www.dnb.de/ddcuebersichten/903"
+- id: "info:eu-repo/classification/ddc/903"
   scheme: DDC-DE
   subject: "903 Wörterbücher, Enzyklopädien"
-- id: "https://www.dnb.de/ddcuebersichten/904"
+- id: "info:eu-repo/classification/ddc/904"
   scheme: DDC-DE
   subject: "904 Allgemeine Darstellungen von Ereignissen"
-- id: "https://www.dnb.de/ddcuebersichten/905"
+- id: "info:eu-repo/classification/ddc/905"
   scheme: DDC-DE
   subject: "905 Fortlaufende Sammelwerke"
-- id: "https://www.dnb.de/ddcuebersichten/906"
+- id: "info:eu-repo/classification/ddc/906"
   scheme: DDC-DE
   subject: "906 Organisationen, Management"
-- id: "https://www.dnb.de/ddcuebersichten/907"
+- id: "info:eu-repo/classification/ddc/907"
   scheme: DDC-DE
   subject: "907 Ausbildung, Forschung, verwandte Themen"
-- id: "https://www.dnb.de/ddcuebersichten/908"
+- id: "info:eu-repo/classification/ddc/908"
   scheme: DDC-DE
   subject: "908 Behandlung nach Personengruppen"
-- id: "https://www.dnb.de/ddcuebersichten/909"
+- id: "info:eu-repo/classification/ddc/909"
   scheme: DDC-DE
   subject: "909 Weltgeschichte"
-- id: "https://www.dnb.de/ddcuebersichten/910"
+- id: "info:eu-repo/classification/ddc/910"
   scheme: DDC-DE
   subject: "910 Geografie, Reisen"
-- id: "https://www.dnb.de/ddcuebersichten/911"
+- id: "info:eu-repo/classification/ddc/911"
   scheme: DDC-DE
   subject: "911 Historische Geografie"
-- id: "https://www.dnb.de/ddcuebersichten/912"
+- id: "info:eu-repo/classification/ddc/912"
   scheme: DDC-DE
   subject: "912 Atlanten, Karten, Grafiken, Pläne"
-- id: "https://www.dnb.de/ddcuebersichten/913"
+- id: "info:eu-repo/classification/ddc/913"
   scheme: DDC-DE
   subject: "913 Geografie der und Reisen in der Alten Welt"
-- id: "https://www.dnb.de/ddcuebersichten/914"
+- id: "info:eu-repo/classification/ddc/914"
   scheme: DDC-DE
   subject: "914 Geografie Europas und Reisen in Europa"
-- id: "https://www.dnb.de/ddcuebersichten/915"
+- id: "info:eu-repo/classification/ddc/915"
   scheme: DDC-DE
   subject: "915 Geografie Asiens und Reisen in Asien"
-- id: "https://www.dnb.de/ddcuebersichten/916"
+- id: "info:eu-repo/classification/ddc/916"
   scheme: DDC-DE
   subject: "916 Geografie Afrikas und Reisen in Afrika"
-- id: "https://www.dnb.de/ddcuebersichten/917"
+- id: "info:eu-repo/classification/ddc/917"
   scheme: DDC-DE
   subject: "917 Geografie Nordamerikas und Reisen in Nordamerika"
-- id: "https://www.dnb.de/ddcuebersichten/918"
+- id: "info:eu-repo/classification/ddc/918"
   scheme: DDC-DE
   subject: "918 Geografie Südamerikas und Reisen in Südamerika"
-- id: "https://www.dnb.de/ddcuebersichten/919"
+- id: "info:eu-repo/classification/ddc/919"
   scheme: DDC-DE
   subject: "919 Geografie anderer Gebiete und Reisen in anderen Gebieten"
-- id: "https://www.dnb.de/ddcuebersichten/920"
+- id: "info:eu-repo/classification/ddc/920"
   scheme: DDC-DE
   subject: "920 Biografien, Genealogie, Insignien"
-- id: "https://www.dnb.de/ddcuebersichten/929"
+- id: "info:eu-repo/classification/ddc/929"
   scheme: DDC-DE
   subject: "929 Genealogie, Namenkunde, Insignien"
-- id: "https://www.dnb.de/ddcuebersichten/930"
+- id: "info:eu-repo/classification/ddc/930"
   scheme: DDC-DE
   subject: "930 Geschichte des Altertums bis ca. 499, Archäologie"
-- id: "https://www.dnb.de/ddcuebersichten/931"
+- id: "info:eu-repo/classification/ddc/931"
   scheme: DDC-DE
   subject: "931 Geschichte Chinas bis 420"
-- id: "https://www.dnb.de/ddcuebersichten/932"
+- id: "info:eu-repo/classification/ddc/932"
   scheme: DDC-DE
   subject: "932 Geschichte Ägyptens bis 640"
-- id: "https://www.dnb.de/ddcuebersichten/933"
+- id: "info:eu-repo/classification/ddc/933"
   scheme: DDC-DE
   subject: "933 Geschichte Palästinas bis 70"
-- id: "https://www.dnb.de/ddcuebersichten/934"
+- id: "info:eu-repo/classification/ddc/934"
   scheme: DDC-DE
   subject: "934 Geschichte Indiens bis 647"
-- id: "https://www.dnb.de/ddcuebersichten/935"
+- id: "info:eu-repo/classification/ddc/935"
   scheme: DDC-DE
   subject: "935 Geschichte Mesopotamiens und der iranischen Hochebene bis 637"
-- id: "https://www.dnb.de/ddcuebersichten/936"
+- id: "info:eu-repo/classification/ddc/936"
   scheme: DDC-DE
   subject: "936 Geschichte Europas nördlich und westlich von Italien bis ca. 499"
-- id: "https://www.dnb.de/ddcuebersichten/937"
+- id: "info:eu-repo/classification/ddc/937"
   scheme: DDC-DE
   subject: "937 Geschichte Italiens und benachbarter Gebiete bis 476"
-- id: "https://www.dnb.de/ddcuebersichten/938"
+- id: "info:eu-repo/classification/ddc/938"
   scheme: DDC-DE
   subject: "938 Geschichte Griechenlands bis 323"
-- id: "https://www.dnb.de/ddcuebersichten/939"
+- id: "info:eu-repo/classification/ddc/939"
   scheme: DDC-DE
   subject: "939 Geschichte anderer Teile der Welt bis ca. 640"
-- id: "https://www.dnb.de/ddcuebersichten/940"
+- id: "info:eu-repo/classification/ddc/940"
   scheme: DDC-DE
   subject: "940 Geschichte Europas"
-- id: "https://www.dnb.de/ddcuebersichten/941"
+- id: "info:eu-repo/classification/ddc/941"
   scheme: DDC-DE
   subject: "941 Geschichte der Britischen Inseln"
-- id: "https://www.dnb.de/ddcuebersichten/942"
+- id: "info:eu-repo/classification/ddc/942"
   scheme: DDC-DE
   subject: "942 Geschichte Englands und Wales’"
-- id: "https://www.dnb.de/ddcuebersichten/943"
+- id: "info:eu-repo/classification/ddc/943"
   scheme: DDC-DE
   subject: "943 Geschichte Mitteleuropas; Deutschlands"
-- id: "https://www.dnb.de/ddcuebersichten/944"
+- id: "info:eu-repo/classification/ddc/944"
   scheme: DDC-DE
   subject: "944 Geschichte Frankreichs und Monacos"
-- id: "https://www.dnb.de/ddcuebersichten/945"
+- id: "info:eu-repo/classification/ddc/945"
   scheme: DDC-DE
   subject: "945 Geschichte der italienische Halbinsel und benachbarter Inseln"
-- id: "https://www.dnb.de/ddcuebersichten/946"
+- id: "info:eu-repo/classification/ddc/946"
   scheme: DDC-DE
   subject: "946 Geschichte der iberischen Halbinsel und benachbarter Inseln"
-- id: "https://www.dnb.de/ddcuebersichten/947"
+- id: "info:eu-repo/classification/ddc/947"
   scheme: DDC-DE
   subject: "947 Geschichte Osteuropas; Russlands"
-- id: "https://www.dnb.de/ddcuebersichten/948"
+- id: "info:eu-repo/classification/ddc/948"
   scheme: DDC-DE
   subject: "948 Geschichte Skandinaviens"
-- id: "https://www.dnb.de/ddcuebersichten/949"
+- id: "info:eu-repo/classification/ddc/949"
   scheme: DDC-DE
   subject: "949 Geschichte anderer Teile Europas"
-- id: "https://www.dnb.de/ddcuebersichten/950"
+- id: "info:eu-repo/classification/ddc/950"
   scheme: DDC-DE
   subject: "950 Geschichte Asiens; des Fernen Ostens"
-- id: "https://www.dnb.de/ddcuebersichten/951"
+- id: "info:eu-repo/classification/ddc/951"
   scheme: DDC-DE
   subject: "951 Geschichte Chinas und benachbarter Gebiete"
-- id: "https://www.dnb.de/ddcuebersichten/952"
+- id: "info:eu-repo/classification/ddc/952"
   scheme: DDC-DE
   subject: "952 Geschichte Japans"
-- id: "https://www.dnb.de/ddcuebersichten/953"
+- id: "info:eu-repo/classification/ddc/953"
   scheme: DDC-DE
   subject: "953 Geschichte der arabischen Halbinsel und benachbarter Gebiete"
-- id: "https://www.dnb.de/ddcuebersichten/954"
+- id: "info:eu-repo/classification/ddc/954"
   scheme: DDC-DE
   subject: "954 Geschichte Südasiens; Indiens"
-- id: "https://www.dnb.de/ddcuebersichten/955"
+- id: "info:eu-repo/classification/ddc/955"
   scheme: DDC-DE
   subject: "955 Geschichte Irans"
-- id: "https://www.dnb.de/ddcuebersichten/956"
+- id: "info:eu-repo/classification/ddc/956"
   scheme: DDC-DE
   subject: "956 Geschichte des Nahen Ostens (Mittleren Ostens)"
-- id: "https://www.dnb.de/ddcuebersichten/957"
+- id: "info:eu-repo/classification/ddc/957"
   scheme: DDC-DE
   subject: "957 Geschichte Sibiriens (der Asiatischen Russlands)"
-- id: "https://www.dnb.de/ddcuebersichten/958"
+- id: "info:eu-repo/classification/ddc/958"
   scheme: DDC-DE
   subject: "958 Geschichte Zentralasiens"
-- id: "https://www.dnb.de/ddcuebersichten/959"
+- id: "info:eu-repo/classification/ddc/959"
   scheme: DDC-DE
   subject: "959 Geschichte Südostasiens"
-- id: "https://www.dnb.de/ddcuebersichten/960"
+- id: "info:eu-repo/classification/ddc/960"
   scheme: DDC-DE
   subject: "960 Geschichte Afrikas"
-- id: "https://www.dnb.de/ddcuebersichten/961"
+- id: "info:eu-repo/classification/ddc/961"
   scheme: DDC-DE
   subject: "961 Geschichte Tunesiens und Libyens"
-- id: "https://www.dnb.de/ddcuebersichten/962"
+- id: "info:eu-repo/classification/ddc/962"
   scheme: DDC-DE
   subject: "962 Geschichte Ägyptens und Sudans"
-- id: "https://www.dnb.de/ddcuebersichten/963"
+- id: "info:eu-repo/classification/ddc/963"
   scheme: DDC-DE
   subject: "963 Geschichte Äthiopiens und Eritreas"
-- id: "https://www.dnb.de/ddcuebersichten/964"
+- id: "info:eu-repo/classification/ddc/964"
   scheme: DDC-DE
   subject: "964 Geschichte der nordwestafrikanischen Küste und vorgelagerter Inseln"
-- id: "https://www.dnb.de/ddcuebersichten/965"
+- id: "info:eu-repo/classification/ddc/965"
   scheme: DDC-DE
   subject: "965 Geschichte Algeriens"
-- id: "https://www.dnb.de/ddcuebersichten/966"
+- id: "info:eu-repo/classification/ddc/966"
   scheme: DDC-DE
   subject: "966 Geschichte Westafrikas und vorgelagerter Inseln"
-- id: "https://www.dnb.de/ddcuebersichten/967"
+- id: "info:eu-repo/classification/ddc/967"
   scheme: DDC-DE
   subject: "967 Geschichte Zentralafrikas und vorgelagerter Inseln"
-- id: "https://www.dnb.de/ddcuebersichten/968"
+- id: "info:eu-repo/classification/ddc/968"
   scheme: DDC-DE
   subject: "968 Geschichte Südafrikas; der Republik Südafrika"
-- id: "https://www.dnb.de/ddcuebersichten/969"
+- id: "info:eu-repo/classification/ddc/969"
   scheme: DDC-DE
   subject: "969 Geschichte der Inseln im südlichen Indischen Ozean"
-- id: "https://www.dnb.de/ddcuebersichten/970"
+- id: "info:eu-repo/classification/ddc/970"
   scheme: DDC-DE
   subject: "970 Geschichte Nordamerikas"
-- id: "https://www.dnb.de/ddcuebersichten/971"
+- id: "info:eu-repo/classification/ddc/971"
   scheme: DDC-DE
   subject: "971 Geschichte Kanadas"
-- id: "https://www.dnb.de/ddcuebersichten/972"
+- id: "info:eu-repo/classification/ddc/972"
   scheme: DDC-DE
   subject: "972 Geschichte Mittelamerikas; Mexikos"
-- id: "https://www.dnb.de/ddcuebersichten/973"
+- id: "info:eu-repo/classification/ddc/973"
   scheme: DDC-DE
   subject: "973 Geschichte der USA"
-- id: "https://www.dnb.de/ddcuebersichten/974"
+- id: "info:eu-repo/classification/ddc/974"
   scheme: DDC-DE
   subject: "974 Geschichte der nordöstlichen Staaten der USA"
-- id: "https://www.dnb.de/ddcuebersichten/975"
+- id: "info:eu-repo/classification/ddc/975"
   scheme: DDC-DE
   subject: "975 Geschichte der südöstlichen Staaten der USA"
-- id: "https://www.dnb.de/ddcuebersichten/976"
+- id: "info:eu-repo/classification/ddc/976"
   scheme: DDC-DE
   subject: "976 Geschichte der südlichen zentralen Staaten der USA"
-- id: "https://www.dnb.de/ddcuebersichten/977"
+- id: "info:eu-repo/classification/ddc/977"
   scheme: DDC-DE
   subject: "977 Geschichte der nördlichen zentralen Staaten der USA"
-- id: "https://www.dnb.de/ddcuebersichten/978"
+- id: "info:eu-repo/classification/ddc/978"
   scheme: DDC-DE
   subject: "978 Geschichte der westlichen Staaten der USA"
-- id: "https://www.dnb.de/ddcuebersichten/979"
+- id: "info:eu-repo/classification/ddc/979"
   scheme: DDC-DE
   subject: "979 Geschichte der Staaten des Großen Beckens und der pazifischen Gebirgsketten"
-- id: "https://www.dnb.de/ddcuebersichten/980"
+- id: "info:eu-repo/classification/ddc/980"
   scheme: DDC-DE
   subject: "980 Geschichte Südamerikas"
-- id: "https://www.dnb.de/ddcuebersichten/981"
+- id: "info:eu-repo/classification/ddc/981"
   scheme: DDC-DE
   subject: "981 Geschichte Brasiliens"
-- id: "https://www.dnb.de/ddcuebersichten/982"
+- id: "info:eu-repo/classification/ddc/982"
   scheme: DDC-DE
   subject: "982 Geschichte Argentiniens"
-- id: "https://www.dnb.de/ddcuebersichten/983"
+- id: "info:eu-repo/classification/ddc/983"
   scheme: DDC-DE
   subject: "983 Geschichte Chiles"
-- id: "https://www.dnb.de/ddcuebersichten/984"
+- id: "info:eu-repo/classification/ddc/984"
   scheme: DDC-DE
   subject: "984 Geschichte Boliviens"
-- id: "https://www.dnb.de/ddcuebersichten/985"
+- id: "info:eu-repo/classification/ddc/985"
   scheme: DDC-DE
   subject: "985 Geschichte Perus"
-- id: "https://www.dnb.de/ddcuebersichten/986"
+- id: "info:eu-repo/classification/ddc/986"
   scheme: DDC-DE
   subject: "986 Geschichte Kolumbiens und Ecuadors"
-- id: "https://www.dnb.de/ddcuebersichten/987"
+- id: "info:eu-repo/classification/ddc/987"
   scheme: DDC-DE
   subject: "987 Geschichte Venezuelas"
-- id: "https://www.dnb.de/ddcuebersichten/988"
+- id: "info:eu-repo/classification/ddc/988"
   scheme: DDC-DE
   subject: "988 Geschichte Guayanas"
-- id: "https://www.dnb.de/ddcuebersichten/989"
+- id: "info:eu-repo/classification/ddc/989"
   scheme: DDC-DE
   subject: "989 Geschichte Paraguays und Uruguays"
-- id: "https://www.dnb.de/ddcuebersichten/990"
+- id: "info:eu-repo/classification/ddc/990"
   scheme: DDC-DE
   subject: "990 Geschichte anderer Gebiete"
-- id: "https://www.dnb.de/ddcuebersichten/993"
+- id: "info:eu-repo/classification/ddc/993"
   scheme: DDC-DE
   subject: "993 Geschichte Neuseelands"
-- id: "https://www.dnb.de/ddcuebersichten/994"
+- id: "info:eu-repo/classification/ddc/994"
   scheme: DDC-DE
   subject: "994 Geschichte Australiens"
-- id: "https://www.dnb.de/ddcuebersichten/995"
+- id: "info:eu-repo/classification/ddc/995"
   scheme: DDC-DE
   subject: "995 Geschichte Melanesiens; Neuguineas"
-- id: "https://www.dnb.de/ddcuebersichten/996"
+- id: "info:eu-repo/classification/ddc/996"
   scheme: DDC-DE
   subject: "996 Geschichte anderer Teile des Pazifischen Ozeans; Polynesiens"
-- id: "https://www.dnb.de/ddcuebersichten/997"
+- id: "info:eu-repo/classification/ddc/997"
   scheme: DDC-DE
   subject: "997 Geschichte der atlantischen Inseln"
-- id: "https://www.dnb.de/ddcuebersichten/998"
+- id: "info:eu-repo/classification/ddc/998"
   scheme: DDC-DE
   subject: "998 Geschichte der arktischen Inseln und der Antarktis"
-- id: "https://www.dnb.de/ddcuebersichten/999"
+- id: "info:eu-repo/classification/ddc/999"
   scheme: DDC-DE
   subject: "999 Geschichte der außerirdischen Welten"
